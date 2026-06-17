@@ -61,7 +61,12 @@ export function MapView() {
 
     map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-right');
 
+    map.on('error', (e) => {
+      console.error('[MapLibre]', e.error);
+    });
+
     map.on('load', () => {
+      map.resize();
       map.setProjection({ type: 'globe' });
 
       // Country fill layer
@@ -151,7 +156,14 @@ export function MapView() {
     });
 
     mapRef.current = map;
+
+    // Resize observer: fires map.resize() the moment the container gets real dimensions,
+    // which handles the case where Tailwind CSS loads after the map initializes.
+    const ro = new ResizeObserver(() => { map.resize(); });
+    ro.observe(mapContainer.current);
+
     return () => {
+      ro.disconnect();
       map.remove();
       mapRef.current = null;
     };
@@ -220,5 +232,11 @@ export function MapView() {
     renderMarkers();
   }, [renderMarkers]);
 
-  return <div ref={mapContainer} className="absolute inset-0" />;
+  return (
+    <div
+      ref={mapContainer}
+      className="absolute inset-0"
+      style={{ position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, width: '100%', height: '100%' }}
+    />
+  );
 }

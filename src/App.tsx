@@ -31,7 +31,10 @@ function CountryName() {
 
 export default function App() {
   return (
-    <div className="relative w-screen h-screen overflow-hidden bg-paper">
+    <div
+      className="relative overflow-hidden bg-paper"
+      style={{ position: 'relative', width: '100vw', height: '100vh', overflow: 'hidden' }}
+    >
       <MapView />
       <BackButton />
       <CountryName />
