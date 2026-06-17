@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Inter:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-paper:    #F5F2EC;
+  --color-paper-2:  #EFEAE1;
+  --color-ink:      #15243A;
+  --color-ink-soft: #3C4A60;
+  --color-cobalt:   #2B5C9A;
+  --color-cobalt-soft: #6E9CC4;
+  --color-terra:    #C56A3F;
+  --color-turq:     #2F948A;
+  --color-gold:     #C99A3B;
+  --color-line:     #D9D2C6;
+
+  --font-display: "Fraunces", Georgia, serif;
+  --font-body:    "Inter", system-ui, sans-serif;
+  --font-mono:    "Space Mono", monospace;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #F5F2EC;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* MapLibre overrides */
+.maplibregl-canvas-container {
+  cursor: grab;
+}
+.maplibregl-canvas-container:active {
+  cursor: grabbing;
+}
+.maplibregl-ctrl-attrib {
+  font-family: "Space Mono", monospace;
+  font-size: 9px !important;
+  background: rgba(245,242,236,0.85) !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

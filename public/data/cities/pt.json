@@ -1,0 +1,17 @@
+[
+  {"id":"2267057","name":"Lisbon","region":"Lisbon","coordinates":[-9.1393,38.7223],"population":547631},
+  {"id":"2735943","name":"Porto","region":"Porto","coordinates":[-8.6110,41.1496],"population":237591},
+  {"id":"2736993","name":"Braga","region":"Braga","coordinates":[-8.4265,41.5503],"population":136885},
+  {"id":"2740637","name":"Coimbra","region":"Coimbra","coordinates":[-8.4292,40.2033],"population":105842},
+  {"id":"2267095","name":"Setúbal","region":"Setúbal","coordinates":[-8.8882,38.5244],"population":89504},
+  {"id":"2732268","name":"Guimarães","region":"Braga","coordinates":[-8.2975,41.4425],"population":52181},
+  {"id":"2736334","name":"Cascais","region":"Lisbon","coordinates":[-9.4218,38.6979],"population":35415},
+  {"id":"2267057","name":"Sintra","region":"Lisbon","coordinates":[-9.3895,38.7997],"population":377835},
+  {"id":"2270385","name":"Évora","region":"Alentejo","coordinates":[-7.9097,38.5711],"population":56596},
+  {"id":"2268337","name":"Faro","region":"Algarve","coordinates":[-7.9304,37.0194],"population":64560},
+  {"id":"2267335","name":"Lagos","region":"Algarve","coordinates":[-8.6741,37.1027],"population":31049},
+  {"id":"2267330","name":"Albufeira","region":"Algarve","coordinates":[-8.2503,37.0892],"population":40828},
+  {"id":"2267344","name":"Portimão","region":"Algarve","coordinates":[-8.5377,37.1369],"population":55614},
+  {"id":"2263709","name":"Nazaré","region":"Leiria","coordinates":[-8.8938,39.6036],"population":10399},
+  {"id":"2270029","name":"Funchal","region":"Madeira","coordinates":[-16.9090,32.6669],"population":111892}
+]

@@ -1,0 +1,428 @@
+{
+  "2267057": {
+    "displayName": "Lisbon",
+    "knownFor": "Europe's sunniest capital tumbles down seven hills toward the Tagus. Alfama's tiled lanes, the grand Praça do Comércio, and a food scene anchored in petiscos and vinho verde make it endlessly walkable. Come for the miradouros at golden hour.",
+    "tags": ["history", "food-wine", "shopping", "nightlife"],
+    "source": "curated"
+  },
+  "2735943": {
+    "displayName": "Porto",
+    "knownFor": "Ribeira's stacked houses spill onto the Douro where port wine caves line the opposite bank. Porto rewards those who forgo the obvious — the Livraria Lello bookshop, azulejo-covered chapel façades, and some of Portugal's best restaurants.",
+    "tags": ["history", "food-wine", "nightlife"],
+    "source": "curated"
+  },
+  "2736993": {
+    "displayName": "Braga",
+    "knownFor": "Portugal's oldest archdiocese is a university city with Baroque churches around every corner. The Bom Jesus staircase pilgrimage site sits just outside town. Young, energetic, and far less touristed than Porto.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "2740637": {
+    "displayName": "Coimbra",
+    "knownFor": "Home to one of Europe's oldest universities and its ceremonial black capes. The Joanina Library hides a colony of bats that protect the 18th-century books. Coimbra fado is more melancholic than Lisbon's.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "2267095": {
+    "displayName": "Setúbal",
+    "knownFor": "A working port city that anchors the Arrábida peninsula — some of the clearest, bluest water in Europe. The Serra da Arrábida natural park above the coast is a protected limestone ridge thick with wild herbs.",
+    "tags": ["nature", "beaches"],
+    "source": "curated"
+  },
+  "2732268": {
+    "displayName": "Guimarães",
+    "knownFor": "Widely regarded as the birthplace of Portugal, with a 10th-century castle and a perfectly preserved medieval quarter. UNESCO-listed historic center, compact enough to walk in an afternoon.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "2736334": {
+    "displayName": "Cascais",
+    "knownFor": "A 40-minute train ride from Lisbon along the coast brings you to this former royal retreat. Pastel-fronted mansions, easy beaches, and a lively promenade. Good base for Cabo da Roca, Europe's westernmost point.",
+    "tags": ["beaches", "shopping"],
+    "source": "curated"
+  },
+  "2270385": {
+    "displayName": "Évora",
+    "knownFor": "An intact Roman temple stands in the city center, surrounded by a well-preserved walled Alentejo town. The bone chapel — a church lined with monks' skulls — is singular. Rolling cork-oak plains stretch in every direction.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "2268337": {
+    "displayName": "Faro",
+    "knownFor": "The Algarve's capital is quieter and more genuine than its beach-resort neighbors. The old town is encircled by ancient walls, and the Ria Formosa lagoon — a protected estuary of barrier islands — is right on the doorstep.",
+    "tags": ["nature", "beaches"],
+    "source": "curated"
+  },
+  "2267335": {
+    "displayName": "Lagos",
+    "knownFor": "The base for Algarve exploration: a cobblestoned old town inside medieval walls, and the extraordinary honey-colored cliffs of Ponta da Piedade a short walk away. Sea caves, grottos, and rock arches best explored by kayak at dawn.",
+    "tags": ["beaches", "nature", "history"],
+    "source": "curated"
+  },
+  "2267330": {
+    "displayName": "Albufeira",
+    "knownFor": "The Algarve's liveliest resort town — Oura street is reliably rowdy after midnight. Beach clubs, surf schools, and party boats sit alongside a genuine old town that predates the tourism boom.",
+    "tags": ["beaches", "nightlife"],
+    "source": "curated"
+  },
+  "2267344": {
+    "displayName": "Portimão",
+    "knownFor": "Gateway to the Alvor estuary and three outstanding beaches: Meia Praia stretches 4km in one direction, the dramatic Três Irmãos coves the other. The riverside hosts some of the Algarve's best cataplana restaurants.",
+    "tags": ["beaches", "food-wine"],
+    "source": "curated"
+  },
+  "2263709": {
+    "displayName": "Nazaré",
+    "knownFor": "Famous for the biggest surfable waves on earth — Praia do Norte in winter draws freesurfers chasing 30-meter faces. In summer it's a traditional fishing village with striped skirts and drying octopus lines.",
+    "tags": ["nature", "beaches"],
+    "source": "curated"
+  },
+  "2270029": {
+    "displayName": "Funchal",
+    "knownFor": "Madeira's capital climbs steep volcanic hillsides above a harbor wreathed in bougainvillea. World-class botanical gardens, levada walks through laurissilva forest, and the Monte toboggan ride round out the offerings.",
+    "tags": ["nature", "food-wine"],
+    "source": "curated"
+  },
+  "2267057_sintra": {
+    "displayName": "Sintra",
+    "knownFor": "A UNESCO World Heritage landscape of forested peaks, fairy-tale palaces, and mystical gardens. The candy-colored Pena Palace and Quinta da Regaleira's initiation well are unlike anywhere else in Europe. Go early; it fills by 10am.",
+    "tags": ["nature", "history"],
+    "source": "curated"
+  },
+  "1850147": {
+    "displayName": "Tokyo",
+    "knownFor": "The world's most populous city rewards aimless wandering — vending machines, Michelin-starred ramen, capsule hotels, and ancient shrines coexist within a few blocks. Shibuya's crossing, Yanaka's old shitamachi lanes, and teamLab's digital art are its contrasts.",
+    "tags": ["food-wine", "shopping", "nightlife", "history"],
+    "source": "curated"
+  },
+  "1858421": {
+    "displayName": "Kyoto",
+    "knownFor": "Japan's cultural heart: 1,600 Buddhist temples and Shinto shrines, the bamboo groves of Arashiyama, and the geisha district of Gion. The Fushimi Inari torii gates at dawn, before the crowds, is among the great travel experiences.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "1853909": {
+    "displayName": "Osaka",
+    "knownFor": "Japan's kitchen and its most boisterous city. Dotonbori's neon excess, takoyaki at every corner, and standing ramen bars open until 4am. Osaka-ites are famously friendlier than Tokyoites and proud of it.",
+    "tags": ["food-wine", "nightlife", "shopping"],
+    "source": "curated"
+  },
+  "1862415": {
+    "displayName": "Hiroshima",
+    "knownFor": "The Peace Memorial Park and its haunting A-Bomb Dome are sobering and essential. The city rebuilt itself into a surprisingly vibrant place — Hiroshima-style okonomiyaki is a local obsession. Take the ferry to the island shrine at Miyajima.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "1855540": {
+    "displayName": "Nara",
+    "knownFor": "Sacred deer roam freely around Tōdai-ji, the world's largest wooden structure housing an enormous bronze Buddha. Nara was Japan's first permanent capital and its earliest temples survive intact. Day-trippable from Kyoto or Osaka.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "1860243": {
+    "displayName": "Hakone",
+    "knownFor": "Volcanic landscape, hot-spring ryokans, open-air sculpture, and clear-day views of Fuji across Lake Ashi. Arriving by the old Tokaido mountain railway and checking into an onsen inn is a ritual worth scheduling.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "2128295": {
+    "displayName": "Sapporo",
+    "knownFor": "Hokkaido's capital hosts the world's largest snow festival each February, and the ski resorts an hour away receive the driest, lightest powder on earth. In summer, lavender fields at Furano and seafood markets are the draw.",
+    "tags": ["nature", "food-wine", "nightlife"],
+    "source": "curated"
+  },
+  "1856210": {
+    "displayName": "Nagano",
+    "knownFor": "Host of the 1998 Winter Olympics — the ski runs at Hakuba still draw the world's best riders. The Jigokudani monkey park (snow monkeys in hot springs) and the historic Zenkō-ji temple are year-round anchors.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "1852058": {
+    "displayName": "Okinawa",
+    "knownFor": "Culturally distinct from mainland Japan, with its own Ryukyuan language and cuisine. The coral reefs and clear shallow water rival the Caribbean. Shuri Castle and the Churaumi Aquarium are the main draws on the main island.",
+    "tags": ["beaches", "nature", "history"],
+    "source": "curated"
+  },
+  "1854171": {
+    "displayName": "Nikko",
+    "knownFor": "Lavishly decorated Toshogu shrine complex hidden in cedar-forested mountains north of Tokyo. The famous 'see no evil, hear no evil, speak no evil' monkeys are carved on its stable. Kegon Falls and Lake Chuzenji are nearby.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "1863501": {
+    "displayName": "Fukuoka",
+    "knownFor": "Hakata ramen originated here and the street stalls (yatai) along the river serve it until 2am. Japan's nearest city to Korea, Fukuoka has an open, international energy. Dazaifu's plum blossoms and the ancient Itoshima peninsula are day trips.",
+    "tags": ["food-wine", "shopping", "nightlife"],
+    "source": "curated"
+  },
+  "1856177": {
+    "displayName": "Nagoya",
+    "knownFor": "Japan's fourth city is underrated — anchored by a reconstructed castle with gold tiger-fish finials. Hitsumabushi (grilled eel) and miso katsu are dishes that don't exist elsewhere. Toyota's hometown, with an impressive auto museum.",
+    "tags": ["food-wine", "history"],
+    "source": "curated"
+  },
+  "1860517": {
+    "displayName": "Kamakura",
+    "knownFor": "Medieval capital of Japan, with the giant bronze Daibutsu (Great Buddha) visible between the hills. The hiking trails connecting the seven temples are shaded by cedar and bamboo. An hour from Tokyo by train.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "1854381": {
+    "displayName": "Takayama",
+    "knownFor": "A mountain town in the Japanese Alps with an Edo-period old town of preserved merchant houses and morning markets. Hida Folk Village is an open-air museum of thatched farmhouses. The autumn festival floats are UNESCO-listed.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "1860243_kanazawa": {
+    "displayName": "Kanazawa",
+    "knownFor": "Often called 'little Kyoto' for its geisha districts, samurai homes, and Kenroku-en — one of Japan's three great gardens. Facing the Sea of Japan, it has some of the country's finest seafood and an acclaimed contemporary art museum.",
+    "tags": ["history", "food-wine"],
+    "source": "curated"
+  },
+  "3169070": {
+    "displayName": "Rome",
+    "knownFor": "Three thousand years of civilization stacked on top of each other — Colosseum, Forum, Pantheon, and Vatican all within walking distance. But Rome's greatest pleasures are accidental: a courtyard fountain, a plate of cacio e pepe, a piazza at dusk.",
+    "tags": ["history", "food-wine", "shopping"],
+    "source": "curated"
+  },
+  "3176959": {
+    "displayName": "Florence",
+    "knownFor": "The cradle of the Renaissance. Botticelli's Birth of Venus and Michelangelo's David are both here. Climb to Piazzale Michelangelo for the postcard view, then lose the afternoon in the Oltrarno's artisan workshops and wine bars.",
+    "tags": ["history", "food-wine", "shopping"],
+    "source": "curated"
+  },
+  "3164603": {
+    "displayName": "Venice",
+    "knownFor": "Impossible and utterly real — 118 islands connected by 400 bridges. Without cars, the sound of Venice is footsteps, water, and bells. The Rialto market at dawn, a bacaro lunch of cicchetti, and the Frari church are its essentials.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "3173435": {
+    "displayName": "Milan",
+    "knownFor": "Italy's fashion and financial capital with two indispensable sights: Leonardo's Last Supper and the Duomo's marble rooftop. The Navigli canal district fills with aperitivo crowds every evening; the Quadrilatero della Moda with the world's fashion houses.",
+    "tags": ["shopping", "nightlife", "food-wine"],
+    "source": "curated"
+  },
+  "3172394": {
+    "displayName": "Naples",
+    "knownFor": "Loud, chaotic, and completely compelling. Pizza was invented here and the wood-fired version at Da Michele has been unchanged for over a century. The archaeological museum holds Pompeii's finest rescued objects; Vesuvius looms close.",
+    "tags": ["food-wine", "history"],
+    "source": "curated"
+  },
+  "3182690": {
+    "displayName": "Bologna",
+    "knownFor": "Italy's gastronomic capital — ragu, mortadella, and tortellini all originate here. The oldest university in the world (1088 AD) gives the city a youthful energy under its medieval porticoes, which stretch 40km through the city.",
+    "tags": ["food-wine"],
+    "source": "curated"
+  },
+  "3165524": {
+    "displayName": "Turin",
+    "knownFor": "The original Italian capital has Europe's finest Egyptian museum, the Holy Shroud, and an extraordinary café culture inherited from its Savoy royal past. Also the birthplace of Slow Food, Campari, and Nutella.",
+    "tags": ["food-wine", "history"],
+    "source": "curated"
+  },
+  "3169522": {
+    "displayName": "Positano",
+    "knownFor": "Vertical town of pastel houses cascading to a pebbly beach on the Amalfi Coast. The drama is the point: every view is a postcard, every dinner is over the water. Arrive by boat from Amalfi or Capri to see it as it should be seen.",
+    "tags": ["beaches"],
+    "source": "curated"
+  },
+  "3183089": {
+    "displayName": "Cinque Terre",
+    "knownFor": "Five medieval fishing villages painted on coastal cliffs, connected by hiking trails with Ligurian Sea views. The Sentiero Azzurro between Monterosso and Riomaggiore is one of Italy's great coastal walks. Arrive early or off-season.",
+    "tags": ["nature", "beaches"],
+    "source": "curated"
+  },
+  "3166033": {
+    "displayName": "Siena",
+    "knownFor": "A medieval city-state frozen in amber. The Piazza del Campo — a scallop-shaped square — hosts the Palio horse race twice a year. The striped marble Duomo and the Pinacoteca's Sienese gold-ground paintings are the other essentials.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "2523650": {
+    "displayName": "Palermo",
+    "knownFor": "Sicily's capital layers Arab-Norman churches, Baroque piazzas, and street market chaos into something wholly its own. The Ballarò market is one of Europe's great food markets. Monreale's mosaic-covered cathedral is a 30-minute bus ride away.",
+    "tags": ["history", "food-wine", "beaches"],
+    "source": "curated"
+  },
+  "2525068": {
+    "displayName": "Cagliari",
+    "knownFor": "Sardinia's ancient capital on a limestone promontory above white-sand beaches. The Castello quarter is a walled city within the city. Beaches within 20 minutes of the center rival the Caribbean, and the Sardinian-specific cuisine is worth making the trip for.",
+    "tags": ["beaches", "nature", "history"],
+    "source": "curated"
+  },
+  "3181928": {
+    "displayName": "Bari",
+    "knownFor": "The gateway to Puglia, with the Basilica di San Nicola and a labyrinthine old town where nonnas roll orecchiette pasta in the streets. The trulli of Alberobello and the white-washed hill towns of the Valle d'Itria are easy day trips.",
+    "tags": ["history", "beaches"],
+    "source": "curated"
+  },
+  "3164734": {
+    "displayName": "Verona",
+    "knownFor": "A beautifully preserved Roman arena hosts summer opera against the backdrop of old city walls and the Adige river. Shakespeare set Romeo and Juliet here; the Romanesque churches and medieval piazzas make the association easy to believe.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "3172630": {
+    "displayName": "Amalfi",
+    "knownFor": "The Amalfi Coast's namesake town: a medieval maritime republic crammed into a gorge above a turquoise cove. The Duomo's steps are the social center, the Valle dei Mulini (Valley of the Mills) hides a paper museum, and fresh limoncello is everywhere.",
+    "tags": ["beaches", "history"],
+    "source": "curated"
+  },
+  "3688689": {
+    "displayName": "Bogotá",
+    "knownFor": "At 2,600 meters above sea level, Colombia's capital is cool, cultural, and completely transformed. La Candelaria's colonial heart, the Gold Museum's pre-Colombian treasures, and the restaurant scene built on hyper-local ingredients are its signatures.",
+    "tags": ["history", "food-wine", "nightlife", "shopping"],
+    "source": "curated"
+  },
+  "3674962": {
+    "displayName": "Medellín",
+    "knownFor": "Once the world's most dangerous city, Medellín reinvented itself through design and public infrastructure. Cable cars connect hillside comunas, the Botero sculptures fill a plaza downtown, and the Laureles-Estadio neighborhood has the best bar scene.",
+    "tags": ["nightlife", "food-wine", "shopping"],
+    "source": "curated"
+  },
+  "3687238": {
+    "displayName": "Cartagena",
+    "knownFor": "A walled Caribbean city of bougainvillea-draped colonial mansions, horse-drawn carriages, and coral-reef islands a short boat ride away. The Rosario Islands, Barú Beach, and an unbeatable nightlife scene in Getsemaní make it Colombia's most visited city.",
+    "tags": ["beaches", "history", "nightlife"],
+    "source": "curated"
+  },
+  "3687925": {
+    "displayName": "Cali",
+    "knownFor": "The world capital of salsa — every weekend, outdoor salsa clubs fill with dancers of all ages. Cali is warmer and more openly festive than Bogotá. The Feria de Cali in December is one of South America's great street festivals.",
+    "tags": ["nightlife", "food-wine"],
+    "source": "curated"
+  },
+  "3668605": {
+    "displayName": "Santa Marta",
+    "knownFor": "Colombia's oldest surviving city, tucked between the Sierra Nevada mountains and the Caribbean. The Tayrona National Park — jungle, beaches, and indigenous Kogui settlements — starts just outside the city.",
+    "tags": ["beaches", "nature"],
+    "source": "curated"
+  },
+  "3671916": {
+    "displayName": "Barranquilla",
+    "knownFor": "Home of Colombia's Carnival — four days of costumes, cumbia, and mapalé that rival Rio in scale if not in fame. Shakira is from here. The Bocas de Ceniza boat tour to where the Magdalena River meets the Caribbean is unique.",
+    "tags": ["nightlife", "food-wine"],
+    "source": "curated"
+  },
+  "3671209": {
+    "displayName": "Manizales",
+    "knownFor": "Perched on a ridge in Colombia's coffee country, Manizales is the gateway to the Nevado del Ruiz volcano and the rolling fincas of the Eje Cafetero. Coffee farm tours with tastings are a half-day from the city center.",
+    "tags": ["nature", "food-wine"],
+    "source": "curated"
+  },
+  "3685834": {
+    "displayName": "Popayán",
+    "knownFor": "The White City — every building in the colonial center is painted brilliant white. One of Colombia's oldest cities, with Easter processions ranked among Latin America's most spectacular. The highland cuisine has its own distinct tradition.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "3670875": {
+    "displayName": "Salento",
+    "knownFor": "The most Instagram-worthy town in the coffee region: colorful balconied streets, trout fishing in the Quindío river, and the Cocora Valley's impossibly tall wax palms rising from cloud forest. Base camp for Valle de Cocora hikes.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "3671437": {
+    "displayName": "Villa de Leyva",
+    "knownFor": "One of Colombia's best-preserved colonial villages, with the largest unpaved town square in South America. Cretaceous fossils emerge from the arid desert landscape around it. The weekend market and artisan shops draw weekend visitors from Bogotá.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "3680792": {
+    "displayName": "Pereira",
+    "knownFor": "The largest city in the Colombian coffee region, known for its warmth, low cost of living, and proximity to hot springs. The Ukumarí Biopark and nearby Los Nevados National Park are the natural draws.",
+    "tags": ["nature", "food-wine"],
+    "source": "curated"
+  },
+  "3669861": {
+    "displayName": "San Andrés",
+    "knownFor": "Colombia's Caribbean island territory, 500km from the mainland. The Seven Colors Sea — where the shallow reef creates gradients from emerald to cobalt — is one of the Caribbean's most photographed phenomena.",
+    "tags": ["beaches", "nature"],
+    "source": "curated"
+  },
+  "2542997": {
+    "displayName": "Marrakech",
+    "knownFor": "The medina's sensory overload is the experience: djellaba-clad traders, spice pyramids, snake charmers, and the Djemaa el-Fna square turning from food market to open-air circus at dusk. The Majorelle Garden is the essential escape from the noise.",
+    "tags": ["history", "shopping", "food-wine"],
+    "source": "curated"
+  },
+  "2553604": {
+    "displayName": "Casablanca",
+    "knownFor": "Morocco's business capital and its largest city. The Hassan II Mosque — built on a platform over the Atlantic — is among the world's most spectacular religious buildings. The art deco architecture of the city center rivals anything in France.",
+    "tags": ["shopping", "food-wine"],
+    "source": "curated"
+  },
+  "2563629": {
+    "displayName": "Fez",
+    "knownFor": "Fes el-Bali, the world's largest car-free urban area, is a living medieval city. The tanneries — dye vats visible from leather shop rooftops — are unmissable. The 9th-century Qarawiyyin University is the oldest in the world.",
+    "tags": ["history", "shopping"],
+    "source": "curated"
+  },
+  "2559419": {
+    "displayName": "Tangier",
+    "knownFor": "The gateway between Europe and Africa, where the Atlantic meets the Mediterranean. The International Zone era left behind a legacy of cafés, hotels, and a literary scene (Bowles, Burroughs, Kerouac all passed through). The Cap Spartel lighthouse marks the continent's edge.",
+    "tags": ["history", "shopping"],
+    "source": "curated"
+  },
+  "2553211": {
+    "displayName": "Chefchaouen",
+    "knownFor": "The Blue City — whitewashed walls painted in every shade of blue and lavender, stacked up a Rif Mountain valley. The medina is small enough to walk in an hour but photogenic enough to spend a week. The Spanish Mosque ruin above town has the best view.",
+    "tags": ["nature", "history"],
+    "source": "curated"
+  },
+  "2566546": {
+    "displayName": "Agadir",
+    "knownFor": "Morocco's beach resort capital, rebuilt after a 1960 earthquake. A long, wide sandy beach backed by resort hotels faces the open Atlantic. Surf breaks at nearby Taghazout attract riders from October through April.",
+    "tags": ["beaches", "nightlife"],
+    "source": "curated"
+  },
+  "2537763": {
+    "displayName": "Essaouira",
+    "knownFor": "A blue-and-white Atlantic fortress town battered by the Alizé wind — which makes it a kite- and windsurfer's paradise and everyone else rather cold. Gnawa musicians play the medina alleyways at dusk. Jimi Hendrix famously visited.",
+    "tags": ["beaches", "history"],
+    "source": "curated"
+  },
+  "2538475": {
+    "displayName": "Rabat",
+    "knownFor": "Morocco's quiet, leafy capital is the country's most liveable city. The Tour Hassan minaret, the Chellah necropolis, and the Kasbah des Oudaias above the Bou Regreg river are the sights. More residential and less tourist-pressured than Fez or Marrakech.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "2542519": {
+    "displayName": "Meknes",
+    "knownFor": "The forgotten imperial city — smaller and less visited than Fez or Marrakech, but with a massive 17th-century granary, the monumental Bab Mansour gate, and easy access to the Roman ruins at Volubilis.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "2527089": {
+    "displayName": "Ouarzazate",
+    "knownFor": "The gateway to the Sahara and the filming location for Game of Thrones, Gladiator, and Lawrence of Arabia. The Aït Benhaddou ksar — a UNESCO fortified village — is 30km away. Sunrise over the dunes at Merzouga is a half-day drive further.",
+    "tags": ["nature", "history"],
+    "source": "curated"
+  },
+  "2551938": {
+    "displayName": "Ifrane",
+    "knownFor": "Morocco's anomaly: a Swiss-chalet-style mountain town at 1,665m that gets snow in winter and alpine meadows in summer. The nearby Michlifen ski resort and the cedar forests of the Middle Atlas — home to Barbary macaques — are the draw.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "2553740": {
+    "displayName": "Asilah",
+    "knownFor": "A fortified Atlantic port town with Portuguese walls and a medina repainted by artists every summer during its arts festival. One of Morocco's most relaxed and picturesque towns. The cliffside mosque above the sea is the money shot.",
+    "tags": ["history", "beaches"],
+    "source": "curated"
+  },
+  "2559945": {
+    "displayName": "Tétouan",
+    "knownFor": "The most Moroccan of the northern cities — Andalusian refugees who arrived in 1492 shaped its architecture and its cuisine. The medina is UNESCO-listed and far less touristed than Fez. The Rif mountains begin right outside the city.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "2554033": {
+    "displayName": "Dakhla",
+    "knownFor": "A remote peninsula in the Western Sahara where the Sahara meets the Atlantic in a lagoon of extraordinary flatness and turquoise color. A world-class windsurfing and kitesurfing destination, with the desert arriving at the waterline.",
+    "tags": ["beaches", "nature"],
+    "source": "curated"
+  }
+}

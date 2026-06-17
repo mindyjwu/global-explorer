@@ -1,0 +1,17 @@
+[
+  {"id":"3688689","name":"Bogotá","region":"Cundinamarca","coordinates":[-74.0721,4.7110],"population":7413000},
+  {"id":"3674962","name":"Medellín","region":"Antioquia","coordinates":[-75.5636,6.2442],"population":2508452},
+  {"id":"3687238","name":"Cartagena","region":"Bolívar","coordinates":[-75.5144,10.3910],"population":971592},
+  {"id":"3687925","name":"Cali","region":"Valle del Cauca","coordinates":[-76.5320,3.4372],"population":2400000},
+  {"id":"3668605","name":"Santa Marta","region":"Magdalena","coordinates":[-74.2110,11.2408],"population":441301},
+  {"id":"3671916","name":"Barranquilla","region":"Atlántico","coordinates":[-74.7964,10.9639],"population":1228621},
+  {"id":"3671209","name":"Manizales","region":"Caldas","coordinates":[-75.5172,5.0703],"population":434403},
+  {"id":"3685834","name":"Popayán","region":"Cauca","coordinates":[-76.6099,2.4419],"population":280029},
+  {"id":"3670875","name":"Salento","region":"Quindío","coordinates":[-75.5717,4.6361],"population":19500},
+  {"id":"3671437","name":"Villa de Leyva","region":"Boyacá","coordinates":[-73.5270,5.6333],"population":15285},
+  {"id":"3680792","name":"Pereira","region":"Risaralda","coordinates":[-75.6979,4.8133],"population":472000},
+  {"id":"3669861","name":"San Andrés","region":"San Andrés","coordinates":[-81.7184,12.5847],"population":75000},
+  {"id":"3676396","name":"Leticia","region":"Amazonas","coordinates":[-69.9404,-4.2152],"population":41627},
+  {"id":"3688462","name":"Bucaramanga","region":"Santander","coordinates":[-73.1198,7.1254],"population":577619},
+  {"id":"3670220","name":"Armenia","region":"Quindío","coordinates":[-75.6811,4.5339],"population":300000}
+]

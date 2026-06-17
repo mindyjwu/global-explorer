@@ -1,0 +1,17 @@
+[
+  {"id":"3169070","name":"Rome","region":"Lazio","coordinates":[12.4964,41.9028],"population":2872800},
+  {"id":"3176959","name":"Florence","region":"Tuscany","coordinates":[11.2558,43.7696],"population":371282},
+  {"id":"3164603","name":"Venice","region":"Veneto","coordinates":[12.3375,45.4408],"population":255009},
+  {"id":"3173435","name":"Milan","region":"Lombardy","coordinates":[9.1900,45.4654],"population":1352000},
+  {"id":"3172394","name":"Naples","region":"Campania","coordinates":[14.2681,40.8518],"population":959574},
+  {"id":"3182690","name":"Bologna","region":"Emilia-Romagna","coordinates":[11.3426,44.4949],"population":397793},
+  {"id":"3165524","name":"Turin","region":"Piedmont","coordinates":[7.6869,45.0703],"population":886837},
+  {"id":"3169522","name":"Positano","region":"Campania","coordinates":[14.4847,40.6282],"population":3942},
+  {"id":"3183089","name":"Cinque Terre","region":"Liguria","coordinates":[9.7133,44.1461],"population":4168},
+  {"id":"3166033","name":"Siena","region":"Tuscany","coordinates":[11.3311,43.3186],"population":52625},
+  {"id":"2523650","name":"Palermo","region":"Sicily","coordinates":[13.3613,38.1112],"population":657561},
+  {"id":"2525068","name":"Cagliari","region":"Sardinia","coordinates":[9.1127,39.2238],"population":154460},
+  {"id":"3181928","name":"Bari","region":"Puglia","coordinates":[16.8719,41.1171],"population":318238},
+  {"id":"3164734","name":"Verona","region":"Veneto","coordinates":[10.9916,45.4386],"population":258108},
+  {"id":"3172630","name":"Amalfi","region":"Campania","coordinates":[14.6026,40.6342],"population":5241}
+]

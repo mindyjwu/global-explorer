@@ -1,0 +1,17 @@
+[
+  {"id":"2542997","name":"Marrakech","region":"Marrakech-Safi","coordinates":[-7.9897,31.6295],"population":928850},
+  {"id":"2553604","name":"Casablanca","region":"Casablanca-Settat","coordinates":[-7.5898,33.5950],"population":3752000},
+  {"id":"2563629","name":"Fez","region":"Fès-Meknès","coordinates":[-4.9998,34.0372],"population":1150000},
+  {"id":"2559419","name":"Tangier","region":"Tanger-Tétouan-Al Hoceïma","coordinates":[-5.8133,35.7673],"population":947952},
+  {"id":"2553211","name":"Chefchaouen","region":"Tanger-Tétouan-Al Hoceïma","coordinates":[-5.2636,35.1688],"population":45855},
+  {"id":"2566546","name":"Agadir","region":"Souss-Massa","coordinates":[-9.5981,30.4278],"population":600000},
+  {"id":"2537763","name":"Essaouira","region":"Marrakech-Safi","coordinates":[-9.7693,31.5085],"population":77966},
+  {"id":"2538475","name":"Rabat","region":"Rabat-Salé-Kénitra","coordinates":[-6.8498,34.0132],"population":577827},
+  {"id":"2542519","name":"Meknes","region":"Fès-Meknès","coordinates":[-5.5473,33.8933],"population":703877},
+  {"id":"2527089","name":"Ouarzazate","region":"Drâa-Tafilalet","coordinates":[-6.8906,30.9186],"population":71067},
+  {"id":"2551938","name":"Ifrane","region":"Béni Mellal-Khénifra","coordinates":[-5.1097,33.5228],"population":20000},
+  {"id":"2553740","name":"Asilah","region":"Tanger-Tétouan-Al Hoceïma","coordinates":[-6.0340,35.4653],"population":31147},
+  {"id":"2559945","name":"Tétouan","region":"Tanger-Tétouan-Al Hoceïma","coordinates":[-5.3608,35.5789],"population":380787},
+  {"id":"2556144","name":"El Jadida","region":"Casablanca-Settat","coordinates":[-8.5070,33.2551],"population":194934},
+  {"id":"2554033","name":"Dakhla","region":"Dakhla-Oued Ed-Dahab","coordinates":[-15.9363,23.6848],"population":106277}
+]

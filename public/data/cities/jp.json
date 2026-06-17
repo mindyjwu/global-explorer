@@ -1,0 +1,17 @@
+[
+  {"id":"1850147","name":"Tokyo","region":"Kantō","coordinates":[139.6917,35.6895],"population":13960000},
+  {"id":"1858421","name":"Kyoto","region":"Kansai","coordinates":[135.7681,35.0116],"population":1463723},
+  {"id":"1853909","name":"Osaka","region":"Kansai","coordinates":[135.5023,34.6937],"population":2691185},
+  {"id":"1862415","name":"Hiroshima","region":"Chūgoku","coordinates":[132.4553,34.3853],"population":1194034},
+  {"id":"1855540","name":"Nara","region":"Kansai","coordinates":[135.8048,34.6851],"population":358551},
+  {"id":"1860243","name":"Hakone","region":"Kantō","coordinates":[139.1067,35.2337],"population":10800},
+  {"id":"2128295","name":"Sapporo","region":"Hokkaido","coordinates":[141.3544,43.0618],"population":1952356},
+  {"id":"1856210","name":"Nagano","region":"Chūbu","coordinates":[138.1833,36.6486],"population":372493},
+  {"id":"1852058","name":"Okinawa City","region":"Okinawa","coordinates":[127.7781,26.3344],"population":142830},
+  {"id":"1854171","name":"Nikko","region":"Kantō","coordinates":[139.6244,36.7198],"population":16600},
+  {"id":"1860243","name":"Kanazawa","region":"Hokuriku","coordinates":[136.6256,36.5944],"population":454607},
+  {"id":"1863501","name":"Fukuoka","region":"Kyushu","coordinates":[130.4017,33.6064],"population":1612392},
+  {"id":"1856177","name":"Nagoya","region":"Chūbu","coordinates":[136.9066,35.1815],"population":2295638},
+  {"id":"1860517","name":"Kamakura","region":"Kantō","coordinates":[139.5522,35.3197],"population":174314},
+  {"id":"1854381","name":"Takayama","region":"Chūbu","coordinates":[137.2529,36.1461],"population":87694}
+]
