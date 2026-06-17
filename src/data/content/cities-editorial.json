@@ -424,5 +424,1013 @@
     "knownFor": "A remote peninsula in the Western Sahara where the Sahara meets the Atlantic in a lagoon of extraordinary flatness and turquoise color. A world-class windsurfing and kitesurfing destination, with the desert arriving at the waterline.",
     "tags": ["beaches", "nature"],
     "source": "curated"
+  },
+
+  "1609350": {
+    "displayName": "Bangkok",
+    "knownFor": "One of the world's great cities of excess — gold-spired temples next to rooftop bars, street cart pad thai next to Michelin-starred restaurants. The Grand Palace and Wat Pho anchor the old city; the BTS Skytrain connects everything else. Come hungry and stay late.",
+    "tags": ["food-wine", "history", "nightlife", "shopping"],
+    "source": "curated"
+  },
+  "1153671": {
+    "displayName": "Chiang Mai",
+    "knownFor": "Thailand's cultural north: 300 temples in a moat-ringed old city, Sunday Walking Street markets, and nearby hill-tribe villages. The Doi Inthanon national park and elephant sanctuaries are within an hour. The food scene here — Khao Soi, sai oua — rivals Bangkok.",
+    "tags": ["history", "food-wine", "nature", "shopping"],
+    "source": "curated"
+  },
+  "1151254": {
+    "displayName": "Phuket",
+    "knownFor": "Thailand's largest island, defined by its Andaman Sea coast of limestone karsts and white sand beaches. Patong is reliably chaotic; Kata Noi is refined. The Phang Nga Bay boat trip — passing the James Bond island — is the essential day out.",
+    "tags": ["beaches", "nightlife"],
+    "source": "curated"
+  },
+  "1611173": {
+    "displayName": "Ayutthaya",
+    "knownFor": "The ruined temples and headless Buddha statues of this former Siamese capital are among Southeast Asia's most haunting sights. A two-hour train from Bangkok, and most visitors don't stay long enough — rent a bicycle and spend the afternoon looping through the ruins.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "1153395": {
+    "displayName": "Chiang Rai",
+    "knownFor": "The jumping-off point for Thailand's Golden Triangle. The White Temple (Wat Rong Khun) is a contemporary masterpiece in polished white glass — unlike anything else in the country. The Blue Temple and the opium museum at the border are equally singular.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "1609446": {
+    "displayName": "Hua Hin",
+    "knownFor": "Thailand's original beach resort, favored by the royal family since the 1920s. A quieter, more adult alternative to Phuket with a long beach, a night market worth lingering in, and vineyards in the hills behind town. Good base for Khao Sam Roi Yot's cave temples.",
+    "tags": ["beaches", "food-wine"],
+    "source": "curated"
+  },
+  "1151562": {
+    "displayName": "Koh Samui",
+    "knownFor": "The Gulf of Thailand's answer to Phuket: coconut palms, turquoise water, and a developed resort strip at Chaweng balanced by quieter bays on the north coast. The Big Buddha temple and the Na Muang waterfalls in the interior are the reliefs from the beach.",
+    "tags": ["beaches", "nightlife"],
+    "source": "curated"
+  },
+  "1154689": {
+    "displayName": "Sukhothai",
+    "knownFor": "The first capital of the Thai kingdom preserves its ruins in a historical park of extraordinary calm. Brick chedis, lotus ponds, and Buddhas emerging from the morning mist — best seen by bicycle at dawn before the coaches arrive.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "1610780": {
+    "displayName": "Pattaya",
+    "knownFor": "Thailand's most polarizing destination — a city that built itself entirely on mass beach tourism. The beach itself is modest; the point is everything else: water parks, go-karts, international restaurants, and a nightlife strip that runs 24 hours.",
+    "tags": ["beaches", "nightlife"],
+    "source": "curated"
+  },
+  "1152380": {
+    "displayName": "Pai",
+    "knownFor": "A mountain valley in Mae Hong Son province that became a backpacker haven and never really left. Hot springs, canyon walks, waterfalls, and a traveler social scene that peaks around a single walking street. The three-hour winding road from Chiang Mai is half the adventure.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "1116722": {
+    "displayName": "Krabi",
+    "knownFor": "Limestone karst towers rising from the Andaman Sea, with Railay Beach — reachable only by long-tail boat — tucked inside them. Rock climbing, sea kayaking through mangrove tunnels, and the Four Islands boat trip are the activities. Ao Nang is the low-key town base.",
+    "tags": ["nature", "beaches"],
+    "source": "curated"
+  },
+  "1151543": {
+    "displayName": "Trang",
+    "knownFor": "An authentic southern Thai town that trades the tourist crowds of Krabi for local life: dim sum breakfasts, rubber plantation landscapes, and cave temples. The Trang Islands — Koh Muk's Emerald Cave, accessible only by swimming through a tunnel — are a long-kept secret.",
+    "tags": ["nature", "beaches"],
+    "source": "curated"
+  },
+  "1612671": {
+    "displayName": "Nakhon Ratchasima (Korat)",
+    "knownFor": "The gateway to Thailand's northeast Isan region, the largest and least-touristed part of the country. Khao Yai National Park — UNESCO biosphere reserve, three hours south — is one of Asia's best wildlife destinations. The local food is distinctly different from Bangkok.",
+    "tags": ["nature", "food-wine"],
+    "source": "curated"
+  },
+  "1609871": {
+    "displayName": "Kanchanaburi",
+    "knownFor": "The Death Railway bridge over the River Kwai and its WWII museum are a sober essential. The surrounding landscape is unexpectedly beautiful — waterfalls, national parks, and floating bamboo raft guesthouses on the river make it much more than a day trip from Bangkok.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+
+  "1581130": {
+    "displayName": "Hanoi",
+    "knownFor": "Vietnam's ancient capital layers French colonial architecture over a 1,000-year-old Vietnamese city. The Old Quarter's 36 craft streets, Hoan Kiem lake at dawn, and the bun cha lunch that Obama ate with Anthony Bourdain are the essentials. Cooler and more cerebral than Saigon.",
+    "tags": ["history", "food-wine", "shopping"],
+    "source": "curated"
+  },
+  "1566083": {
+    "displayName": "Ho Chi Minh City",
+    "knownFor": "Vietnam's engine: fast, loud, and constantly reinventing itself. Cu Chi Tunnels and the War Remnants Museum are essential history; the rooftop bars of District 1 and the pho carts of District 3 are the antidote. The Mekong Delta day trips start here.",
+    "tags": ["history", "food-wine", "nightlife"],
+    "source": "curated"
+  },
+  "1580578": {
+    "displayName": "Hoi An",
+    "knownFor": "A UNESCO-listed ancient trading port with lantern-lit canal streets, Japanese covered bridges, and tailors who can make a suit in 24 hours. The beaches at An Bang and Cua Dai are a 10-minute bicycle ride. Hoi An's White Rose dumplings and Cao Lau noodles are found nowhere else.",
+    "tags": ["history", "food-wine", "beaches", "shopping"],
+    "source": "curated"
+  },
+  "1572151": {
+    "displayName": "Da Nang",
+    "knownFor": "Vietnam's fastest-growing city, stretching along the best urban beach in the country — My Khe. The marble mountains rise behind it; Hoi An is 30 minutes south. The Dragon Bridge breathes fire on weekend nights.",
+    "tags": ["beaches", "food-wine"],
+    "source": "curated"
+  },
+  "1580240": {
+    "displayName": "Hue",
+    "knownFor": "The last imperial capital of Vietnam, with a UNESCO-listed walled Citadel modeled on the Forbidden City. The royal tombs scattered along the Perfume River are explored by dragon boat. Hue's cuisine is considered Vietnam's most refined — bun bo Hue is its fiery signature.",
+    "tags": ["history", "food-wine"],
+    "source": "curated"
+  },
+  "1581349": {
+    "displayName": "Ha Long Bay",
+    "knownFor": "Nearly 2,000 limestone karst islands rising from emerald water — a UNESCO World Heritage site and one of Asia's most iconic landscapes. Overnight junk cruises are the way to see it; kayaking through grottoes at dawn before the day-trippers arrive is the moment that makes it.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "1581519": {
+    "displayName": "Sapa",
+    "knownFor": "Rice terrace staircase landscapes cut by the Hmong and Dao minority communities into the steep slopes of the Hoang Lien Son mountains. The terraces flood in June, turn gold in September, and are harvested in October. Fansipan — Indochina's highest peak — can be trekked or cabled.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "1564544": {
+    "displayName": "Nha Trang",
+    "knownFor": "Vietnam's beach resort capital, with a long city beach fronted by hotels and snorkeling islands a short boat ride away. The Po Nagar Cham towers predate the town by a thousand years. The mud baths at Thap Ba are a Vietnamese institution.",
+    "tags": ["beaches", "history"],
+    "source": "curated"
+  },
+  "1566013": {
+    "displayName": "Da Lat",
+    "knownFor": "Vietnam's 'city of eternal spring,' perched at 1,500 meters in the Central Highlands where the air is cool and the landscape is pine forests, waterfalls, and flower farms. French colonial villas, a cog railway relic, and the best coffee in Vietnam make it a distinct destination.",
+    "tags": ["nature", "food-wine"],
+    "source": "curated"
+  },
+  "1566028": {
+    "displayName": "Mui Ne",
+    "knownFor": "A Cape Cod-scale fishing village with a sand dune landscape — the Red Dunes and White Dunes — that looks more Saharan than Southeast Asian. Kite surfing capital of Vietnam thanks to reliable winds. The sunrise over the dunes on a rented ATV is the activity.",
+    "tags": ["beaches", "nature"],
+    "source": "curated"
+  },
+  "1566509": {
+    "displayName": "Can Tho",
+    "knownFor": "The capital of the Mekong Delta, where floating markets have operated for centuries on the web of canals that drains the river into the sea. Pre-dawn boat trips to Cai Rang market — vendors selling produce from boats lashed together — are the singular experience.",
+    "tags": ["nature", "food-wine"],
+    "source": "curated"
+  },
+  "1581182": {
+    "displayName": "Ninh Binh",
+    "knownFor": "Karst limestone towers rising from rice paddies and river bends — Ha Long Bay on land, without the crowds. The ancient capital of Hoa Lu, the pagoda of Bich Dong carved into a cliff, and the Trang An boat trip through flooded limestone caves are all within a short radius.",
+    "tags": ["nature", "history"],
+    "source": "curated"
+  },
+  "1562414": {
+    "displayName": "Phu Quoc",
+    "knownFor": "Vietnam's largest island and its fastest-developing beach destination. The south has the best beaches — Sao Beach's powder sand and clear water ranks with the best in Southeast Asia. The north remains forested national park. The fish sauce made here is the finest in the country.",
+    "tags": ["beaches", "nature", "food-wine"],
+    "source": "curated"
+  },
+  "1574023": {
+    "displayName": "Quy Nhon",
+    "knownFor": "One of Vietnam's least-touristed coastal cities despite some of its best beaches. The Ky Co beach and Eo Gio cliff walk are remarkable. The Cham towers at Banh It predate Angkor. An authentic, affordable alternative for those who've done Hoi An.",
+    "tags": ["beaches", "history"],
+    "source": "curated"
+  },
+
+  "1642911": {
+    "displayName": "Ubud",
+    "knownFor": "Bali's arts and spiritual center, set among rice terraces in the island's cool interior. The Sacred Monkey Forest, sunrise at the Tegallalang rice terraces, and the nightly Kecak fire dance are the anchors. Every street has a gallery; every morning has a temple ceremony.",
+    "tags": ["nature", "history", "shopping"],
+    "source": "curated"
+  },
+  "1643084": {
+    "displayName": "Jakarta",
+    "knownFor": "Indonesia's enormous, chaotic capital is a city of contrasts: colonial Dutch Batavia in Kota Tua, hyper-modern malls in SCBD, and street food that rewards the adventurous. Most travelers use it as a hub — but the National Museum and night food market at Pasar Santa are worth the stop.",
+    "tags": ["history", "food-wine", "shopping", "nightlife"],
+    "source": "curated"
+  },
+  "1625822": {
+    "displayName": "Yogyakarta",
+    "knownFor": "The cultural heart of Java, home to the Sultan's palace (Kraton), the shadow puppet tradition, and the two greatest monuments in Southeast Asia within day-trip distance: Borobudur (Buddhist, 9th century) and Prambanan (Hindu, 10th century). The city's batik workshops are centuries old.",
+    "tags": ["history", "shopping"],
+    "source": "curated"
+  },
+  "1643402": {
+    "displayName": "Seminyak",
+    "knownFor": "Bali's most sophisticated beach strip — boutique hotels, design shops, open-air restaurants, and beach clubs that peak at sunset. Ku De Ta and Potato Head wrote the template that beach clubs everywhere have been copying since. A short drive from the airport, it's where most visitors land.",
+    "tags": ["beaches", "shopping", "nightlife", "food-wine"],
+    "source": "curated"
+  },
+  "1630789": {
+    "displayName": "Lombok",
+    "knownFor": "Bali's quieter neighbor: similar volcanic landscapes and rice terraces but fewer tourists and a predominantly Sasak (Muslim) culture. The Gili Islands — Trawangan, Meno, Air — are accessible by fast boat. Rinjani volcano, Indonesia's second highest peak, is the serious hike.",
+    "tags": ["beaches", "nature"],
+    "source": "curated"
+  },
+  "1624725": {
+    "displayName": "Labuan Bajo",
+    "knownFor": "The gateway to Komodo National Park — the only place on earth where Komodo dragons live wild. The boat trip out to see them, snorkel the manta ray cleaning stations, and anchor at a pink-sand beach is one of Southeast Asia's great adventures.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "1626542": {
+    "displayName": "Surabaya",
+    "knownFor": "Java's second city is industrial and overlooked, but its Arab Quarter, Chinatown, and the Dutch colonial Kota Lama quarter are interesting. More importantly, it's the gateway to Bromo-Tengger-Semeru National Park, where the pre-dawn drive to see the volcano at sunrise is world-class.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "1645457": {
+    "displayName": "Bandung",
+    "knownFor": "A cool highland city surrounded by tea plantations and active volcanoes. The Art Deco architecture from the Dutch colonial period is the best in Indonesia. The factory outlets along Dago Street draw weekend visitors from Jakarta. Tangkuban Perahu's steaming crater is 30 minutes north.",
+    "tags": ["nature", "shopping", "food-wine"],
+    "source": "curated"
+  },
+  "1629896": {
+    "displayName": "Bromo (Probolinggo)",
+    "knownFor": "Mount Bromo is not Indonesia's tallest volcano but it might be its most photogenic — a smoking caldera inside a vast sand sea, surrounded by even larger peaks. The pre-dawn jeep ride to the viewpoint and hike to the crater rim is a ritual for visitors to East Java.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "1622786": {
+    "displayName": "Raja Ampat",
+    "knownFor": "The most biodiverse marine environment on earth — 75% of the world's coral species exist in this Papua archipelago of 1,500 islands. World-class liveaboard diving and snorkeling; above water, the limestone karst islands cloaked in jungle are equally dramatic.",
+    "tags": ["nature", "beaches"],
+    "source": "curated"
+  },
+  "1624697": {
+    "displayName": "Flores",
+    "knownFor": "An island of volcanoes, traditional villages, and the extraordinary Kelimutu — three crater lakes that change color independently from turquoise to black to green. The drive across Flores along the Trans-Flores Highway is one of Indonesia's great road trips.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "1625994": {
+    "displayName": "Gili Islands",
+    "knownFor": "Three tiny coral-ringed islands off Lombok — no motorized vehicles, no stress. Gili Trawangan is the party island; Gili Meno is for honeymooners; Gili Air splits the difference. Turtles are visible snorkeling right off the beach.",
+    "tags": ["beaches", "nature"],
+    "source": "curated"
+  },
+  "1639897": {
+    "displayName": "Makassar",
+    "knownFor": "The port city gateway to Sulawesi. Fort Rotterdam is a well-preserved Dutch fortress; the seafood restaurants on the waterfront serve crab and grilled fish that rival anything in Indonesia. Base for exploring the Tana Toraja highlands and their extraordinary funeral ceremonies.",
+    "tags": ["history", "food-wine"],
+    "source": "curated"
+  },
+  "1627896": {
+    "displayName": "Toraja",
+    "knownFor": "The highlands of South Sulawesi where the Torajan people hold elaborate multi-day funeral ceremonies involving hundreds of guests, buffalo sacrifices, and coffins placed in cliff-face galleries. The rice-barn villages and the annual Toraja funeral season (August) are unlike anything in Asia.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+
+  "1261481": {
+    "displayName": "New Delhi",
+    "knownFor": "India's capital layers Mughal grandeur over British imperial geometry over a modern city of 33 million. The Red Fort, Humayun's Tomb, Qutb Minar, and Chandni Chowk's bazaars are within the old city. New Delhi's Lutyens-designed boulevards and Lodhi Garden make the contrast complete.",
+    "tags": ["history", "food-wine", "shopping"],
+    "source": "curated"
+  },
+  "1275339": {
+    "displayName": "Mumbai",
+    "knownFor": "India's maximum city and the one that never really sleeps. The Gateway of India, the Dharavi slum tours, the Bollywood film city, and the tiffin-delivery system of the dabbawalas are all part of it. The seafront Marine Drive and the art deco architecture of Colaba are the backdrop.",
+    "tags": ["history", "food-wine", "nightlife", "shopping"],
+    "source": "curated"
+  },
+  "1269515": {
+    "displayName": "Jaipur",
+    "knownFor": "The Pink City — its old walled town was painted terracotta for the Prince of Wales's visit in 1876 and hasn't changed since. The Amber Fort, City Palace, and Hawa Mahal are all within a short radius. The bazaars sell block-print textiles, blue pottery, and silver jewelry.",
+    "tags": ["history", "shopping"],
+    "source": "curated"
+  },
+  "1253405": {
+    "displayName": "Varanasi",
+    "knownFor": "The oldest continuously inhabited city on earth and Hinduism's most sacred site. The ghats along the Ganges — where pilgrims bathe at dawn and funeral pyres burn at Manikarnika through the night — are one of travel's most profound and disorienting experiences.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "1279259": {
+    "displayName": "Agra",
+    "knownFor": "The Taj Mahal needs no introduction — but seeing it at sunrise, before the crowds, from the far bank of the Yamuna river, when the marble turns from grey to pink to white, is still stunning. The Agra Fort and the abandoned city of Fatehpur Sikri complete the Mughal triangle.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "1271312": {
+    "displayName": "Goa",
+    "knownFor": "India's smallest state is unlike the rest of the country — 450 years of Portuguese colonialism left behind Baroque churches, whitewashed villas, and a relaxed Catholic culture. The northern beaches (Anjuna, Vagator) have the party scene; the south (Palolem, Agonda) has the quiet coves.",
+    "tags": ["beaches", "history", "nightlife"],
+    "source": "curated"
+  },
+  "1275004": {
+    "displayName": "Kolkata",
+    "knownFor": "The intellectual and artistic capital of India, associated with Tagore, Satyajit Ray, and Mother Teresa. The Victoria Memorial, the Howrah Bridge at rush hour, and the hand-pulled rickshaws of the old city are its images. The fish curry of Bengal is among India's finest cuisines.",
+    "tags": ["history", "food-wine"],
+    "source": "curated"
+  },
+  "1264527": {
+    "displayName": "Chennai",
+    "knownFor": "The gateway to South India and Tamil culture. The Marina Beach is the world's second longest; the Kapaleeshwarar temple and the Government Museum's bronze collection are the cultural anchors. The Carnatic music and Bharatanatyam dance scenes are India's richest.",
+    "tags": ["history", "beaches"],
+    "source": "curated"
+  },
+  "1253609": {
+    "displayName": "Udaipur",
+    "knownFor": "The City of Lakes — Rajasthan's most romantic city, built around a series of artificial lakes and dominated by the vast Lake Palace hotel that appears to float on the water. The City Palace, the haveli-lined ghats, and the sunset boat ride across Lake Pichola are the essential sequence.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "1273874": {
+    "displayName": "Kochi",
+    "knownFor": "Kerala's backwater gateway and one of India's most cosmopolitan port cities. Fort Kochi's Chinese fishing nets, the Jewish Synagogue in Mattancherry, and the colonial-era spice warehouses are the heritage. Houseboat trips on the Alleppey backwaters begin here.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "1258980": {
+    "displayName": "Rishikesh",
+    "knownFor": "The yoga capital of the world, set where the Ganges emerges from the Himalayan foothills into the plains. The Beatles ashram, the Laxman Jhula suspension bridge, and the nightly Ganga Aarti ceremony on the river draw both spiritual seekers and adventure tourists (white-water rafting).",
+    "tags": ["nature", "history"],
+    "source": "curated"
+  },
+  "1270030": {
+    "displayName": "Jodhpur",
+    "knownFor": "The Blue City — the houses of the old town are painted cobalt blue (originally to deter mosquitoes) and cascade below the enormous Mehrangarh Fort, one of India's most impressive. The fort's views over the blue sea of rooftops are iconic.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "1264731": {
+    "displayName": "Mysuru",
+    "knownFor": "The most regal city of South India, anchored by the illuminated Mysore Palace — one of the most visited monuments in India. The Chamundi Hill temple, Devaraja Market's flower vendors, and the Dasara festival (October) make it the polished southern counterpart to Jaipur.",
+    "tags": ["history", "shopping"],
+    "source": "curated"
+  },
+  "1273645": {
+    "displayName": "Hampi",
+    "knownFor": "A UNESCO World Heritage landscape of immense boulders and ruined temples — the remains of the Vijayanagara Empire, once one of the world's largest cities. The Virupaksha temple still functions; the Vittala temple's stone chariot and musical pillars are the masterpieces.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "1272490": {
+    "displayName": "Darjeeling",
+    "knownFor": "A hill station at 2,050 meters where the tea that put Bengal on the map grows on terraced slopes with Kanchenjunga as the backdrop. The Darjeeling Himalayan Railway — a UNESCO World Heritage toy train — still runs. The morning Himalayan views from Tiger Hill can include Everest.",
+    "tags": ["nature", "food-wine"],
+    "source": "curated"
+  },
+
+  "1835848": {
+    "displayName": "Seoul",
+    "knownFor": "A city of sharp contrasts: Joseon dynasty palaces surrounded by glass skyscrapers, Buddhist temple markets behind K-pop entertainment districts. The Bukchon Hanok Village, the DMZ tour north of the city, and the Han River park system at night are its three scales of experience.",
+    "tags": ["history", "food-wine", "shopping", "nightlife"],
+    "source": "curated"
+  },
+  "1838519": {
+    "displayName": "Busan",
+    "knownFor": "South Korea's second city and its most colorful: the Gamcheon Culture Village of terraced pastel houses painted in protest, the Jagalchi fish market at dawn, Haeundae beach's high-rise boardwalk, and the night views from Gwangandaegyo Bridge. Busan is louder and saltier than Seoul.",
+    "tags": ["beaches", "food-wine", "nightlife"],
+    "source": "curated"
+  },
+  "1839071": {
+    "displayName": "Gyeongju",
+    "knownFor": "The ancient capital of the Silla Kingdom, called the museum without walls — burial mounds the size of buildings rise from the city center, and Bulguksa Temple and the Seokguram Grotto are UNESCO masterpieces. The cherry blossoms around Bomun Lake in April are world-class.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "1846266": {
+    "displayName": "Jeju Island",
+    "knownFor": "South Korea's volcanic island of dramatic natural contrasts: Hallasan — a shield volcano and the country's highest mountain — in the center, black lava-tube caves, and tangerine farms on the slopes. The haenyeo women freediving for abalone are a living UNESCO cultural heritage.",
+    "tags": ["nature", "food-wine"],
+    "source": "curated"
+  },
+  "1835235": {
+    "displayName": "Jeonju",
+    "knownFor": "The gastronomic capital of Korea, famous for Bibimbap and a hanok village of 700 traditional tile-roofed houses still used as hotels, teahouses, and makgeolli bars. The Jeonju Bibimbap served in a stone bowl here is the definitive version.",
+    "tags": ["food-wine", "history"],
+    "source": "curated"
+  },
+  "1846918": {
+    "displayName": "Sokcho",
+    "knownFor": "The gateway to Seoraksan National Park — South Korea's most dramatic mountain landscape of granite peaks, cable cars, and Buddhist temples cut into cliffsides. The Osaek hot springs are nearby. In winter the park gets heavy snow; in autumn the foliage turns the mountains red.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "1835986": {
+    "displayName": "Andong",
+    "knownFor": "The heart of Korea's Confucian heritage: the Hahoe Folk Village is a UNESCO-listed living village of Joseon-era houses where descendants still live. The mask dance festival (October) and the Dosan Seowon Confucian academy are the cultural anchors.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "1846543": {
+    "displayName": "Suwon",
+    "knownFor": "Home to the UNESCO-listed Hwaseong Fortress — an 18th-century walled city built by King Jeongjo, equipped with innovative flood gates and observation towers. Only 30 minutes from Seoul by subway, it's one of Korea's most rewarding day trips.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "1835329": {
+    "displayName": "Incheon",
+    "knownFor": "South Korea's gateway city, anchored by a massive international airport and the Songdo smart city built on reclaimed land. Chinatown is one of the country's oldest; the Wolmido island amusement pier and the Art Platform in the old Japanese colonial port are the local anchors.",
+    "tags": ["history", "food-wine"],
+    "source": "curated"
+  },
+  "1846898": {
+    "displayName": "Tongyeong",
+    "knownFor": "A southern port city of extraordinary natural beauty: the cable car up Mireuksan gives views across the Hallyeohaesang archipelago's 400 islands. The Windy Hill, the undersea tunnel, and the classical music festival honoring composer Yun Isang are the local signatures.",
+    "tags": ["nature", "history"],
+    "source": "curated"
+  },
+  "1845457": {
+    "displayName": "Chuncheon",
+    "knownFor": "The capital of Gangwon Province, set among lakes and mountains an hour east of Seoul. Famous for Dakgalbi (spicy stir-fried chicken) — the dish was invented here and every restaurant on the main street serves it. Nami Island's tree-lined paths made famous by a K-drama are nearby.",
+    "tags": ["nature", "food-wine"],
+    "source": "curated"
+  },
+  "1835565": {
+    "displayName": "Gwangju",
+    "knownFor": "The site of the 1980 pro-democracy uprising — the May 18th National Cemetery is a sobering memorial. The city has since become Korea's art and design capital, hosting the Asia Culture Center and a biennial that draws international artists.",
+    "tags": ["history", "food-wine"],
+    "source": "curated"
+  },
+  "1835776": {
+    "displayName": "Damyang",
+    "knownFor": "A county of bamboo forests an hour north of Gwangju, where the Juknokwon garden's green tunnels are among the most atmospheric in Korea. Tteokgalbi (grilled short rib patties) is the local specialty. The metasequoia tree-lined road is a famous autumn drive.",
+    "tags": ["nature", "food-wine"],
+    "source": "curated"
+  },
+  "1846958": {
+    "displayName": "Namhae",
+    "knownFor": "A southern island connected by bridge, with terraced garlic fields on steep hillsides dropping to hidden coves. The German Village — built by returning Korean miners from Germany — is its unlikely landmark. One of Korea's most beautiful drives.",
+    "tags": ["nature", "beaches"],
+    "source": "curated"
+  },
+  "1835224": {
+    "displayName": "Daegu",
+    "knownFor": "South Korea's fourth city, known as the fashion capital of Korea for its Dongseongno shopping district and for producing a disproportionate number of the country's designers. The July heat is the most intense in Korea — making it the apple-growing capital. The 2.28 Memorial Park marks a student uprising predating Gwangju.",
+    "tags": ["shopping", "history"],
+    "source": "curated"
+  },
+
+  "1821306": {
+    "displayName": "Siem Reap",
+    "knownFor": "The base camp for Angkor — one of the world's great archaeological complexes. Angkor Wat at sunrise, the face-towers of the Bayon at Angkor Thom, and the jungle-swallowed Ta Prohm are the core. But the temples extend 400km² — you can return for days and still find something new.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "1821274": {
+    "displayName": "Phnom Penh",
+    "knownFor": "A city of painful history and remarkable resilience. The Tuol Sleng Genocide Museum and Killing Fields at Choeung Ek are essential. But Phnom Penh is also a city of French colonial villas, a vibrant riverside, and a café scene that reflects Cambodia's young population.",
+    "tags": ["history", "food-wine"],
+    "source": "curated"
+  },
+  "1821309": {
+    "displayName": "Battambang",
+    "knownFor": "Cambodia's second city and its most authentic: French colonial architecture, a functioning bamboo railway (nori), and some of the best contemporary art in Southeast Asia. The surrounding rice fields and fruit farms are explored by tuk-tuk. A quieter, slower Cambodia.",
+    "tags": ["history", "food-wine"],
+    "source": "curated"
+  },
+  "1821285": {
+    "displayName": "Kampot",
+    "knownFor": "A riverside town of faded French colonial shophouses that became one of Southeast Asia's best slow-travel destinations. The pepper plantations here produce the world's finest Kampot pepper — you can taste it at source. The caves of Phnom Chhngok and the quiet evenings on the river make it.",
+    "tags": ["nature", "food-wine"],
+    "source": "curated"
+  },
+  "1821291": {
+    "displayName": "Kep",
+    "knownFor": "A tiny former royal resort at the sea — once the Riviera of the French colonial elite, now a half-abandoned collection of modernist villas and a famous crab market. The Kep crab with Kampot pepper is among Southeast Asia's great dishes.",
+    "tags": ["beaches", "food-wine"],
+    "source": "curated"
+  },
+  "1821284": {
+    "displayName": "Sihanoukville",
+    "knownFor": "Cambodia's main beach town, with offshore islands (Koh Rong, Koh Rong Samloem) that remain undeveloped and beautiful. The town itself has undergone rapid change — the islands are the destination now. Snorkeling, diving, and bioluminescent plankton swims are the activities.",
+    "tags": ["beaches", "nature"],
+    "source": "curated"
+  },
+  "1821323": {
+    "displayName": "Mondulkiri",
+    "knownFor": "Cambodia's emptiest province — rolling highlands, pine forests, and waterfalls that feel nothing like the Mekong lowlands. The Elephant Valley Project here lets retired working elephants live free-range; it's one of the most ethical elephant experiences in Asia.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "1821282": {
+    "displayName": "Kratie",
+    "knownFor": "A riverside town on the Mekong where the critically endangered Irrawaddy dolphins gather in the dry season. Watching them at dusk from a kayak is a quietly profound experience. The town's French colonial grid and the island of Koh Trong — a slow farming community — are the complements.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "1821289": {
+    "displayName": "Koh Rong",
+    "knownFor": "Cambodia's most beautiful island: long white-sand beaches, clear turquoise water, and dense jungle interior. The bioluminescent plankton in the bay — visible when swimming at night — turns the water electric blue. Less developed than Thailand's islands; arrive before that changes.",
+    "tags": ["beaches", "nature"],
+    "source": "curated"
+  },
+  "1821280": {
+    "displayName": "Banlung",
+    "knownFor": "The capital of Ratanakiri province — Cambodia's least-visited corner. The crater lake of Yeak Laom is a perfect volcanic circle in emerald water, surrounded by jungle. The indigenous minority villages around it practice animism and traditional weaving.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "1821283": {
+    "displayName": "Kampong Cham",
+    "knownFor": "A Mekong river town with a sleepy French colonial center and a bamboo bridge — rebuilt each dry season by hand — connecting to an island of vegetable gardens. The Wat Nokor temple complex mixes Angkorian ruins with a functioning modern temple.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "1821290": {
+    "displayName": "Koh Kong",
+    "knownFor": "The border town gateway to the Cardamom Mountains — Cambodia's largest wilderness. The Tatai River and its floating lodges, mangrove kayaking, and the waterfall at Chi Phat make it the eco-tourism base for a largely unexplored landscape.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "1821286": {
+    "displayName": "Pursat",
+    "knownFor": "The gateway to the Cardamom Mountains from the western side, and the departure point for Tonle Sap Lake boat trips. The floating villages of the lake — communities that have lived on the water for generations — are accessible from here.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "1821315": {
+    "displayName": "Kampong Thom",
+    "knownFor": "A provincial capital with one extraordinary nearby treasure: Sambor Prei Kuk — a pre-Angkorian temple complex of 100 brick towers scattered through the forest, predating Angkor Wat by 200 years. Largely overlooked, it offers a quieter experience than Siem Reap.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "1821312": {
+    "displayName": "Takeo",
+    "knownFor": "The flooded Phnom Chisor hilltop temple has panoramic views across the rice plain — best visited in the rainy season when the roads become waterways. Angkor Borei, reached by boat when the flooding is right, houses Cambodia's oldest stone inscriptions.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+
+  "3530597": {
+    "displayName": "Mexico City",
+    "knownFor": "One of the world's great capital cities, sitting at 2,240 meters on the dried bed of an Aztec lake. The Zócalo, the Templo Mayor ruins, the Frida Kahlo Museum in Coyoacán, and the ancient city of Teotihuacán 50km north are the anchors. The restaurant scene is among Latin America's finest.",
+    "tags": ["history", "food-wine", "shopping", "nightlife"],
+    "source": "curated"
+  },
+  "3531673": {
+    "displayName": "Oaxaca",
+    "knownFor": "Mexico's cultural and gastronomic capital in the Sierra Madre: the birthplace of mezcal, mole negro, and tlayudas. The Monte Albán Zapotec ruins overlook the valley; the Tule Tree is the world's stoutest. The markets and textile villages of the valleys are within a day.",
+    "tags": ["history", "food-wine", "shopping"],
+    "source": "curated"
+  },
+  "3981609": {
+    "displayName": "San Miguel de Allende",
+    "knownFor": "A perfectly preserved colonial hill town that has become a center for artists, expats, and destination weddings. The pink spires of the Parroquia church are its landmark; the rooftop bar scene at sunset is the ritual. One of the few Mexican cities where the colonial grid is both intact and pedestrian-friendly.",
+    "tags": ["history", "shopping", "food-wine"],
+    "source": "curated"
+  },
+  "3523349": {
+    "displayName": "Tulum",
+    "knownFor": "A Mayan clifftop ruin overlooking the Caribbean — the only major Mayan site on the coast. The beaches below are as good as Mexico gets; the cenotes nearby (Dos Ojos, Gran Cenote) are extraordinary for snorkeling. Tulum town has grown into a boutique hotel strip, for better and worse.",
+    "tags": ["history", "beaches", "nature"],
+    "source": "curated"
+  },
+  "3522540": {
+    "displayName": "Cancún",
+    "knownFor": "Mexico's Caribbean resort hub — 20km of white sand, clear turquoise water, and all-inclusive hotel strips. The Mayan ruins at Chichén Itzá and the biosphere reserve at Sian Ka'an are the day trips. A reliable launch point for the Yucatán Peninsula.",
+    "tags": ["beaches", "nightlife", "history"],
+    "source": "curated"
+  },
+  "3981791": {
+    "displayName": "Guanajuato",
+    "knownFor": "A colonial university city built in a ravine, with alleys so narrow they're called 'kissing lanes' and a network of underground roadways dug through old mines. The Callejón del Beso, the Alhóndiga de Granaditas, and the mummy museum are the landmarks.",
+    "tags": ["history", "nightlife"],
+    "source": "curated"
+  },
+  "3530954": {
+    "displayName": "Puebla",
+    "knownFor": "The city where Mexico's most complex sauce — mole poblano — was invented, and where the 5th of May battle was fought. The Talavera tile workshops, the baroque cathedral, and the street food of Cholula (with its pyramid hidden under a hill) make it the finest Baroque city in Mexico.",
+    "tags": ["history", "food-wine"],
+    "source": "curated"
+  },
+  "3996322": {
+    "displayName": "Puerto Vallarta",
+    "knownFor": "Mexico's Pacific coast resort anchored by the Sierra Madre and Banderas Bay — one of the world's largest bays. The Malecón boardwalk, the Romantic Zone's cobblestone streets, and the Marietas Islands' hidden beach (accessible only by swimming through a cave) are the highlights.",
+    "tags": ["beaches", "food-wine", "nightlife"],
+    "source": "curated"
+  },
+  "3530840": {
+    "displayName": "Guadalajara",
+    "knownFor": "The birthplace of tequila, mariachi music, and charrería rodeo culture — the most authentically Mexican major city. The historic center's cathedral and Hospicio Cabañas murals by Orozco are UNESCO-listed. Tlaquepaque's artisan quarter is the best shopping in Western Mexico.",
+    "tags": ["history", "food-wine", "shopping"],
+    "source": "curated"
+  },
+  "3526536": {
+    "displayName": "Mérida",
+    "knownFor": "The white city of the Yucatán — a colonial capital of henequen wealth with Mayan culture still visibly present. The Sunday Zócalo concerts, the hammock shops of the market, and the cenotes accessible from the city make it the best base for Yucatán Peninsula exploration.",
+    "tags": ["history", "food-wine", "shopping"],
+    "source": "curated"
+  },
+  "3985710": {
+    "displayName": "Playa del Carmen",
+    "knownFor": "The Riviera Maya's most walkable beach town: the Quinta Avenida pedestrian strip, boutique hotels tucked in the jungle behind the beach, and easy access to Tulum, Cozumel, and Xel-Há. More independent-traveler-oriented than Cancún.",
+    "tags": ["beaches", "food-wine", "shopping"],
+    "source": "curated"
+  },
+  "3533462": {
+    "displayName": "Taxco",
+    "knownFor": "Mexico's silver city — perched improbably on a steep Guerrero hillside, with silver workshops on every street selling jewelry since the 18th century. The Santa Prisca church is Mexico's finest Churrigueresque façade. The Holy Week processions here are among the country's most dramatic.",
+    "tags": ["history", "shopping"],
+    "source": "curated"
+  },
+  "3996007": {
+    "displayName": "Cabo San Lucas",
+    "knownFor": "The southern tip of Baja California where the Pacific meets the Sea of Cortez. The iconic Land's End arch framing the beach is the image; whale watching (January–April), sport fishing, and glass-bottom boat trips to the arch are the activities. Wilder than most of Mexico's resorts.",
+    "tags": ["beaches", "nature", "nightlife"],
+    "source": "curated"
+  },
+  "3539168": {
+    "displayName": "Valladolid",
+    "knownFor": "The Yucatán's most beautiful colonial city and the ideal base for Chichén Itzá. The Cenote Zaci is right inside the city. The Izamal 'yellow city' and the smaller Ek Balam ruins are nearby alternatives for those who've seen enough of the crowds at Chichén Itzá.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "3520545": {
+    "displayName": "Zihuatanejo",
+    "knownFor": "The fishing village that The Shawshank Redemption made mythical. A genuine Mexican fishing town with a small bay of calm water, fresh catch restaurants on the dockside, and the Playa La Ropa beach a short walk away. Ixtapa next door has the resort hotels; Zihua has the soul.",
+    "tags": ["beaches", "food-wine"],
+    "source": "curated"
+  },
+
+  "5128581": {
+    "displayName": "New York City",
+    "knownFor": "The city that defies summary: the Met, MOMA, the Highline, and every cuisine on earth within a 10-block radius. The energy of Midtown, the brownstones of the Village, and the bridges at dusk are its three scales. If you can make it here, the cliché is still true.",
+    "tags": ["shopping", "food-wine", "nightlife", "history"],
+    "source": "curated"
+  },
+  "5368361": {
+    "displayName": "Los Angeles",
+    "knownFor": "The world's most horizontal city: beaches from Malibu to Venice, canyons from Runyon to Griffith, and a food scene that has quietly become one of America's best. The Getty Center, the Museum of Jurassic Technology, and a sunset from Mulholland Drive are the less obvious draws.",
+    "tags": ["beaches", "shopping", "nightlife", "food-wine"],
+    "source": "curated"
+  },
+  "4335045": {
+    "displayName": "New Orleans",
+    "knownFor": "The American city most unlike America. Mardi Gras, jazz funerals, and a cuisine built from French, African, and Caribbean traditions make it singular. Café Du Monde's beignets, a po'boy from Parkway, a second line parade on Sunday — New Orleans is experienced through food and music.",
+    "tags": ["food-wine", "nightlife", "history"],
+    "source": "curated"
+  },
+  "5391959": {
+    "displayName": "San Francisco",
+    "knownFor": "Built on 49 hills, defined by fog, earthquakes, and reinvention. The Golden Gate at dawn, the Mission's taquerias, the Ferry Building's Saturday market, and the view from Dolores Park are the four touchstones. California's wine country starts 45 minutes north.",
+    "tags": ["food-wine", "shopping", "nature"],
+    "source": "curated"
+  },
+  "4887398": {
+    "displayName": "Chicago",
+    "knownFor": "America's most underrated food city: deep dish pizza, Italian beef, and the Alinea tasting menu coexist on the same lakefront. The architecture is the world's best — the Chicago Architecture Foundation river cruise is the essential education. Blues clubs on the South Side are still authentic.",
+    "tags": ["food-wine", "nightlife", "history"],
+    "source": "curated"
+  },
+  "4164138": {
+    "displayName": "Miami",
+    "knownFor": "The subtropical American city where the Caribbean, Latin America, and Europe converge. South Beach's Art Deco district, Wynwood's murals, Little Havana's dominó parks, and the Pérez Art Museum on Biscayne Bay are its cultural anchors. The nightlife and the beach are self-explanatory.",
+    "tags": ["beaches", "nightlife", "food-wine"],
+    "source": "curated"
+  },
+  "4644585": {
+    "displayName": "Nashville",
+    "knownFor": "Country music's world capital has evolved into one of America's great food cities. The Grand Ole Opry, the honky-tonks of Lower Broadway, and the country music museums are the heritage. The hot chicken at Prince's and the natural wine bars of East Nashville are the evolution.",
+    "tags": ["nightlife", "food-wine"],
+    "source": "curated"
+  },
+  "5856195": {
+    "displayName": "Honolulu",
+    "knownFor": "The gateway to Hawai'i: Waikiki's iconic beach-and-Diamond Head backdrop, the Pearl Harbor memorial, and the North Shore's winter surf breaks are all on O'ahu. The Bishop Museum's Polynesian collection, the shave ice stands of Haleiwa, and a sunrise hike up Koko Head are the counterpoints.",
+    "tags": ["beaches", "history", "nature"],
+    "source": "curated"
+  },
+  "5314328": {
+    "displayName": "Sedona",
+    "knownFor": "Red rock buttes rising from the Arizona high desert — Cathedral Rock, Bell Rock, and the Chapel of the Holy Cross are the landmarks. Sedona has accumulated a reputation for vortex energy and spiritual wellness alongside its excellent hiking. The light at golden hour is extraordinary.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "4744091": {
+    "displayName": "Savannah",
+    "knownFor": "America's most beautiful historic downtown: 22 oak-shaded squares draped in Spanish moss, antebellum mansions, and a riverfront of converted cotton warehouses. The only American city where you can walk with an open drink container — a fact locals are unreasonably proud of.",
+    "tags": ["history", "food-wine"],
+    "source": "curated"
+  },
+  "4167178": {
+    "displayName": "Key West",
+    "knownFor": "The end of US Highway 1 and America's southernmost point. Hemingway's house and the six-toed cats, the nightly Mallory Square sunset celebration, and Duval Street's endless bars are the Key West rituals. The snorkeling on the Florida reef just offshore is the best in the continental US.",
+    "tags": ["beaches", "nightlife", "history"],
+    "source": "curated"
+  },
+  "5746545": {
+    "displayName": "Portland",
+    "knownFor": "The most self-consciously weird American city: food carts, independent bookstores, craft breweries, and an urban planning philosophy that kept big-box retail out. Powell's Books is the world's largest independent bookstore. The Columbia River Gorge and Mount Hood are an hour away.",
+    "tags": ["food-wine", "nature", "shopping"],
+    "source": "curated"
+  },
+  "4671654": {
+    "displayName": "Austin",
+    "knownFor": "Texas's capital and the live music capital of the world — more venues per capita than anywhere. The brisket at Franklin Barbecue requires planning around. The Congress Avenue bridge bat colony, the Barton Springs pool, and South Congress's shops are the things to do between shows.",
+    "tags": ["nightlife", "food-wine", "nature"],
+    "source": "curated"
+  },
+  "5549220": {
+    "displayName": "Jackson Hole",
+    "knownFor": "A valley floor at 6,000 feet ringed by the Teton Range — some of the most dramatic mountain scenery in North America. Grand Teton National Park and Yellowstone are the day trips. The ski mountain has a vertical drop that rivals anything in the Rockies.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "5308655": {
+    "displayName": "Flagstaff",
+    "knownFor": "A mile-high college town at the base of the San Francisco Peaks — the Grand Canyon is 90 minutes south, Antelope Canyon and Horseshoe Bend 2 hours east. The Lowell Observatory where Pluto was discovered gives dark-sky astronomy tours. Route 66 passes through.",
+    "tags": ["nature", "history"],
+    "source": "curated"
+  },
+
+  "3936456": {
+    "displayName": "Lima",
+    "knownFor": "The gastronomic capital of South America, full stop. Gastón Acurio's Astrid y Gastón, Central, and Maido consistently rank in the world's top 10. The Miraflores cliffs at sunset, the Larco Museum's gold collection, and the Barranco neighborhood's bohemian streets are the complements.",
+    "tags": ["food-wine", "history"],
+    "source": "curated"
+  },
+  "3983854": {
+    "displayName": "Cusco",
+    "knownFor": "The ancient Inca capital, now a city of Spanish colonial churches built on Inca stone foundations. The Sacred Valley, Pisac market, and Ollantaytambo are the day trips; Machu Picchu is the overnight. At 3,400 meters, altitude sickness is real — rest the first day.",
+    "tags": ["history", "shopping"],
+    "source": "curated"
+  },
+  "3947322": {
+    "displayName": "Aguas Calientes",
+    "knownFor": "The mountain town at the base of Machu Picchu, accessible only by train or a multi-day Inca Trail trek. Its sole purpose is proximity to the citadel. Take the first bus up at dawn, before the cloud burns off and the crowds arrive.",
+    "tags": ["nature", "history"],
+    "source": "curated"
+  },
+  "3944493": {
+    "displayName": "Arequipa",
+    "knownFor": "The White City of Peru, built in volcanic sillar stone beneath El Misti volcano. The Santa Catalina Monastery — a city within a city, closed to the public for 400 years — is the wonder. Arequipa's cuisine (rocoto relleno, adobo) is considered the finest regional cooking in Peru.",
+    "tags": ["history", "food-wine"],
+    "source": "curated"
+  },
+  "3932488": {
+    "displayName": "Puno",
+    "knownFor": "On the shores of Lake Titicaca at 3,800 meters — the highest navigable lake on earth. The floating reed islands of the Uros people are nearby; Taquile Island's weavers hold a UNESCO textile tradition. The night sky at this altitude is extraordinary.",
+    "tags": ["nature", "history"],
+    "source": "curated"
+  },
+  "3936524": {
+    "displayName": "Huaraz",
+    "knownFor": "The trekking capital of Peru, set in the Callejón de Huaylas valley between two Andean ranges. The Santa Cruz Trek and Laguna 69 hike (a turquoise glacial lake under a 6,000m peak) are among the most spectacular in South America. Chavin de Huantar's pre-Inca temples are nearby.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "3936297": {
+    "displayName": "Iquitos",
+    "knownFor": "The largest city in the world with no road access — reachable only by boat or plane, deep in the Peruvian Amazon. Rubber-boom mansions tiled in Portuguese azulejos line the waterfront. The Amazon river dolphin tours and jungle lodges accessible from here are world-class.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "3936519": {
+    "displayName": "Máncora",
+    "knownFor": "Peru's surf and beach capital on the north coast — long sandy beach, year-round warm water (by Pacific standards), and a town that runs entirely on seafood, pisco sours, and surf culture. The ceviche here is made with the catch landed that morning.",
+    "tags": ["beaches", "food-wine"],
+    "source": "curated"
+  },
+  "3937458": {
+    "displayName": "Nazca",
+    "knownFor": "The Nazca Lines — enormous geoglyphs of hummingbirds, spiders, and spirals etched into the desert floor by the Nazca culture 2,000 years ago — are best viewed from a small plane at dawn. Their purpose remains unknown. The aqueducts still function.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "3946768": {
+    "displayName": "Puerto Maldonado",
+    "knownFor": "Gateway to the Madre de Dios Amazon basin — one of the world's most biodiverse regions. Tambopata National Reserve has macaw clay licks and giant river otter families; the Inkaterra Reserva Amazónica lodge is the luxury anchor. Birding is exceptional year-round.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "3948518": {
+    "displayName": "Trujillo",
+    "knownFor": "The colonial city adjacent to Chan Chan — the largest pre-Columbian city in South America and capital of the Chimu Empire. The adobe city covers 20km²; the Huaca de la Luna murals are among the finest ancient art in the Americas.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "3947406": {
+    "displayName": "Chiclayo",
+    "knownFor": "The closest large city to Sipán — the royal tomb of the Lord of Sipán, a Moche ruler buried with extraordinary gold and copper regalia. The Royal Tombs of Sipán Museum in nearby Lambayeque is considered Peru's finest museum outside Lima.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+
+  "3435910": {
+    "displayName": "Buenos Aires",
+    "knownFor": "The Paris of South America is most itself at 2am in a milonga dance hall, or at a Sunday asado that lasts until nightfall, or at a Boca Juniors match in La Bombonera stadium. Palermo's design district, San Telmo's antique market, and the Recoleta cemetery are the daytime anchors.",
+    "tags": ["food-wine", "nightlife", "shopping", "history"],
+    "source": "curated"
+  },
+  "3844421": {
+    "displayName": "Mendoza",
+    "knownFor": "Argentina's wine capital at the foot of the Andes — Malbec originated here, and the bodegas of Luján de Cuyo and the Uco Valley now produce world-class Cabernet and Torrontés alongside it. The Aconcagua (highest peak in the Americas) is visible on clear days; the skiing at Las Leñas is world-class.",
+    "tags": ["food-wine", "nature"],
+    "source": "curated"
+  },
+  "3860259": {
+    "displayName": "Bariloche",
+    "knownFor": "Patagonia's Swiss-style lakeside city, ringed by the Andes and the lakes of Nahuel Huapi National Park. Skiing in winter, trekking in summer — the Circuito Chico and Cerro Tronador are the classic routes. The chocolate shops are inexplicably excellent.",
+    "tags": ["nature", "food-wine"],
+    "source": "curated"
+  },
+  "3855065": {
+    "displayName": "El Calafate",
+    "knownFor": "The gateway to Perito Moreno glacier — one of the few glaciers on earth that is still advancing. Standing at the ice walkways while 50-meter walls of blue ice calve into the lake with a sound like cannon fire is a visceral, unforgettable experience.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "3837346": {
+    "displayName": "Salta",
+    "knownFor": "Argentina's most beautiful colonial city, with a well-preserved center and access to the dramatic Andean landscapes of Jujuy province. The Tren a las Nubes (Train to the Clouds) reaches 4,220 meters; the Quebrada de Humahuaca's polychrome rock is UNESCO-listed.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "3860443": {
+    "displayName": "Puerto Iguazú",
+    "knownFor": "On the Argentine side of Iguazú Falls — wider and arguably more spectacular than Niagara, split into 275 individual waterfalls with the Garganta del Diablo (Devil's Throat) at the center. The walkways through the spray are the only way to experience it. The Brazilian side gives the panoramic view.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "3838859": {
+    "displayName": "Ushuaia",
+    "knownFor": "The southernmost city on earth, gateway to Antarctica and the end of the Ruta 40. The Beagle Channel, the Tierra del Fuego National Park, and the Martial Glacier are the hikes. The end-of-the-world post office still stamps passports.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "3838994": {
+    "displayName": "Córdoba",
+    "knownFor": "Argentina's university city — energetic, young, and culturally rich. The Jesuit Block and estancias are UNESCO-listed; the nightlife rivals Buenos Aires; the Sierras de Córdoba behind the city offer weekend hiking. The Villa General Belgrano German colony and its Oktoberfest are a bizarre sidebar.",
+    "tags": ["history", "nightlife"],
+    "source": "curated"
+  },
+  "3838616": {
+    "displayName": "Humahuaca",
+    "knownFor": "A colonial town in the Quebrada de Humahuaca — a UNESCO World Heritage valley of polychrome sandstone mountains that change color through the day. The Hill of Seven Colors near Purmamarca is the iconic shot; the cactus-dotted altiplano around it is otherworldly.",
+    "tags": ["nature", "history"],
+    "source": "curated"
+  },
+  "3837020": {
+    "displayName": "El Chaltén",
+    "knownFor": "Argentina's trekking capital at the foot of the Fitz Roy massif — arguably the most dramatic mountain in South America. The Laguna de los Tres trail to the base of Fitz Roy is one of the world's great day hikes. The village has no traffic lights and shuts almost entirely in winter.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "3453643": {
+    "displayName": "Puerto Madryn",
+    "knownFor": "The gateway to Península Valdés — a UNESCO natural reserve where southern right whales, orca, elephant seals, and Magellanic penguins all concentrate in the same bay system. The whale season (July–November) draws wildlife photographers from around the world.",
+    "tags": ["nature", "beaches"],
+    "source": "curated"
+  },
+
+  "3451190": {
+    "displayName": "Rio de Janeiro",
+    "knownFor": "The cidade maravilhosa — the marvelous city. Christ the Redeemer, Sugarloaf, Ipanema and Copacabana beaches, Carnival, and the favela community tours of Santa Marta are its six images. The caipirinha at sunset from Arpoador rock, watching the surfers and the mountain together, is the Rio moment.",
+    "tags": ["beaches", "nightlife", "nature", "history"],
+    "source": "curated"
+  },
+  "3448439": {
+    "displayName": "São Paulo",
+    "knownFor": "The most populous city in the Southern Hemisphere and Brazil's economic engine. The restaurant scene is extraordinary — the Japanese community (Liberdade) the largest outside Japan, the Italian community (Mooca) the largest outside Italy. The São Paulo Art Museum (MASP) and the Pinacoteca are world-class.",
+    "tags": ["food-wine", "nightlife", "shopping"],
+    "source": "curated"
+  },
+  "3463237": {
+    "displayName": "Florianópolis",
+    "knownFor": "The island capital of Santa Catarina, with 42 beaches of wildly different character — Praia Mole for surf culture, Lagoa da Conceição for windsurfing, Jurerê Internacional for the scene. The Hercílio Luz suspension bridge and the Lagoa do Peri ecological reserve complete the picture.",
+    "tags": ["beaches", "nightlife", "nature"],
+    "source": "curated"
+  },
+  "3450554": {
+    "displayName": "Salvador",
+    "knownFor": "The capital of Afro-Brazilian culture: the Pelourinho's colonial squares where Olodum drums echo, the Bonfim church's ribbon ties, and the candomblé ceremonies of the Terreiros. The acarajé (fried bean fritters with shrimp) sold from street carts is the local institution.",
+    "tags": ["history", "food-wine", "nightlife"],
+    "source": "curated"
+  },
+  "3463083": {
+    "displayName": "Foz do Iguaçu",
+    "knownFor": "The Brazilian side of Iguazú Falls gives the panoramic view across the entire 2.7km curtain of water — Eleanor Roosevelt said 'Poor Niagara' upon seeing it. The Itaipu dam tour and the Bird Park are the supporting acts.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "3663517": {
+    "displayName": "Manaus",
+    "knownFor": "The Amazon's grand city, built during the rubber boom on wealth extracted from the forest. The Teatro Amazonas opera house — the most improbable building in Brazil, pink-domed in the middle of the rainforest — remains its symbol. The Meeting of the Waters (Rio Negro meets the Amazon) is just outside.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "3463083_paraty": {
+    "displayName": "Paraty",
+    "knownFor": "A perfectly preserved 18th-century colonial port on the Costa Verde, where cobblestone streets are designed to flood at high tide and wash themselves clean. The distilleries producing cachaça in the surrounding hills, the boat trips to emerald lagoons, and the FLIP literary festival give it unusual depth.",
+    "tags": ["history", "nature", "food-wine"],
+    "source": "curated"
+  },
+  "3468155": {
+    "displayName": "Bonito",
+    "knownFor": "The eco-tourism capital of Brazil, where the rivers are so clear and the visibility so extraordinary that you can snorkel above freshwater fish by the thousands. The Blue Lake cave, the Buraco das Araras macaw refuge, and the Rio da Prata snorkeling trail are all here.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "3454005": {
+    "displayName": "Ouro Preto",
+    "knownFor": "Brazil's most intact Baroque city, built on 18th-century gold wealth in the mountains of Minas Gerais. Aleijadinho's carvings in the churches here are Brazil's greatest sculpture. The cobblestone streets, the artisanal cachaça producers, and the soapstone workshops are the living heritage.",
+    "tags": ["history"],
+    "source": "curated"
+  },
+  "3391131": {
+    "displayName": "Fernando de Noronha",
+    "knownFor": "A volcanic archipelago 354km off Brazil's northeast coast and one of the world's finest marine environments. Spinner dolphins in Baía dos Golfinhos, sea turtles nesting on Praia do Leão, and snorkeling at Baía do Sancho — consistently voted Brazil's best beach — make it an ecological paradise.",
+    "tags": ["beaches", "nature"],
+    "source": "curated"
+  },
+  "3455775": {
+    "displayName": "Natal",
+    "knownFor": "The city of the sun — Natal claims 300 days of sunshine annually and some of Brazil's most beautiful beach landscapes. The Genipabu sand dunes and their camels are the tourist landmark; Pipa, an hour south, is a more sophisticated beach village.",
+    "tags": ["beaches", "nature"],
+    "source": "curated"
+  },
+  "3464975": {
+    "displayName": "Gramado",
+    "knownFor": "A mountain town in Rio Grande do Sul that built itself in the image of a Bavarian village — surprising and charming. Christmas here is Brazil's most famous festival; the Lago Negro, the chocolate shops, and the Serra Gaúcha wine valley nearby make it a year-round destination.",
+    "tags": ["food-wine", "nature"],
+    "source": "curated"
+  },
+
+  "3621849": {
+    "displayName": "San José",
+    "knownFor": "Costa Rica's compact capital is primarily a hub rather than a destination — but the Gold Museum's pre-Columbian artifacts, the Central Market's casados, and the Barrio Amón neighborhood's Victorian mansions reward a half-day. Most visitors pass through en route to the volcanoes or coasts.",
+    "tags": ["history", "food-wine"],
+    "source": "curated"
+  },
+  "3621849_fortuna": {
+    "displayName": "La Fortuna",
+    "knownFor": "The adventure capital of Costa Rica, built around the perfect cone of Arenal Volcano — dormant since 2010 but still steaming. The hot springs fed by geothermal water (Tabacón, Baldi) are the evening ritual; white-water rafting on the Balsa, zip-lining, and hanging bridges through the rainforest fill the days.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "3621849_manuel": {
+    "displayName": "Manuel Antonio",
+    "knownFor": "Costa Rica's most visited national park in miniature: white-sand beaches fringed by jungle where capuchin monkeys, sloths, and raccoons share the beach with swimmers. Small enough to walk all the trails in a day; the park entrance queue starts at 7am.",
+    "tags": ["nature", "beaches"],
+    "source": "curated"
+  },
+  "3621849_monteverde": {
+    "displayName": "Monteverde",
+    "knownFor": "A cloud forest reserve at 1,440 meters where mist-soaked trees drip with bromeliads and howler monkeys announce the dawn. The Monteverde Cloud Forest Reserve is the oldest private reserve in the country; the Curi-Cancha reserve is less crowded and equally good for quetzals.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "3621849_puertoviejo": {
+    "displayName": "Puerto Viejo",
+    "knownFor": "Costa Rica's Caribbean coast is culturally distinct from the Pacific — Afro-Caribbean, Rastafari, and Panamanian cultures blend in this laid-back beach town. Punta Uva and Playa Cocles have some of the country's finest beaches; the Jaguar Rescue Center is nearby.",
+    "tags": ["beaches", "nature"],
+    "source": "curated"
+  },
+  "3621849_tamarindo": {
+    "displayName": "Tamarindo",
+    "knownFor": "Guanacaste's surf capital on the dry Pacific coast — long beach, consistent swell, and a town built entirely around surf culture. The Leatherback turtle nesting at nearby Playa Grande (in season) is one of the world's great wildlife encounters.",
+    "tags": ["beaches", "nature"],
+    "source": "curated"
+  },
+  "3621849_liberia": {
+    "displayName": "Liberia",
+    "knownFor": "The gateway to Guanacaste's dry tropical forest and the Pacific beaches of the Nicoya Peninsula. The colonial city center (the White City) is the only intact 19th-century streetscape in Costa Rica. Rincon de la Vieja volcano's fumaroles and mud pools are an hour away.",
+    "tags": ["history", "nature"],
+    "source": "curated"
+  },
+  "3621849_jaco": {
+    "displayName": "Jacó",
+    "knownFor": "The Central Pacific's main beach resort — the closest beach destination to San José, with a lively strip of surf shops and nightlife. The surf is powerful and consistent; the ATV tours into the jungle behind town and the crocodile boat tours on the Tárcoles River are the activities.",
+    "tags": ["beaches", "nightlife", "nature"],
+    "source": "curated"
+  },
+  "3621849_nosara": {
+    "displayName": "Nosara",
+    "knownFor": "The yoga capital of the Americas on the Nicoya Peninsula — Playa Guiones is a long, protected beach with consistent surf, and the town has an international community of wellness practitioners. No large hotels, no chain restaurants; the primary forest has been protected by the Nosara Association.",
+    "tags": ["beaches", "nature"],
+    "source": "curated"
+  },
+  "3621849_tortuguero": {
+    "displayName": "Tortuguero",
+    "knownFor": "Reachable only by boat or plane, Tortuguero is a narrow sliver of land between the Caribbean and a network of jungle canals. Green sea turtles nest here from July to October in the largest rookery in the western Caribbean. Nocturnal nesting tours are one of Costa Rica's most extraordinary experiences.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "3621849_drake": {
+    "displayName": "Drake Bay",
+    "knownFor": "The remote edge of the Osa Peninsula, where the Corcovado National Park — National Geographic's 'most biologically intense place on earth' — begins. Scarlet macaws, tapirs, and all four Costa Rican monkey species are reliably seen. Access by small plane or a 3-hour boat ride.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "3621849_cahuita": {
+    "displayName": "Cahuita",
+    "knownFor": "A laid-back Caribbean village next to a national park with the country's best coral reef. The sloth sightings on the trails are almost guaranteed; the beach is deserted by 3pm. The Afro-Caribbean cooking — rice and beans cooked in coconut milk — is distinct from anywhere else in Costa Rica.",
+    "tags": ["beaches", "nature", "food-wine"],
+    "source": "curated"
+  },
+  "3621849_turrialba": {
+    "displayName": "Turrialba",
+    "knownFor": "The white-water rafting capital of Costa Rica on the Río Pacuare — consistently ranked among the world's top 10 river runs. The Turrialba volcano is still active; the CATIE tropical research garden is the largest in Latin America. A genuine small Costa Rican town with few tourist pretensions.",
+    "tags": ["nature"],
+    "source": "curated"
+  },
+  "3621849_dominical": {
+    "displayName": "Dominical",
+    "knownFor": "A tiny surf village on a crescent of dark sand where the jungle meets the beach. The wave at Dominical is fast and hollow — better for intermediate-to-advanced surfers. Nauyaca waterfalls (a two-hour horse ride inland) are among Costa Rica's most spectacular. Uvita's whale tail sandbar is 15 minutes south.",
+    "tags": ["beaches", "nature"],
+    "source": "curated"
   }
 }

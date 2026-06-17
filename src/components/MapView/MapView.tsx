@@ -21,14 +21,15 @@ function getPinColor(city: City): string {
   return TAG_COLORS[tag] ?? '#8B9BAD';
 }
 
-function makePinSvg(color: string, selected: boolean): string {
+function makePinSvg(color: string, selected: boolean, dimmed: boolean): string {
   const size = selected ? 40 : 28;
   const r = selected ? 10 : 7;
+  const fill = dimmed ? '#C8C2B8' : color;
   const stroke = selected ? '#F5F2EC' : 'rgba(255,255,255,0.9)';
   const sw = selected ? 2.5 : 1.5;
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 ${size} ${size}">
-    <circle cx="${size / 2}" cy="${size / 2}" r="${r}" fill="${color}" stroke="${stroke}" stroke-width="${sw}"/>
-    ${selected ? `<circle cx="${size / 2}" cy="${size / 2}" r="${r + 5}" fill="none" stroke="${color}" stroke-width="1.5" opacity="0.4"/>` : ''}
+    <circle cx="${size / 2}" cy="${size / 2}" r="${r}" fill="${fill}" stroke="${stroke}" stroke-width="${sw}"/>
+    ${selected ? `<circle cx="${size / 2}" cy="${size / 2}" r="${r + 5}" fill="none" stroke="${fill}" stroke-width="1.5" opacity="0.4"/>` : ''}
   </svg>`;
 }
 
@@ -207,13 +208,14 @@ export function MapView() {
         activeFilters.length === 0 ||
         (city.content?.tags.some((t) => activeFilters.includes(t)) ?? false);
 
+      const dimmed = !matchesFilter;
       const color = getPinColor(city);
-      const el = svgToElement(makePinSvg(color, isSelected));
-      el.style.cursor = 'pointer';
-      el.style.opacity = matchesFilter ? '1' : '0.2';
-      el.style.transition = 'opacity 0.25s ease';
-      el.style.transform = isSelected ? 'scale(1.2)' : 'scale(1)';
-      el.style.zIndex = isSelected ? '10' : '1';
+      const el = svgToElement(makePinSvg(color, isSelected, dimmed));
+      el.style.cursor = dimmed ? 'default' : 'pointer';
+      el.style.opacity = dimmed ? '0.18' : '1';
+      el.style.transition = 'opacity 0.25s ease, transform 0.15s ease';
+      el.style.transform = isSelected ? 'scale(1.2)' : dimmed ? 'scale(0.75)' : 'scale(1)';
+      el.style.zIndex = isSelected ? '10' : dimmed ? '0' : '1';
 
       el.addEventListener('click', (e) => {
         e.stopPropagation();

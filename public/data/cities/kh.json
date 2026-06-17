@@ -1,0 +1,17 @@
+[
+  {"id":"1821306","name":"Siem Reap","region":"Siem Reap","coordinates":[103.8597,13.3671],"population":250000},
+  {"id":"1821274","name":"Phnom Penh","region":"Phnom Penh","coordinates":[104.9160,11.5564],"population":2281951},
+  {"id":"1821309","name":"Battambang","region":"Battambang","coordinates":[103.1981,13.0957],"population":250000},
+  {"id":"1821285","name":"Kampot","region":"Kampot","coordinates":[104.1818,10.6099],"population":40000},
+  {"id":"1821291","name":"Kep","region":"Kep","coordinates":[104.2978,10.4820],"population":40000},
+  {"id":"1821284","name":"Sihanoukville","region":"Preah Sihanouk","coordinates":[103.5273,10.6326],"population":90000},
+  {"id":"1821323","name":"Mondulkiri","region":"Mondulkiri","coordinates":[107.1877,12.4578],"population":20000},
+  {"id":"1821282","name":"Kratie","region":"Kratie","coordinates":[106.0196,12.4882],"population":40000},
+  {"id":"1821290","name":"Koh Kong","region":"Koh Kong","coordinates":[102.9842,11.6170],"population":30000},
+  {"id":"1821289","name":"Koh Rong","region":"Preah Sihanouk","coordinates":[103.2402,10.7199],"population":1000},
+  {"id":"1821280","name":"Banlung","region":"Ratanakiri","coordinates":[106.9792,13.7312],"population":25000},
+  {"id":"1821283","name":"Kampong Cham","region":"Kampong Cham","coordinates":[105.4466,12.0003],"population":90000},
+  {"id":"1821312","name":"Takeo","region":"Takeo","coordinates":[104.7878,10.9908],"population":40000},
+  {"id":"1821315","name":"Kampong Thom","region":"Kampong Thom","coordinates":[104.8978,12.7111],"population":50000},
+  {"id":"1821286","name":"Pursat","region":"Pursat","coordinates":[103.9167,12.5388],"population":40000}
+]

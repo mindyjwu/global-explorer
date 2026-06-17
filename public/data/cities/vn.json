@@ -1,0 +1,17 @@
+[
+  {"id":"1581130","name":"Hanoi","region":"Red River Delta","coordinates":[105.8412,21.0278],"population":3629000},
+  {"id":"1566083","name":"Ho Chi Minh City","region":"Southeast","coordinates":[106.6297,10.8231],"population":8993000},
+  {"id":"1580578","name":"Hoi An","region":"Central","coordinates":[108.3281,15.8800],"population":121716},
+  {"id":"1572151","name":"Da Nang","region":"Central","coordinates":[108.2022,16.0544],"population":1007700},
+  {"id":"1580240","name":"Hue","region":"Central","coordinates":[107.5938,16.4637],"population":354124},
+  {"id":"1581349","name":"Ha Long City","region":"Northeast","coordinates":[107.0683,20.9517],"population":248843},
+  {"id":"1581519","name":"Sapa","region":"Northwest","coordinates":[103.8430,22.3364],"population":38181},
+  {"id":"1564544","name":"Nha Trang","region":"South Central","coordinates":[109.1967,12.2388],"population":535954},
+  {"id":"1566013","name":"Da Lat","region":"Highland","coordinates":[108.4589,11.9464],"population":403331},
+  {"id":"1566028","name":"Mui Ne","region":"South Central","coordinates":[108.2869,10.9329],"population":30000},
+  {"id":"1566509","name":"Can Tho","region":"Mekong Delta","coordinates":[105.7469,10.0341],"population":1237300},
+  {"id":"1581182","name":"Ninh Binh","region":"Red River Delta","coordinates":[105.9745,20.2539],"population":130517},
+  {"id":"1562414","name":"Phu Quoc","region":"Southwest","coordinates":[103.9890,10.2899],"population":103000},
+  {"id":"1574023","name":"Quy Nhon","region":"Central","coordinates":[109.2198,13.7765],"population":303000},
+  {"id":"1580436","name":"Hoi An Old Town","region":"Central","coordinates":[108.3254,15.8756],"population":25000}
+]

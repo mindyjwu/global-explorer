@@ -1,0 +1,17 @@
+[
+  {"id":"1835848","name":"Seoul","region":"Seoul","coordinates":[126.9780,37.5665],"population":9776000},
+  {"id":"1838519","name":"Busan","region":"Gyeongsang","coordinates":[129.0756,35.1796],"population":3413000},
+  {"id":"1839071","name":"Gyeongju","region":"Gyeongsang","coordinates":[129.2113,35.8562],"population":259279},
+  {"id":"1846266","name":"Jeju City","region":"Jeju","coordinates":[126.5312,33.4996],"population":489927},
+  {"id":"1835235","name":"Jeonju","region":"Jeolla","coordinates":[127.1530,35.8242],"population":649347},
+  {"id":"1846918","name":"Sokcho","region":"Gangwon","coordinates":[128.5918,38.2070],"population":82548},
+  {"id":"1835986","name":"Andong","region":"Gyeongsang","coordinates":[128.7256,36.5684],"population":159026},
+  {"id":"1846543","name":"Suwon","region":"Gyeonggi","coordinates":[127.0287,37.2636],"population":1218000},
+  {"id":"1835329","name":"Incheon","region":"Incheon","coordinates":[126.7052,37.4563],"population":2935000},
+  {"id":"1835224","name":"Daegu","region":"Gyeongsang","coordinates":[128.6014,35.8714],"population":2440000},
+  {"id":"1846898","name":"Tongyeong","region":"Gyeongsang","coordinates":[128.4337,34.8544],"population":133082},
+  {"id":"1845457","name":"Chuncheon","region":"Gangwon","coordinates":[127.7342,37.8813],"population":281596},
+  {"id":"1835565","name":"Gwangju","region":"Jeolla","coordinates":[126.8514,35.1595],"population":1490092},
+  {"id":"1835776","name":"Damyang","region":"Jeolla","coordinates":[126.9857,35.3119],"population":47000},
+  {"id":"1846958","name":"Namhae","region":"Gyeongsang","coordinates":[127.8921,34.8375],"population":42000}
+]

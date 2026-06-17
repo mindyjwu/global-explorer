@@ -1,0 +1,17 @@
+[
+  {"id":"1261481","name":"New Delhi","region":"Delhi","coordinates":[77.1025,28.7041],"population":32900000},
+  {"id":"1275339","name":"Mumbai","region":"Maharashtra","coordinates":[72.8777,19.0760],"population":20700000},
+  {"id":"1269515","name":"Jaipur","region":"Rajasthan","coordinates":[75.7873,26.9124],"population":3046163},
+  {"id":"1253405","name":"Varanasi","region":"Uttar Pradesh","coordinates":[82.9739,25.3176],"population":1201696},
+  {"id":"1279259","name":"Agra","region":"Uttar Pradesh","coordinates":[78.0081,27.1767],"population":1686976},
+  {"id":"1271312","name":"Goa (Panaji)","region":"Goa","coordinates":[73.8279,15.4909],"population":114405},
+  {"id":"1275004","name":"Kolkata","region":"West Bengal","coordinates":[88.3639,22.5726],"population":14850000},
+  {"id":"1264527","name":"Chennai","region":"Tamil Nadu","coordinates":[80.2707,13.0827],"population":7088000},
+  {"id":"1253609","name":"Udaipur","region":"Rajasthan","coordinates":[73.7125,24.5854],"population":451100},
+  {"id":"1273874","name":"Kochi","region":"Kerala","coordinates":[76.2673,9.9312],"population":677381},
+  {"id":"1258980","name":"Rishikesh","region":"Uttarakhand","coordinates":[78.2676,30.0869],"population":102138},
+  {"id":"1270030","name":"Jodhpur","region":"Rajasthan","coordinates":[73.0243,26.2389],"population":1033918},
+  {"id":"1264731","name":"Mysuru","region":"Karnataka","coordinates":[76.6394,12.2958],"population":920550},
+  {"id":"1273645","name":"Hampi","region":"Karnataka","coordinates":[76.4600,15.3350],"population":2800},
+  {"id":"1272490","name":"Darjeeling","region":"West Bengal","coordinates":[88.2627,27.0360],"population":118805}
+]

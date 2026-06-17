@@ -1,0 +1,17 @@
+[
+  {"id":"1609350","name":"Bangkok","region":"Central","coordinates":[100.5018,13.7563],"population":10539000},
+  {"id":"1153671","name":"Chiang Mai","region":"North","coordinates":[98.9853,18.7883],"population":131091},
+  {"id":"1151254","name":"Phuket","region":"South","coordinates":[98.3923,7.8804],"population":75985},
+  {"id":"1611173","name":"Ayutthaya","region":"Central","coordinates":[100.5580,14.3532],"population":73270},
+  {"id":"1153395","name":"Chiang Rai","region":"North","coordinates":[99.8324,19.9105],"population":71639},
+  {"id":"1609871","name":"Kanchanaburi","region":"West","coordinates":[99.5328,14.0227],"population":38386},
+  {"id":"1116722","name":"Krabi","region":"South","coordinates":[98.9174,8.0863],"population":32688},
+  {"id":"1609446","name":"Hua Hin","region":"Central","coordinates":[99.9584,12.5684],"population":55000},
+  {"id":"1151562","name":"Koh Samui","region":"South","coordinates":[100.0619,9.5120],"population":63048},
+  {"id":"1154689","name":"Sukhothai","region":"North","coordinates":[99.8219,17.0070],"population":37000},
+  {"id":"1610780","name":"Pattaya","region":"East","coordinates":[100.8729,12.9236],"population":119532},
+  {"id":"1152380","name":"Pai","region":"North","coordinates":[98.4410,19.3586],"population":2297},
+  {"id":"1609543","name":"Kanchanaburi","region":"West","coordinates":[99.2800,14.0227],"population":38000},
+  {"id":"1151543","name":"Trang","region":"South","coordinates":[99.6128,7.5593],"population":68000},
+  {"id":"1612671","name":"Nakhon Ratchasima","region":"Northeast","coordinates":[102.1047,14.9799],"population":169154}
+]

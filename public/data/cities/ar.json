@@ -1,0 +1,17 @@
+[
+  {"id":"3435910","name":"Buenos Aires","region":"Buenos Aires","coordinates":[-58.3816,-34.6037],"population":3054300},
+  {"id":"3844421","name":"Mendoza","region":"Mendoza","coordinates":[-68.8272,-32.8908],"population":115041},
+  {"id":"3860259","name":"Bariloche","region":"Río Negro","coordinates":[-71.3103,-41.1335],"population":140292},
+  {"id":"3855065","name":"El Calafate","region":"Santa Cruz","coordinates":[-72.2682,-50.3400],"population":22000},
+  {"id":"3837346","name":"Salta","region":"Salta","coordinates":[-65.4117,-24.7821],"population":621561},
+  {"id":"3860443","name":"Puerto Iguazú","region":"Misiones","coordinates":[-54.5800,-25.5972],"population":82227},
+  {"id":"3838859","name":"Ushuaia","region":"Tierra del Fuego","coordinates":[-68.3030,-54.8019],"population":56956},
+  {"id":"3838994","name":"Córdoba","region":"Córdoba","coordinates":[-64.1811,-31.4201],"population":1454536},
+  {"id":"3838616","name":"Humahuaca","region":"Jujuy","coordinates":[-65.3508,-23.2043],"population":12000},
+  {"id":"3837020","name":"El Chaltén","region":"Santa Cruz","coordinates":[-72.8855,-49.3314],"population":1600},
+  {"id":"3844421","name":"Rosario","region":"Santa Fe","coordinates":[-60.6627,-32.9442],"population":948312},
+  {"id":"3844421","name":"Mar del Plata","region":"Buenos Aires","coordinates":[-57.5328,-38.0055],"population":669261},
+  {"id":"3844421","name":"Tucumán","region":"Tucumán","coordinates":[-65.2226,-26.8083],"population":549163},
+  {"id":"3844421","name":"Puerto Madryn","region":"Chubut","coordinates":[-65.0381,-42.7692],"population":95883},
+  {"id":"3844421","name":"Colonia Suiza","region":"Río Negro","coordinates":[-71.4344,-41.1720],"population":3000}
+]

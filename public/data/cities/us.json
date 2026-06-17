@@ -1,0 +1,17 @@
+[
+  {"id":"5128581","name":"New York City","region":"New York","coordinates":[-74.0059,40.7128],"population":8336817},
+  {"id":"5368361","name":"Los Angeles","region":"California","coordinates":[-118.2437,34.0522],"population":3979576},
+  {"id":"4335045","name":"New Orleans","region":"Louisiana","coordinates":[-90.0715,29.9511],"population":383997},
+  {"id":"5391959","name":"San Francisco","region":"California","coordinates":[-122.4194,37.7749],"population":873965},
+  {"id":"4887398","name":"Chicago","region":"Illinois","coordinates":[-87.6298,41.8781],"population":2693976},
+  {"id":"4164138","name":"Miami","region":"Florida","coordinates":[-80.1918,25.7617],"population":467963},
+  {"id":"4644585","name":"Nashville","region":"Tennessee","coordinates":[-86.7816,36.1627],"population":689447},
+  {"id":"5856195","name":"Honolulu","region":"Hawai'i","coordinates":[-157.8583,21.3069],"population":347397},
+  {"id":"5314328","name":"Sedona","region":"Arizona","coordinates":[-111.7623,34.8697],"population":10335},
+  {"id":"4744091","name":"Savannah","region":"Georgia","coordinates":[-81.0998,32.0835],"population":147780},
+  {"id":"4167178","name":"Key West","region":"Florida","coordinates":[-81.7816,24.5551],"population":25462},
+  {"id":"5746545","name":"Portland","region":"Oregon","coordinates":[-122.6765,45.5051],"population":652503},
+  {"id":"4671654","name":"Austin","region":"Texas","coordinates":[-97.7431,30.2672],"population":961855},
+  {"id":"5549220","name":"Jackson (Hole)","region":"Wyoming","coordinates":[-110.7624,43.4799],"population":10532},
+  {"id":"5308655","name":"Flagstaff","region":"Arizona","coordinates":[-111.6513,35.1983],"population":75038}
+]
