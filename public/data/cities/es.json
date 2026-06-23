@@ -1,0 +1,17 @@
+[
+  {"id":"3128760","name":"Barcelona","region":"Catalonia","coordinates":[2.1734,41.3851],"population":1636762},
+  {"id":"3117735","name":"Madrid","region":"Community of Madrid","coordinates":[-3.7038,40.4168],"population":3305408},
+  {"id":"2511401","name":"Seville","region":"Andalusia","coordinates":[-5.9845,37.3891],"population":688592},
+  {"id":"2517117","name":"Granada","region":"Andalusia","coordinates":[-3.5986,37.1773],"population":232208},
+  {"id":"2509954","name":"Valencia","region":"Valencia","coordinates":[-0.3773,39.4699],"population":814208},
+  {"id":"3110044","name":"San Sebastián","region":"Basque Country","coordinates":[-1.9812,43.3183],"population":188102},
+  {"id":"3128026","name":"Bilbao","region":"Basque Country","coordinates":[-2.9253,43.2627],"population":345891},
+  {"id":"2510609","name":"Toledo","region":"Castile-La Mancha","coordinates":[-3.9978,39.8628],"population":83108},
+  {"id":"2514256","name":"Málaga","region":"Andalusia","coordinates":[-4.4214,36.7213],"population":571026},
+  {"id":"2519240","name":"Córdoba","region":"Andalusia","coordinates":[-4.7794,37.8882],"population":325916},
+  {"id":"3110671","name":"Santiago de Compostela","region":"Galicia","coordinates":[-8.5448,42.8805],"population":97600},
+  {"id":"2515270","name":"Ibiza Town","region":"Balearic Islands","coordinates":[1.4322,38.9085],"population":49397},
+  {"id":"2512989","name":"Palma","region":"Balearic Islands","coordinates":[2.6500,39.5696],"population":416065},
+  {"id":"2511485","name":"Ronda","region":"Andalusia","coordinates":[-5.1658,36.7478],"population":34500},
+  {"id":"3110750","name":"Segovia","region":"Castile and León","coordinates":[-4.1184,40.9429],"population":54368}
+]

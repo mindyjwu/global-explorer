@@ -1,0 +1,17 @@
+[
+  {"id":"1701668","name":"Manila","region":"Metro Manila","coordinates":[120.9842,14.5995],"population":1846513},
+  {"id":"1721067","name":"Cebu City","region":"Cebu","coordinates":[123.9010,10.3157],"population":964169},
+  {"id":"1693240","name":"Puerto Princesa","region":"Palawan","coordinates":[118.7384,9.7392],"population":255116},
+  {"id":"1702927","name":"Boracay","region":"Aklan","coordinates":[121.9200,11.9670],"population":35000},
+  {"id":"1714905","name":"Siargao","region":"Surigao del Norte","coordinates":[126.0859,9.8508],"population":15000},
+  {"id":"1729006","name":"Tagbilaran","region":"Bohol","coordinates":[123.8526,9.6573],"population":109075},
+  {"id":"1717869","name":"Basco","region":"Batanes","coordinates":[121.9700,20.4486],"population":7000},
+  {"id":"1685243","name":"Vigan","region":"Ilocos Sur","coordinates":[120.3870,17.5747],"population":114147},
+  {"id":"1717380","name":"Coron","region":"Palawan","coordinates":[120.2009,11.9998],"population":35000},
+  {"id":"1706838","name":"El Nido","region":"Palawan","coordinates":[119.4067,11.1869],"population":35000},
+  {"id":"1714593","name":"Dumaguete","region":"Negros Oriental","coordinates":[123.3073,9.3076],"population":131377},
+  {"id":"1691389","name":"Sagada","region":"Mountain Province","coordinates":[120.8789,17.0850],"population":11000},
+  {"id":"1694880","name":"Davao","region":"Davao del Sur","coordinates":[125.6133,7.1907],"population":1776949},
+  {"id":"1710455","name":"Iloilo City","region":"Iloilo","coordinates":[122.5644,10.6969],"population":447992},
+  {"id":"1687680","name":"Banaue","region":"Ifugao","coordinates":[121.0600,16.9186],"population":18000}
+]

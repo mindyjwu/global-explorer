@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2260535",
+    "name": "Brazzaville",
+    "region": "Brazzaville Department",
+    "coordinates": [
+      15.2834,
+      -4.2694
+    ],
+    "population": 1827000
+  },
+  {
+    "id": "2260535_pnoire",
+    "name": "Pointe-Noire",
+    "region": "Pointe-Noire Department",
+    "coordinates": [
+      11.8635,
+      -4.7769
+    ],
+    "population": 715300
+  },
+  {
+    "id": "2260535_odzala",
+    "name": "Odzala-Kokoua NP",
+    "region": "Cuvette-Ouest Department",
+    "coordinates": [
+      14.8892,
+      1.0164
+    ],
+    "population": 2000
+  }
+]

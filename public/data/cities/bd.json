@@ -1,0 +1,12 @@
+[
+  {"id":"1185241","name":"Dhaka","region":"Dhaka Division","coordinates":[90.4125,23.8103],"population":8906039},
+  {"id":"1205733","name":"Chittagong","region":"Chattogram Division","coordinates":[91.8317,22.3569],"population":2581643},
+  {"id":"1185326","name":"Cox's Bazar","region":"Chattogram Division","coordinates":[91.9761,21.4272],"population":108000},
+  {"id":"1183377","name":"Sylhet","region":"Sylhet Division","coordinates":[91.8750,24.8949],"population":526412},
+  {"id":"1185241_rajshahi","name":"Rajshahi","region":"Rajshahi Division","coordinates":[88.5642,24.3636],"population":700000},
+  {"id":"1185241_khulna","name":"Khulna","region":"Khulna Division","coordinates":[89.5644,22.8456],"population":1022000},
+  {"id":"1185241_sundarbans","name":"Sundarbans","region":"Khulna Division","coordinates":[89.5667,22.4833],"population":40000},
+  {"id":"1185241_rangamati","name":"Rangamati","region":"Chattogram Division","coordinates":[92.1919,22.6523],"population":40000},
+  {"id":"1185241_srimangal","name":"Srimangal","region":"Sylhet Division","coordinates":[91.7289,24.3028],"population":30000},
+  {"id":"1185241_bandarban","name":"Bandarban","region":"Chattogram Division","coordinates":[92.2218,22.1966],"population":50000}
+]

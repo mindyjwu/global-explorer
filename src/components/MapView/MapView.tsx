@@ -5,6 +5,7 @@ import { useAppState } from '../../store/appState';
 import { loadCities } from '../../lib/cityData';
 import { SUPPORTED_COUNTRIES, MAP_STYLE, GLOBE_ZOOM, GLOBE_CENTER } from '../../lib/constants';
 import type { City, InterestTag } from '../../types';
+import type { CountryConfig } from '../../types';
 
 const TAG_COLORS: Record<InterestTag, string> = {
   nature:      '#2F8A6E',
@@ -39,13 +40,61 @@ function svgToElement(svg: string): HTMLElement {
   return div.firstChild as HTMLElement;
 }
 
+// Compute [minLng, minLat, maxLng, maxLat] from a GeoJSON feature's polygon coords.
+// Only uses outer rings (index 0) to keep it fast.
+function bboxFromFeature(feature: maplibregl.MapGeoJSONFeature): [number, number, number, number] | null {
+  const geom = feature.geometry as { type: string; coordinates: unknown } | null;
+  if (!geom) return null;
+
+  let rings: [number, number][][] = [];
+  if (geom.type === 'Polygon') {
+    rings = [(geom.coordinates as [number, number][][])[0]];
+  } else if (geom.type === 'MultiPolygon') {
+    rings = (geom.coordinates as [number, number][][][]).map((p) => p[0]);
+  } else {
+    return null;
+  }
+
+  let minLng = Infinity, maxLng = -Infinity, minLat = Infinity, maxLat = -Infinity;
+  for (const ring of rings) {
+    for (const [lng, lat] of ring) {
+      if (lng < minLng) minLng = lng;
+      if (lng > maxLng) maxLng = lng;
+      if (lat < minLat) minLat = lat;
+      if (lat > maxLat) maxLat = lat;
+    }
+  }
+  return minLng === Infinity ? null : [minLng, minLat, maxLng, maxLat];
+}
+
+// GeoJSON uses non-standard iso2 codes for some territories; map them to our city file names.
+const CITIESFILE_OVERRIDES: Record<string, string> = {
+  'CN-TW': 'tw',
+};
+
+function configFromFeature(iso2: string, name: string, feature: maplibregl.MapGeoJSONFeature): CountryConfig {
+  const bbox = bboxFromFeature(feature);
+  let center: [number, number] = [0, 0];
+  let zoom = 5;
+
+  if (bbox) {
+    const [minLng, minLat, maxLng, maxLat] = bbox;
+    center = [(minLng + maxLng) / 2, (minLat + maxLat) / 2];
+    const span = Math.max(maxLng - minLng, maxLat - minLat);
+    zoom = span < 3 ? 8 : span < 8 ? 7 : span < 15 ? 6 : span < 30 ? 5.5 : span < 50 ? 4.5 : 4;
+  }
+
+  const citiesFile = CITIESFILE_OVERRIDES[iso2] ?? iso2.toLowerCase();
+  return { iso2, name, center, zoom, citiesFile };
+}
+
 export function MapView() {
   const mapContainer = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
   const markersRef = useRef<maplibregl.Marker[]>([]);
   const flyingRef = useRef(false);
 
-  const { view, activeCountry, cities, selectedCity, activeFilters, flyToCountry, selectCity } =
+  const { view, activeCountry, cities, selectedCity, activeFilters, beginFly, setCities, selectCity } =
     useAppState();
 
   // Initialize map
@@ -70,28 +119,24 @@ export function MapView() {
       map.resize();
       map.setProjection({ type: 'globe' });
 
-      // Country fill layer
       map.addSource('countries', {
         type: 'geojson',
         data: '/data/geo/countries-110m.geojson',
+        generateId: true,
       });
 
+      // All countries are clickable now — uniform gold styling
       map.addLayer({
         id: 'country-fill',
         type: 'fill',
         source: 'countries',
         paint: {
-          'fill-color': [
-            'case',
-            ['in', ['get', 'iso2'], ['literal', Object.keys(SUPPORTED_COUNTRIES)]],
-            '#C99A3B',
-            '#D9D2C6',
-          ],
+          'fill-color': '#C99A3B',
           'fill-opacity': [
             'case',
             ['boolean', ['feature-state', 'hover'], false],
-            0.35,
-            0.12,
+            0.30,
+            0.10,
           ],
         },
       });
@@ -101,19 +146,9 @@ export function MapView() {
         type: 'line',
         source: 'countries',
         paint: {
-          'line-color': [
-            'case',
-            ['in', ['get', 'iso2'], ['literal', Object.keys(SUPPORTED_COUNTRIES)]],
-            '#C99A3B',
-            '#C0B9AD',
-          ],
-          'line-width': [
-            'case',
-            ['in', ['get', 'iso2'], ['literal', Object.keys(SUPPORTED_COUNTRIES)]],
-            1.2,
-            0.5,
-          ],
-          'line-opacity': 0.6,
+          'line-color': '#B89030',
+          'line-width': 0.8,
+          'line-opacity': 0.5,
         },
       });
 
@@ -140,16 +175,23 @@ export function MapView() {
         hoveredId = null;
       });
 
-      // Click country
+      // Universal click — works for any country
       map.on('click', 'country-fill', async (e) => {
         if (!e.features?.length || flyingRef.current) return;
-        const iso2 = e.features[0].properties?.iso2 as string;
-        const config = SUPPORTED_COUNTRIES[iso2];
-        if (!config) return;
+
+        const feat = e.features[0];
+        const iso2 = feat.properties?.iso2 as string | undefined;
+        if (!iso2) return;
+
+        const name = (feat.properties?.name as string | undefined) || iso2;
+        const config = SUPPORTED_COUNTRIES[iso2] ?? configFromFeature(iso2, name, feat);
+
         flyingRef.current = true;
+        beginFly(config); // atomically sets view=country + isLoading=true
+
         try {
           const loaded = await loadCities(config.citiesFile);
-          flyToCountry(config, loaded);
+          setCities(loaded); // sets cities + isLoading=false
         } finally {
           flyingRef.current = false;
         }
@@ -168,7 +210,7 @@ export function MapView() {
       map.remove();
       mapRef.current = null;
     };
-  }, [flyToCountry]);
+  }, [beginFly, setCities]);
 
   // Fly to country when view changes
   useEffect(() => {

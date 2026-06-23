@@ -1,0 +1,14 @@
+[
+  {"id":"281184","name":"Jerusalem","region":"Jerusalem","coordinates":[35.2137,31.7683],"population":974000},
+  {"id":"293397","name":"Tel Aviv","region":"Tel Aviv","coordinates":[34.7818,32.0853],"population":460613},
+  {"id":"294946","name":"Eilat","region":"Southern","coordinates":[34.9519,29.5581],"population":53000},
+  {"id":"294801","name":"Haifa","region":"Haifa","coordinates":[34.9884,32.7940],"population":285316},
+  {"id":"294751","name":"Nazareth","region":"North","coordinates":[35.2963,32.6993],"population":78000},
+  {"id":"294361","name":"Dead Sea","region":"Southern","coordinates":[35.3602,31.1997],"population":2000},
+  {"id":"281184_masada","name":"Masada","region":"Southern","coordinates":[35.3658,31.3153],"population":200},
+  {"id":"293690","name":"Caesarea","region":"Haifa","coordinates":[34.8997,32.5069],"population":5000},
+  {"id":"295277","name":"Akko","region":"North","coordinates":[35.0822,32.9264],"population":50000},
+  {"id":"293985","name":"Safed","region":"North","coordinates":[35.4979,32.9648],"population":34000},
+  {"id":"293690_tiberias","name":"Tiberias","region":"North","coordinates":[35.5346,32.7922],"population":43000},
+  {"id":"281283","name":"Bethlehem","region":"West Bank","coordinates":[35.2024,31.7054],"population":25000}
+]

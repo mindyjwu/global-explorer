@@ -1,0 +1,22 @@
+[
+  {
+    "id": "2310247",
+    "name": "Malabo",
+    "region": "Bioko Norte",
+    "coordinates": [
+      8.7741,
+      3.7523
+    ],
+    "population": 297000
+  },
+  {
+    "id": "2310247_bata",
+    "name": "Bata",
+    "region": "Litoral Province",
+    "coordinates": [
+      9.765,
+      1.8639
+    ],
+    "population": 173046
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {"id":"3200812","name":"Dubrovnik","region":"Dubrovnik-Neretva","coordinates":[18.0944,42.6507],"population":42615},
+  {"id":"3190261","name":"Split","region":"Split-Dalmatia","coordinates":[16.4402,43.5081],"population":178102},
+  {"id":"3186886","name":"Zagreb","region":"City of Zagreb","coordinates":[15.9819,45.8150],"population":806341},
+  {"id":"3191648","name":"Hvar","region":"Split-Dalmatia","coordinates":[16.4420,43.1729],"population":4250},
+  {"id":"3203198","name":"Rovinj","region":"Istria","coordinates":[13.6399,45.0812],"population":14294},
+  {"id":"3192774","name":"Plitvice Lakes","region":"Lika-Senj","coordinates":[15.7100,44.8802],"population":2500},
+  {"id":"3186952","name":"Zadar","region":"Zadar","coordinates":[15.2138,44.1194],"population":73392},
+  {"id":"3203492","name":"Pula","region":"Istria","coordinates":[13.8496,44.8666],"population":52220},
+  {"id":"3190059","name":"Šibenik","region":"Šibenik-Knin","coordinates":[15.8955,43.7350],"population":34302},
+  {"id":"3194928","name":"Korčula","region":"Dubrovnik-Neretva","coordinates":[16.8731,42.9597],"population":5663},
+  {"id":"3200535","name":"Trogir","region":"Split-Dalmatia","coordinates":[16.2510,43.5157],"population":12995},
+  {"id":"3193219","name":"Makarska","region":"Split-Dalmatia","coordinates":[17.0197,43.2970],"population":13727},
+  {"id":"3200267","name":"Cavtat","region":"Dubrovnik-Neretva","coordinates":[18.2185,42.5794],"population":2369},
+  {"id":"3196550","name":"Rijeka","region":"Primorje-Gorski Kotar","coordinates":[14.4422,45.3271],"population":108622},
+  {"id":"3203200","name":"Opatija","region":"Primorje-Gorski Kotar","coordinates":[14.3069,45.3381],"population":11659}
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2395170",
+    "name": "Cotonou",
+    "region": "Littoral Department",
+    "coordinates": [
+      2.3158,
+      6.3676
+    ],
+    "population": 679012
+  },
+  {
+    "id": "2395170_abomey",
+    "name": "Abomey",
+    "region": "Zou Department",
+    "coordinates": [
+      2.0167,
+      7.1833
+    ],
+    "population": 166000
+  },
+  {
+    "id": "2395170_portono",
+    "name": "Porto-Novo",
+    "region": "Ouémé Department",
+    "coordinates": [
+      2.6167,
+      6.4833
+    ],
+    "population": 264320
+  },
+  {
+    "id": "2395170_ouidah",
+    "name": "Ouidah",
+    "region": "Atlantique Department",
+    "coordinates": [
+      2.0833,
+      6.3667
+    ],
+    "population": 100000
+  },
+  {
+    "id": "2395170_grandpopo",
+    "name": "Grand Popo",
+    "region": "Mono Department",
+    "coordinates": [
+      1.8333,
+      6.2667
+    ],
+    "population": 45000
+  }
+]

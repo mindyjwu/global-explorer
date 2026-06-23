@@ -1,0 +1,17 @@
+[
+  {"id":"611717","name":"Tbilisi","region":"Tbilisi","coordinates":[44.7939,41.6938],"population":1108717},
+  {"id":"614540","name":"Batumi","region":"Adjara","coordinates":[41.6420,41.6434],"population":190769},
+  {"id":"614980","name":"Kutaisi","region":"Imereti","coordinates":[42.6832,42.2679],"population":147635},
+  {"id":"617033","name":"Sighnaghi","region":"Kakheti","coordinates":[45.7255,41.6131],"population":2000},
+  {"id":"617335","name":"Kazbegi","region":"Mtskheta-Mtianeti","coordinates":[44.6388,42.6645],"population":2000},
+  {"id":"614580","name":"Mestia","region":"Samegrelo-Zemo Svaneti","coordinates":[42.7388,43.0456],"population":2500},
+  {"id":"615394","name":"Borjomi","region":"Samtskhe-Javakheti","coordinates":[43.3926,41.8374],"population":13000},
+  {"id":"615686","name":"Mtskheta","region":"Mtskheta-Mtianeti","coordinates":[44.7188,41.8426],"population":8000},
+  {"id":"611586","name":"Akhaltsikhe","region":"Samtskhe-Javakheti","coordinates":[43.0053,41.6380],"population":18000},
+  {"id":"617543","name":"Telavi","region":"Kakheti","coordinates":[45.4725,41.9188],"population":19000},
+  {"id":"617009","name":"Gori","region":"Shida Kartli","coordinates":[44.1098,41.9894],"population":47000},
+  {"id":"617036","name":"Kvareli","region":"Kakheti","coordinates":[45.7858,41.9641],"population":10000},
+  {"id":"614540_ushguli","name":"Ushguli","region":"Samegrelo-Zemo Svaneti","coordinates":[43.0408,43.1126],"population":200},
+  {"id":"611717_anaklia","name":"Anaklia","region":"Samegrelo-Zemo Svaneti","coordinates":[41.5797,42.3880],"population":3000},
+  {"id":"614540_goderdzi","name":"Goderdzi Pass","region":"Adjara","coordinates":[42.6500,41.4900],"population":500}
+]

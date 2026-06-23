@@ -1,0 +1,17 @@
+[
+  {"id":"3369157","name":"Cape Town","region":"Western Cape","coordinates":[18.4241,-33.9249],"population":4618000},
+  {"id":"993800","name":"Johannesburg","region":"Gauteng","coordinates":[28.0473,-26.2041],"population":5635127},
+  {"id":"1007311","name":"Durban","region":"KwaZulu-Natal","coordinates":[31.0218,-29.8587],"population":3442361},
+  {"id":"3360929","name":"Stellenbosch","region":"Western Cape","coordinates":[18.8601,-33.9321],"population":155733},
+  {"id":"3356213","name":"Knysna","region":"Western Cape","coordinates":[23.0489,-34.0366],"population":76409},
+  {"id":"3360119","name":"Franschhoek","region":"Western Cape","coordinates":[19.1240,-33.9081],"population":15000},
+  {"id":"964137","name":"Hermanus","region":"Western Cape","coordinates":[19.2208,-34.4136],"population":26000},
+  {"id":"1000303","name":"Kruger National Park","region":"Limpopo","coordinates":[31.5896,-24.9942],"population":3000},
+  {"id":"970772","name":"Plettenberg Bay","region":"Western Cape","coordinates":[23.3748,-34.0516],"population":33000},
+  {"id":"975692","name":"Jeffrey's Bay","region":"Eastern Cape","coordinates":[24.9278,-34.0539],"population":30000},
+  {"id":"993800_soweto","name":"Soweto","region":"Gauteng","coordinates":[27.8546,-26.2677],"population":1271628},
+  {"id":"3369157_boulders","name":"Simon's Town","region":"Western Cape","coordinates":[18.4398,-34.1880],"population":7500},
+  {"id":"975386","name":"Drakensberg","region":"KwaZulu-Natal","coordinates":[29.3599,-28.7336],"population":10000},
+  {"id":"3369157_winelands","name":"Paarl","region":"Western Cape","coordinates":[18.9693,-33.7326],"population":113358},
+  {"id":"1007311_eshowe","name":"Hluhluwe","region":"KwaZulu-Natal","coordinates":[32.2758,-28.0192],"population":6000}
+]

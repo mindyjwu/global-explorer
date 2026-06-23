@@ -1,0 +1,82 @@
+[
+  {
+    "id": "232422",
+    "name": "Kampala",
+    "region": "Central Region",
+    "coordinates": [
+      32.5825,
+      0.3476
+    ],
+    "population": 1659600
+  },
+  {
+    "id": "232422_entebbe",
+    "name": "Entebbe",
+    "region": "Central Region",
+    "coordinates": [
+      32.4633,
+      0.0545
+    ],
+    "population": 91865
+  },
+  {
+    "id": "232422_jinja",
+    "name": "Jinja",
+    "region": "Eastern Region",
+    "coordinates": [
+      33.2032,
+      0.425
+    ],
+    "population": 72931
+  },
+  {
+    "id": "232422_fortportal",
+    "name": "Fort Portal",
+    "region": "Western Region",
+    "coordinates": [
+      30.275,
+      0.671
+    ],
+    "population": 47800
+  },
+  {
+    "id": "232422_bwindi",
+    "name": "Bwindi",
+    "region": "Western Region",
+    "coordinates": [
+      29.6637,
+      -1.042
+    ],
+    "population": 5000
+  },
+  {
+    "id": "232422_murchison",
+    "name": "Murchison Falls",
+    "region": "Northern Region",
+    "coordinates": [
+      31.6741,
+      2.2764
+    ],
+    "population": 5000
+  },
+  {
+    "id": "232422_kabale",
+    "name": "Kabale",
+    "region": "Western Region",
+    "coordinates": [
+      29.99,
+      -1.2487
+    ],
+    "population": 50000
+  },
+  {
+    "id": "232422_kisoro",
+    "name": "Kisoro",
+    "region": "Western Region",
+    "coordinates": [
+      29.6864,
+      -1.2867
+    ],
+    "population": 25000
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "933773",
+    "name": "Gaborone",
+    "region": "South-East District",
+    "coordinates": [
+      25.9231,
+      -24.6541
+    ],
+    "population": 246325
+  },
+  {
+    "id": "933773_maun",
+    "name": "Maun",
+    "region": "North West District",
+    "coordinates": [
+      23.4167,
+      -19.9833
+    ],
+    "population": 60263
+  },
+  {
+    "id": "933773_kasane",
+    "name": "Kasane",
+    "region": "Chobe District",
+    "coordinates": [
+      25.1484,
+      -17.7982
+    ],
+    "population": 10000
+  },
+  {
+    "id": "933773_okavango",
+    "name": "Okavango Delta",
+    "region": "North West District",
+    "coordinates": [
+      22.9117,
+      -19.3082
+    ],
+    "population": 5000
+  },
+  {
+    "id": "933773_centralK",
+    "name": "Central Kalahari",
+    "region": "Central District",
+    "coordinates": [
+      24.0,
+      -22.0
+    ],
+    "population": 5000
+  }
+]

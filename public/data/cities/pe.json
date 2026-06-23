@@ -2,16 +2,16 @@
   {"id":"3936456","name":"Lima","region":"Lima","coordinates":[-77.0428,-12.0464],"population":10555916},
   {"id":"3983854","name":"Cusco","region":"Cusco","coordinates":[-71.9782,-13.5319],"population":447588},
   {"id":"3947322","name":"Aguas Calientes","region":"Cusco","coordinates":[-72.5244,-13.1631],"population":8000},
-  {"id":"3947322","name":"Arequipa","region":"Arequipa","coordinates":[-71.5375,-16.4090],"population":1008290},
+  {"id":"3944493","name":"Arequipa","region":"Arequipa","coordinates":[-71.5375,-16.4090],"population":1008290},
   {"id":"3932488","name":"Puno","region":"Puno","coordinates":[-70.0219,-15.8402],"population":130668},
   {"id":"3936524","name":"Huaraz","region":"Ancash","coordinates":[-77.5283,-9.5279],"population":120800},
   {"id":"3936297","name":"Iquitos","region":"Loreto","coordinates":[-73.2538,-3.7491],"population":471515},
   {"id":"3936519","name":"Máncora","region":"Piura","coordinates":[-81.0493,-4.1080],"population":11000},
-  {"id":"3936297","name":"Nazca","region":"Ica","coordinates":[-74.9282,-14.8296],"population":35000},
-  {"id":"3936297","name":"Paracas","region":"Ica","coordinates":[-76.2530,-13.8333],"population":3000},
+  {"id":"3937458","name":"Nazca","region":"Ica","coordinates":[-74.9282,-14.8296],"population":35000},
+  {"id":"3936290","name":"Paracas","region":"Ica","coordinates":[-76.2530,-13.8333],"population":3000},
   {"id":"3946768","name":"Puerto Maldonado","region":"Madre de Dios","coordinates":[-69.1839,-12.5933],"population":100559},
-  {"id":"3947322","name":"Pisac","region":"Cusco","coordinates":[-71.8477,-13.4154],"population":4000},
-  {"id":"3947322","name":"Trujillo","region":"La Libertad","coordinates":[-79.0295,-8.1091],"population":747450},
-  {"id":"3947322","name":"Chiclayo","region":"Lambayeque","coordinates":[-79.8380,-6.7714],"population":552508},
-  {"id":"3947322","name":"Chivay","region":"Arequipa","coordinates":[-71.5977,-15.6399],"population":5000}
+  {"id":"3947320","name":"Pisac","region":"Cusco","coordinates":[-71.8477,-13.4154],"population":4000},
+  {"id":"3948518","name":"Trujillo","region":"La Libertad","coordinates":[-79.0295,-8.1091],"population":747450},
+  {"id":"3947406","name":"Chiclayo","region":"Lambayeque","coordinates":[-79.8380,-6.7714],"population":552508},
+  {"id":"3938002","name":"Chivay","region":"Arequipa","coordinates":[-71.5977,-15.6399],"population":5000}
 ]

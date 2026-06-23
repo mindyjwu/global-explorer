@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2440485",
+    "name": "Niamey",
+    "region": "Niamey Capital",
+    "coordinates": [
+      2.1098,
+      13.5137
+    ],
+    "population": 1302910
+  },
+  {
+    "id": "2440485_agadez",
+    "name": "Agadez",
+    "region": "Agadez Region",
+    "coordinates": [
+      7.9883,
+      16.9742
+    ],
+    "population": 124324
+  },
+  {
+    "id": "2440485_zinder",
+    "name": "Zinder",
+    "region": "Zinder Region",
+    "coordinates": [
+      8.988,
+      13.805
+    ],
+    "population": 235605
+  },
+  {
+    "id": "2440485_airtenekou",
+    "name": "Aïr Massif",
+    "region": "Agadez Region",
+    "coordinates": [
+      8.0,
+      18.5
+    ],
+    "population": 5000
+  }
+]

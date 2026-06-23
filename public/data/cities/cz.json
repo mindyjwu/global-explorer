@@ -1,0 +1,152 @@
+[
+  {
+    "id": "3067696",
+    "name": "Prague",
+    "region": "Prague",
+    "coordinates": [
+      14.4208,
+      50.088
+    ],
+    "population": 1309632
+  },
+  {
+    "id": "3078637",
+    "name": "Český Krumlov",
+    "region": "South Bohemian",
+    "coordinates": [
+      14.3225,
+      48.8127
+    ],
+    "population": 12943
+  },
+  {
+    "id": "3078610",
+    "name": "Brno",
+    "region": "South Moravian",
+    "coordinates": [
+      16.6068,
+      49.1951
+    ],
+    "population": 380681
+  },
+  {
+    "id": "3073733",
+    "name": "Karlovy Vary",
+    "region": "Karlovy Vary",
+    "coordinates": [
+      12.8728,
+      50.2315
+    ],
+    "population": 49551
+  },
+  {
+    "id": "3075200",
+    "name": "Kutná Hora",
+    "region": "Central Bohemian",
+    "coordinates": [
+      15.268,
+      49.948
+    ],
+    "population": 20304
+  },
+  {
+    "id": "3069011",
+    "name": "Olomouc",
+    "region": "Olomouc",
+    "coordinates": [
+      17.2508,
+      49.5938
+    ],
+    "population": 100000
+  },
+  {
+    "id": "3070714",
+    "name": "Plzeň",
+    "region": "Plzeň",
+    "coordinates": [
+      13.3776,
+      49.7384
+    ],
+    "population": 172441
+  },
+  {
+    "id": "3064473",
+    "name": "Telč",
+    "region": "Vysočina",
+    "coordinates": [
+      15.4504,
+      49.1836
+    ],
+    "population": 5447
+  },
+  {
+    "id": "3074967",
+    "name": "Liberec",
+    "region": "Liberec",
+    "coordinates": [
+      15.0543,
+      50.7671
+    ],
+    "population": 103979
+  },
+  {
+    "id": "3071174",
+    "name": "Mikulov",
+    "region": "South Moravian",
+    "coordinates": [
+      16.6378,
+      48.8066
+    ],
+    "population": 7500
+  },
+  {
+    "id": "3064665",
+    "name": "Třeboň",
+    "region": "South Bohemian",
+    "coordinates": [
+      14.77,
+      49.0075
+    ],
+    "population": 8600
+  },
+  {
+    "id": "3074967_kromeriz",
+    "name": "Kroměříž",
+    "region": "Zlín",
+    "coordinates": [
+      17.3936,
+      49.2953
+    ],
+    "population": 28695
+  },
+  {
+    "id": "3068117",
+    "name": "Olomouc",
+    "region": "Olomouc",
+    "coordinates": [
+      17.2508,
+      49.5938
+    ],
+    "population": 100000
+  },
+  {
+    "id": "3073633",
+    "name": "Lednice",
+    "region": "South Moravian",
+    "coordinates": [
+      16.8041,
+      48.7991
+    ],
+    "population": 2100
+  },
+  {
+    "id": "3064648",
+    "name": "Znojmo",
+    "region": "South Moravian",
+    "coordinates": [
+      16.0488,
+      48.8564
+    ],
+    "population": 34000
+  }
+]

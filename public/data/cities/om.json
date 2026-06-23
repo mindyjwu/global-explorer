@@ -1,0 +1,12 @@
+[
+  {"id":"287286","name":"Muscat","region":"Muscat","coordinates":[58.5922,23.6139],"population":1421000},
+  {"id":"287832","name":"Nizwa","region":"Ad Dakhiliyah","coordinates":[57.5307,22.9333],"population":72000},
+  {"id":"286621","name":"Salalah","region":"Dhofar","coordinates":[54.0924,17.0152],"population":163140},
+  {"id":"287832_sur","name":"Sur","region":"Ash Sharqiyah South","coordinates":[59.5241,22.5657],"population":41000},
+  {"id":"287286_khasab","name":"Khasab","region":"Musandam","coordinates":[56.2469,26.2064],"population":17500},
+  {"id":"287832_wahiba","name":"Wahiba Sands","region":"Ash Sharqiyah North","coordinates":[58.7019,22.2314],"population":5000},
+  {"id":"287286_masirah","name":"Masirah Island","region":"Ash Sharqiyah South","coordinates":[58.8590,20.5667],"population":12000},
+  {"id":"287832_bahla","name":"Bahla","region":"Ad Dakhiliyah","coordinates":[57.3005,22.9700],"population":25000},
+  {"id":"287286_duqm","name":"Duqm","region":"Al Wusta","coordinates":[57.7003,19.6541],"population":10000},
+  {"id":"287832_hamra","name":"Al Hamra","region":"Ad Dakhiliyah","coordinates":[57.3200,23.1100],"population":4000}
+]

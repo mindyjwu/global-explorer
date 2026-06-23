@@ -1,0 +1,17 @@
+[
+  {"id":"2147714","name":"Sydney","region":"New South Wales","coordinates":[151.2093,-33.8688],"population":5312000},
+  {"id":"2158177","name":"Melbourne","region":"Victoria","coordinates":[144.9631,-37.8136],"population":5159000},
+  {"id":"2174003","name":"Brisbane","region":"Queensland","coordinates":[153.0251,-27.4698],"population":2560720},
+  {"id":"2063523","name":"Perth","region":"Western Australia","coordinates":[115.8605,-31.9505],"population":2085973},
+  {"id":"2078025","name":"Adelaide","region":"South Australia","coordinates":[138.6007,-34.9285],"population":1376601},
+  {"id":"2172517","name":"Cairns","region":"Queensland","coordinates":[145.7753,-16.9186],"population":150041},
+  {"id":"2161929","name":"Gold Coast","region":"Queensland","coordinates":[153.4000,-28.0167],"population":679127},
+  {"id":"2162239","name":"Hobart","region":"Tasmania","coordinates":[147.3294,-42.8821],"population":240342},
+  {"id":"2074865","name":"Alice Springs","region":"Northern Territory","coordinates":[133.8807,-23.6980],"population":26756},
+  {"id":"2171507","name":"Byron Bay","region":"New South Wales","coordinates":[153.6120,-28.6474],"population":9981},
+  {"id":"2074326","name":"Broome","region":"Western Australia","coordinates":[122.2342,-17.9614],"population":16743},
+  {"id":"2175065","name":"Katoomba","region":"New South Wales","coordinates":[150.3124,-33.7124],"population":8069},
+  {"id":"2074888","name":"Uluru","region":"Northern Territory","coordinates":[130.9434,-25.2406],"population":1000},
+  {"id":"2063444","name":"Fremantle","region":"Western Australia","coordinates":[115.7547,-32.0569],"population":29692},
+  {"id":"2152659","name":"Port Douglas","region":"Queensland","coordinates":[145.4649,-16.4836],"population":3765}
+]

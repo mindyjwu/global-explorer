@@ -1,0 +1,17 @@
+[
+  {"id":"264371","name":"Athens","region":"Attica","coordinates":[23.7275,37.9838],"population":664046},
+  {"id":"252799","name":"Santorini","region":"South Aegean","coordinates":[25.4340,36.4145],"population":15550},
+  {"id":"256237","name":"Mykonos","region":"South Aegean","coordinates":[25.3289,37.4467],"population":10134},
+  {"id":"400666","name":"Rhodes","region":"South Aegean","coordinates":[28.2274,36.4349],"population":115501},
+  {"id":"734077","name":"Thessaloniki","region":"Central Macedonia","coordinates":[22.9444,40.6401],"population":824676},
+  {"id":"261745","name":"Heraklion","region":"Crete","coordinates":[25.1442,35.3387],"population":173993},
+  {"id":"259893","name":"Corfu","region":"Ionian Islands","coordinates":[19.9220,39.6243],"population":112644},
+  {"id":"255397","name":"Nafplio","region":"Peloponnese","coordinates":[22.8013,37.5676],"population":14203},
+  {"id":"260011","name":"Kalambaka","region":"Thessaly","coordinates":[21.6268,39.7043],"population":12000},
+  {"id":"260114","name":"Chania","region":"Crete","coordinates":[24.0172,35.5138],"population":108642},
+  {"id":"254935","name":"Zakynthos","region":"Ionian Islands","coordinates":[20.8973,37.7920],"population":10782},
+  {"id":"251833","name":"Paros","region":"South Aegean","coordinates":[25.1491,37.0855],"population":14000},
+  {"id":"259166","name":"Delphi","region":"Central Greece","coordinates":[22.5003,38.4824],"population":2200},
+  {"id":"253394","name":"Oia (Santorini)","region":"South Aegean","coordinates":[25.3760,36.4622],"population":1200},
+  {"id":"259216","name":"Epidaurus","region":"Peloponnese","coordinates":[23.0766,37.5996],"population":2000}
+]

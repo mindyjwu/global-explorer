@@ -1,0 +1,17 @@
+[
+  {"id":"1298824","name":"Yangon","region":"Yangon Region","coordinates":[96.1522,16.8661],"population":5500000},
+  {"id":"1302268","name":"Mandalay","region":"Mandalay Region","coordinates":[96.0785,21.9588],"population":1726900},
+  {"id":"1302386","name":"Bagan","region":"Mandalay Region","coordinates":[94.8585,21.1717],"population":50000},
+  {"id":"1323197","name":"Nyaungshwe","region":"Shan State","coordinates":[96.7853,20.6163],"population":25000},
+  {"id":"1309618","name":"Ngapali","region":"Rakhine State","coordinates":[94.2175,18.3950],"population":3000},
+  {"id":"1303270","name":"Hsipaw","region":"Shan State","coordinates":[97.2988,22.6168],"population":25000},
+  {"id":"1327016","name":"Mrauk U","region":"Rakhine State","coordinates":[93.2054,20.5824],"population":21000},
+  {"id":"1307241","name":"Kyaiktiyo","region":"Mon State","coordinates":[97.0334,17.4684],"population":15000},
+  {"id":"1302370","name":"Bago","region":"Bago Region","coordinates":[96.4797,17.3374],"population":244376},
+  {"id":"1315304","name":"Hpa-an","region":"Kayin State","coordinates":[97.6325,16.8903],"population":60000},
+  {"id":"1303677","name":"Kalaw","region":"Shan State","coordinates":[96.5577,20.6325],"population":12000},
+  {"id":"1303517","name":"Pyin Oo Lwin","region":"Mandalay Region","coordinates":[96.4686,22.0304],"population":100000},
+  {"id":"1302010","name":"Monywa","region":"Sagaing Region","coordinates":[95.1359,22.1181],"population":180000},
+  {"id":"1303090","name":"Inwa","region":"Mandalay Region","coordinates":[96.0447,21.8740],"population":10000},
+  {"id":"1302724","name":"Dawei","region":"Tanintharyi Region","coordinates":[98.5951,14.0833],"population":160000}
+]

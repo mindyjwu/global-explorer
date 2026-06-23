@@ -1,0 +1,32 @@
+[
+  {
+    "id": "425378",
+    "name": "Bujumbura",
+    "region": "Bujumbura Mairie",
+    "coordinates": [
+      29.3599,
+      -3.3818
+    ],
+    "population": 1070000
+  },
+  {
+    "id": "425378_gitega",
+    "name": "Gitega",
+    "region": "Gitega Province",
+    "coordinates": [
+      29.925,
+      -3.427
+    ],
+    "population": 135467
+  },
+  {
+    "id": "425378_kibira",
+    "name": "Kibira National Park",
+    "region": "Ngozi Province",
+    "coordinates": [
+      29.55,
+      -3.1
+    ],
+    "population": 3000
+  }
+]

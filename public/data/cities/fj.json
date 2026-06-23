@@ -1,0 +1,9 @@
+[
+  {"id":"2198148","name":"Suva","region":"Central Division","coordinates":[178.4419,-18.1248],"population":93970},
+  {"id":"2198051","name":"Nadi","region":"Western Division","coordinates":[177.4413,-17.8039],"population":42000},
+  {"id":"2198030","name":"Lautoka","region":"Western Division","coordinates":[177.4508,-17.6133],"population":73000},
+  {"id":"2198148_yasawa","name":"Yasawa Islands","region":"Western Division","coordinates":[177.5500,-17.0000],"population":5000},
+  {"id":"2198148_savusavu","name":"Savusavu","region":"Northern Division","coordinates":[179.3319,-16.5579],"population":3000},
+  {"id":"2198148_manamanuca","name":"Mamanuca Islands","region":"Western Division","coordinates":[177.0668,-17.6599],"population":2000},
+  {"id":"2198148_coral","name":"Coral Coast","region":"Western Division","coordinates":[177.5049,-18.1516],"population":8000}
+]

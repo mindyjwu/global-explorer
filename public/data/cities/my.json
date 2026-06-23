@@ -1,0 +1,17 @@
+[
+  {"id":"1735161","name":"Kuala Lumpur","region":"Federal Territory","coordinates":[101.6869,3.1390],"population":1768000},
+  {"id":"1735106","name":"George Town","region":"Penang","coordinates":[100.3188,5.4141],"population":708127},
+  {"id":"1735641","name":"Langkawi","region":"Kedah","coordinates":[99.8490,6.3500],"population":99000},
+  {"id":"1736357","name":"Kota Kinabalu","region":"Sabah","coordinates":[116.0735,5.9788],"population":452058},
+  {"id":"1736572","name":"Malacca","region":"Malacca","coordinates":[102.2559,2.1896],"population":372000},
+  {"id":"1736799","name":"Kuching","region":"Sarawak","coordinates":[110.3386,1.5497],"population":704000},
+  {"id":"1735900","name":"Ipoh","region":"Perak","coordinates":[101.0901,4.5975],"population":657892},
+  {"id":"1736315","name":"Cameron Highlands","region":"Pahang","coordinates":[101.3740,4.4714],"population":41000},
+  {"id":"1735561","name":"Kuala Besut","region":"Terengganu","coordinates":[102.8950,5.8356],"population":5000},
+  {"id":"1736313","name":"Miri","region":"Sarawak","coordinates":[113.9864,4.3995],"population":350000},
+  {"id":"1736064","name":"Semporna","region":"Sabah","coordinates":[118.6108,4.4822],"population":195000},
+  {"id":"1735661","name":"Johor Bahru","region":"Johor","coordinates":[103.7578,1.4927],"population":1395000},
+  {"id":"1736338","name":"Sandakan","region":"Sabah","coordinates":[118.1172,5.8402],"population":409000},
+  {"id":"1735840","name":"Jerantut","region":"Pahang","coordinates":[102.3747,3.7175],"population":30000},
+  {"id":"1735623","name":"Kota Bharu","region":"Kelantan","coordinates":[102.2375,6.1254],"population":471000}
+]

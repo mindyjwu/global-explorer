@@ -1,0 +1,22 @@
+[
+  {
+    "id": "2427123",
+    "name": "N'Djamena",
+    "region": "Chari-Baguirmi Region",
+    "coordinates": [
+      15.0458,
+      12.1048
+    ],
+    "population": 1092066
+  },
+  {
+    "id": "2427123_zakouma",
+    "name": "Zakouma National Park",
+    "region": "Salamat Region",
+    "coordinates": [
+      19.7,
+      10.8333
+    ],
+    "population": 2000
+  }
+]

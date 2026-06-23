@@ -1,0 +1,17 @@
+[
+  {"id":"2673730","name":"Stockholm","region":"Stockholm County","coordinates":[18.0686,59.3293],"population":975551},
+  {"id":"2711537","name":"Gothenburg","region":"Västra Götaland","coordinates":[11.9746,57.7072],"population":590580},
+  {"id":"2696739","name":"Malmö","region":"Skåne","coordinates":[13.0358,55.6050],"population":357367},
+  {"id":"2666218","name":"Uppsala","region":"Uppsala County","coordinates":[17.6389,59.8586],"population":233839},
+  {"id":"2700047","name":"Kiruna","region":"Norrbotten","coordinates":[20.2253,67.8557],"population":19036},
+  {"id":"2668179","name":"Visby","region":"Gotland","coordinates":[18.2948,57.6348],"population":24016},
+  {"id":"2666646","name":"Abisko","region":"Norrbotten","coordinates":[18.7542,68.3499],"population":85},
+  {"id":"2700218","name":"Åre","region":"Jämtland","coordinates":[13.0809,63.3993],"population":3000},
+  {"id":"2694975","name":"Falun","region":"Dalarna","coordinates":[15.6326,60.6065],"population":57000},
+  {"id":"2669120","name":"Ystad","region":"Skåne","coordinates":[13.8202,55.4297],"population":30000},
+  {"id":"2707537","name":"Sigtuna","region":"Stockholm County","coordinates":[17.7245,59.6172],"population":8500},
+  {"id":"2694761","name":"Luleå","region":"Norrbotten","coordinates":[22.1547,65.5848],"population":78000},
+  {"id":"2701979","name":"Kalmar","region":"Kalmar County","coordinates":[16.3601,56.6634],"population":36000},
+  {"id":"2720498","name":"Lund","region":"Skåne","coordinates":[13.1944,55.7047],"population":83000},
+  {"id":"2697745","name":"Östersund","region":"Jämtland","coordinates":[14.6401,63.1792],"population":50000}
+]

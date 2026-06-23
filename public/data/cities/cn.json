@@ -1,0 +1,17 @@
+[
+  {"id":"1816670","name":"Beijing","region":"Beijing","coordinates":[116.4074,39.9042],"population":21893095},
+  {"id":"1796236","name":"Shanghai","region":"Shanghai","coordinates":[121.4737,31.2304],"population":24870895},
+  {"id":"1790630","name":"Xi'an","region":"Shaanxi","coordinates":[108.9402,34.3416],"population":12952000},
+  {"id":"1809350","name":"Guilin","region":"Guangxi","coordinates":[110.2907,25.2736],"population":4925000},
+  {"id":"1815286","name":"Chengdu","region":"Sichuan","coordinates":[104.0668,30.5728],"population":16330000},
+  {"id":"1786657","name":"Zhangjiajie","region":"Hunan","coordinates":[110.4794,29.1248],"population":1580000},
+  {"id":"1809829","name":"Lijiang","region":"Yunnan","coordinates":[100.2275,26.8721],"population":1280000},
+  {"id":"1809858","name":"Yangshuo","region":"Guangxi","coordinates":[110.4973,24.7775],"population":300000},
+  {"id":"1796236_suzhou","name":"Suzhou","region":"Jiangsu","coordinates":[120.6119,31.2990],"population":10850000},
+  {"id":"1808926","name":"Hangzhou","region":"Zhejiang","coordinates":[120.1551,30.2741],"population":12200000},
+  {"id":"1797756","name":"Huangshan","region":"Anhui","coordinates":[118.3381,29.7140],"population":1350000},
+  {"id":"1792947","name":"Lhasa","region":"Tibet","coordinates":[91.1722,29.6500],"population":800000},
+  {"id":"1279168","name":"Kashgar","region":"Xinjiang","coordinates":[75.9891,39.4678],"population":750000},
+  {"id":"1797334","name":"Dunhuang","region":"Gansu","coordinates":[94.6618,40.1421],"population":180000},
+  {"id":"1809350_dali","name":"Dali","region":"Yunnan","coordinates":[100.2273,25.6065],"population":600000}
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "3355338",
+    "name": "Windhoek",
+    "region": "Khomas Region",
+    "coordinates": [
+      17.0832,
+      -22.5597
+    ],
+    "population": 431000
+  },
+  {
+    "id": "3355338_swakop",
+    "name": "Swakopmund",
+    "region": "Erongo Region",
+    "coordinates": [
+      14.5252,
+      -22.6783
+    ],
+    "population": 44725
+  },
+  {
+    "id": "3355338_luderitz",
+    "name": "Lüderitz",
+    "region": "⊘Karas Region",
+    "coordinates": [
+      15.1588,
+      -26.6481
+    ],
+    "population": 15000
+  },
+  {
+    "id": "3355338_sossusvlei",
+    "name": "Sossusvlei",
+    "region": "Hardap Region",
+    "coordinates": [
+      15.3498,
+      -24.73
+    ],
+    "population": 1000
+  },
+  {
+    "id": "3355338_etosha",
+    "name": "Etosha",
+    "region": "Oshikoto Region",
+    "coordinates": [
+      16.3264,
+      -18.8637
+    ],
+    "population": 2000
+  },
+  {
+    "id": "3355338_fishriver",
+    "name": "Fish River Canyon",
+    "region": "⊘Karas Region",
+    "coordinates": [
+      17.5879,
+      -27.754
+    ],
+    "population": 1000
+  },
+  {
+    "id": "3355338_twyfelfontein",
+    "name": "Twyfelfontein",
+    "region": "Kunene Region",
+    "coordinates": [
+      13.7067,
+      -20.5931
+    ],
+    "population": 1000
+  },
+  {
+    "id": "3355338_spitzkoppe",
+    "name": "Spitzkoppe",
+    "region": "Erongo Region",
+    "coordinates": [
+      13.1781,
+      -21.8327
+    ],
+    "population": 1000
+  }
+]

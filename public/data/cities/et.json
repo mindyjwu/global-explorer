@@ -1,0 +1,102 @@
+[
+  {
+    "id": "344979",
+    "name": "Addis Ababa",
+    "region": "Addis Ababa",
+    "coordinates": [
+      38.7578,
+      9.025
+    ],
+    "population": 3352000
+  },
+  {
+    "id": "336599",
+    "name": "Lalibela",
+    "region": "Amhara Region",
+    "coordinates": [
+      39.0485,
+      12.0311
+    ],
+    "population": 17367
+  },
+  {
+    "id": "330574",
+    "name": "Gondar",
+    "region": "Amhara Region",
+    "coordinates": [
+      37.4667,
+      12.6
+    ],
+    "population": 324000
+  },
+  {
+    "id": "344285",
+    "name": "Axum",
+    "region": "Tigray Region",
+    "coordinates": [
+      38.7209,
+      14.128
+    ],
+    "population": 56500
+  },
+  {
+    "id": "329360",
+    "name": "Harar",
+    "region": "Harari Region",
+    "coordinates": [
+      42.1342,
+      9.3116
+    ],
+    "population": 270000
+  },
+  {
+    "id": "336728",
+    "name": "Bahir Dar",
+    "region": "Amhara Region",
+    "coordinates": [
+      37.3894,
+      11.5966
+    ],
+    "population": 221991
+  },
+  {
+    "id": "330010",
+    "name": "Arba Minch",
+    "region": "SNNPR",
+    "coordinates": [
+      37.5527,
+      6.0336
+    ],
+    "population": 100712
+  },
+  {
+    "id": "344283",
+    "name": "Mekele",
+    "region": "Tigray Region",
+    "coordinates": [
+      39.468,
+      13.4966
+    ],
+    "population": 310436
+  },
+  {
+    "id": "344979_omo",
+    "name": "Jinka",
+    "region": "SNNPR",
+    "coordinates": [
+      36.5655,
+      5.7864
+    ],
+    "population": 30891
+  },
+  {
+    "id": "344979_danakil",
+    "name": "Afar (Danakil)",
+    "region": "Afar Region",
+    "coordinates": [
+      41.055,
+      12.555
+    ],
+    "population": 10000
+  }
+]

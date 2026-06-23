@@ -1,0 +1,14 @@
+[
+  {"id":"1283240","name":"Kathmandu","region":"Bagmati Province","coordinates":[85.3240,27.7172],"population":1442271},
+  {"id":"1282898","name":"Pokhara","region":"Gandaki Province","coordinates":[83.9856,28.2096],"population":414141},
+  {"id":"1283162","name":"Sauraha","region":"Bagmati Province","coordinates":[84.4915,27.5788],"population":10000},
+  {"id":"1283285","name":"Bhaktapur","region":"Bagmati Province","coordinates":[85.4285,27.6710],"population":83658},
+  {"id":"1283233","name":"Patan","region":"Bagmati Province","coordinates":[85.3240,27.6644],"population":226728},
+  {"id":"1282714","name":"Lumbini","region":"Lumbini Province","coordinates":[83.2763,27.4833],"population":50000},
+  {"id":"1283150","name":"Nagarkot","region":"Bagmati Province","coordinates":[85.5182,27.7139],"population":4000},
+  {"id":"1283300","name":"Namche Bazaar","region":"Koshi Province","coordinates":[86.7141,27.8019],"population":6786},
+  {"id":"1283282","name":"Bandipur","region":"Gandaki Province","coordinates":[84.4200,27.9420],"population":7000},
+  {"id":"1283090","name":"Jomsom","region":"Gandaki Province","coordinates":[83.7253,28.7794],"population":5000},
+  {"id":"1283310","name":"Tansen","region":"Lumbini Province","coordinates":[83.5453,27.8669],"population":30000},
+  {"id":"1283305","name":"Gorkha","region":"Gandaki Province","coordinates":[84.6263,27.9977],"population":25000}
+]

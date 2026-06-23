@@ -1,0 +1,17 @@
+[
+  {"id":"2464470","name":"Tunis","region":"Tunis","coordinates":[10.1658,36.8190],"population":728453},
+  {"id":"2464568","name":"Sousse","region":"Sousse","coordinates":[10.6368,35.8245],"population":271428},
+  {"id":"2473681","name":"Sfax","region":"Sfax","coordinates":[10.7603,34.7406],"population":330440},
+  {"id":"2472745","name":"Kairouan","region":"Kairouan","coordinates":[10.1008,35.6772],"population":184440},
+  {"id":"2476718","name":"Monastir","region":"Monastir","coordinates":[10.8262,35.7775],"population":71546},
+  {"id":"2469649","name":"Hammamet","region":"Nabeul","coordinates":[10.6156,36.4001],"population":97898},
+  {"id":"2469141","name":"Tozeur","region":"Tozeur","coordinates":[8.1335,33.9197],"population":43000},
+  {"id":"2462222","name":"Djerba","region":"Médenine","coordinates":[10.8984,33.8087],"population":139544},
+  {"id":"2464470_sidi","name":"Sidi Bou Said","region":"Tunis","coordinates":[10.3481,36.8701],"population":5000},
+  {"id":"2472281","name":"El Jem","region":"Mahdia","coordinates":[10.7094,35.2942],"population":18000},
+  {"id":"2470028","name":"Tabarka","region":"Jendouba","coordinates":[8.7585,36.9541],"population":18000},
+  {"id":"2469990","name":"Bizerte","region":"Bizerte","coordinates":[9.8643,37.2746],"population":155000},
+  {"id":"2471088","name":"Nabeul","region":"Nabeul","coordinates":[10.7337,36.4513],"population":74000},
+  {"id":"2467026","name":"Gabès","region":"Gabès","coordinates":[10.0982,33.8814],"population":93000},
+  {"id":"2466543","name":"Nefta","region":"Tozeur","coordinates":[7.8761,33.8748],"population":18000}
+]

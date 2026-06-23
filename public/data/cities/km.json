@@ -1,0 +1,22 @@
+[
+  {
+    "id": "921772",
+    "name": "Moroni",
+    "region": "Grande Comore",
+    "coordinates": [
+      43.2551,
+      -11.7022
+    ],
+    "population": 60200
+  },
+  {
+    "id": "921772_mutsamudu",
+    "name": "Mutsamudu",
+    "region": "Anjouan",
+    "coordinates": [
+      44.3883,
+      -12.1683
+    ],
+    "population": 26000
+  }
+]

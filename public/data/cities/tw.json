@@ -1,0 +1,17 @@
+[
+  {"id":"1668341","name":"Taipei","region":"Taipei City","coordinates":[121.5654,25.0330],"population":2704974},
+  {"id":"1665009","name":"Taichung","region":"Taichung City","coordinates":[120.6736,24.1477],"population":2820971},
+  {"id":"1666303","name":"Tainan","region":"Tainan City","coordinates":[120.2122,22.9999],"population":1887927},
+  {"id":"1673820","name":"Kaohsiung","region":"Kaohsiung City","coordinates":[120.3014,22.6273],"population":2773533},
+  {"id":"1667872","name":"Hualien","region":"Hualien County","coordinates":[121.6061,23.9769],"population":96284},
+  {"id":"1668289","name":"Jiufen","region":"New Taipei City","coordinates":[121.8449,25.1091],"population":3000},
+  {"id":"1668327","name":"Kenting","region":"Pingtung County","coordinates":[120.8034,21.9398],"population":12000},
+  {"id":"1665730","name":"Sun Moon Lake","region":"Nantou County","coordinates":[120.9029,23.7833],"population":14000},
+  {"id":"1668119","name":"Taroko","region":"Hualien County","coordinates":[121.6235,24.1573],"population":4500},
+  {"id":"1668145","name":"Taitung","region":"Taitung County","coordinates":[121.1241,22.7583],"population":107978},
+  {"id":"1666986","name":"Alishan","region":"Chiayi County","coordinates":[120.8133,23.5167],"population":8000},
+  {"id":"1668284","name":"Yilan","region":"Yilan County","coordinates":[121.7520,24.7021],"population":96000},
+  {"id":"1669322","name":"Penghu","region":"Penghu County","coordinates":[119.5720,23.5711],"population":85616},
+  {"id":"1668289_tamsui","name":"Tamsui","region":"New Taipei City","coordinates":[121.4517,25.1693],"population":175000},
+  {"id":"1665730_lugang","name":"Lukang","region":"Changhua County","coordinates":[120.4364,24.0568],"population":78000}
+]

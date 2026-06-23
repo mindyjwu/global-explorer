@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1070940",
+    "name": "Antananarivo",
+    "region": "Analamanga",
+    "coordinates": [
+      47.5147,
+      -18.9137
+    ],
+    "population": 1303724
+  },
+  {
+    "id": "1070940_nosybe",
+    "name": "Nosy Be",
+    "region": "Diana",
+    "coordinates": [
+      48.2708,
+      -13.3294
+    ],
+    "population": 55000
+  },
+  {
+    "id": "1070940_toliara",
+    "name": "Toliara",
+    "region": "Atsimo-Andrefana",
+    "coordinates": [
+      43.6834,
+      -23.35
+    ],
+    "population": 191172
+  },
+  {
+    "id": "1070940_fianarantsoa",
+    "name": "Fianarantsoa",
+    "region": "Haute Matsiatra",
+    "coordinates": [
+      47.0833,
+      -21.45
+    ],
+    "population": 167227
+  },
+  {
+    "id": "1070940_morondava",
+    "name": "Morondava",
+    "region": "Menabe",
+    "coordinates": [
+      44.2817,
+      -20.2833
+    ],
+    "population": 60000
+  },
+  {
+    "id": "1070940_diego",
+    "name": "Diego Suarez",
+    "region": "Diana",
+    "coordinates": [
+      49.3036,
+      -12.3548
+    ],
+    "population": 100000
+  },
+  {
+    "id": "1070940_andasibe",
+    "name": "Andasibe",
+    "region": "Alaotra-Mangoro",
+    "coordinates": [
+      48.4167,
+      -18.9167
+    ],
+    "population": 10000
+  }
+]

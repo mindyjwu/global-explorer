@@ -1,0 +1,17 @@
+[
+  {"id":"3871336","name":"Santiago","region":"Metropolitan Region","coordinates":[-70.6693,-33.4489],"population":5614000},
+  {"id":"3868626","name":"Valparaíso","region":"Valparaíso","coordinates":[-71.6127,-33.0472],"population":294550},
+  {"id":"3874787","name":"San Pedro de Atacama","region":"Antofagasta","coordinates":[-68.1990,-22.9077],"population":5000},
+  {"id":"3874974","name":"Puerto Natales","region":"Magallanes","coordinates":[-72.5086,-51.7322],"population":21000},
+  {"id":"4030720","name":"Hanga Roa","region":"Valparaíso","coordinates":[-109.4287,-27.1483],"population":6000},
+  {"id":"3875024","name":"Puerto Varas","region":"Los Lagos","coordinates":[-73.3171,-41.3114],"population":40000},
+  {"id":"3874655","name":"Pucón","region":"Araucanía","coordinates":[-71.9776,-39.2754],"population":32000},
+  {"id":"3868627","name":"Viña del Mar","region":"Valparaíso","coordinates":[-71.5467,-33.0155],"population":294551},
+  {"id":"3874967","name":"Punta Arenas","region":"Magallanes","coordinates":[-70.9170,-53.1638],"population":127581},
+  {"id":"3874968","name":"Castro","region":"Los Lagos","coordinates":[-73.7636,-42.4814],"population":40000},
+  {"id":"3872060","name":"La Serena","region":"Coquimbo","coordinates":[-71.2552,-29.9027],"population":204000},
+  {"id":"3875024_montt","name":"Puerto Montt","region":"Los Lagos","coordinates":[-72.9371,-41.4693],"population":240000},
+  {"id":"3868891","name":"Arica","region":"Arica and Parinacota","coordinates":[-70.3320,-18.4746],"population":225000},
+  {"id":"3870243","name":"Iquique","region":"Tarapacá","coordinates":[-70.1355,-20.2141],"population":180601},
+  {"id":"3876028","name":"Coyhaique","region":"Aysén","coordinates":[-72.0680,-45.5752],"population":56000}
+]

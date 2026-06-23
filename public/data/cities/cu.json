@@ -1,0 +1,14 @@
+[
+  {"id":"3553478","name":"Havana","region":"La Habana","coordinates":[-82.3666,23.1136],"population":2141652},
+  {"id":"3536729","name":"Trinidad","region":"Sancti Spíritus","coordinates":[-79.9839,21.8024],"population":74959},
+  {"id":"3555285","name":"Varadero","region":"Matanzas","coordinates":[-81.2485,23.1571],"population":50000},
+  {"id":"3555162","name":"Viñales","region":"Pinar del Río","coordinates":[-83.7144,22.6196],"population":28000},
+  {"id":"3564175","name":"Cienfuegos","region":"Cienfuegos","coordinates":[-80.4456,22.1490],"population":172000},
+  {"id":"3556966","name":"Santa Clara","region":"Villa Clara","coordinates":[-79.9656,22.4067],"population":220000},
+  {"id":"3560025","name":"Camagüey","region":"Camagüey","coordinates":[-77.9189,21.3808],"population":341000},
+  {"id":"3554020","name":"Santiago de Cuba","region":"Santiago de Cuba","coordinates":[-75.8220,20.0197],"population":555000},
+  {"id":"3563278","name":"Baracoa","region":"Guantánamo","coordinates":[-74.4997,20.3497],"population":80000},
+  {"id":"3553478_vinales","name":"Cayo Coco","region":"Ciego de Ávila","coordinates":[-78.3833,22.5333],"population":1000},
+  {"id":"3557008","name":"Holguín","region":"Holguín","coordinates":[-76.2667,20.8888],"population":350000},
+  {"id":"3554985","name":"Matanzas","region":"Matanzas","coordinates":[-81.5771,23.0416],"population":145000}
+]

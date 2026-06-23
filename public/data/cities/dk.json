@@ -1,0 +1,17 @@
+[
+  {"id":"2618425","name":"Copenhagen","region":"Capital Region","coordinates":[12.5683,55.6761],"population":794128},
+  {"id":"2624652","name":"Aarhus","region":"Central Denmark","coordinates":[10.2039,56.1629],"population":349983},
+  {"id":"2615876","name":"Odense","region":"Southern Denmark","coordinates":[10.3883,55.3959],"population":180760},
+  {"id":"2624886","name":"Aalborg","region":"Northern Denmark","coordinates":[9.9187,57.0488],"population":145000},
+  {"id":"2618508","name":"Bornholm","region":"Capital Region","coordinates":[14.9060,55.1302],"population":40000},
+  {"id":"2612783","name":"Skagen","region":"Northern Denmark","coordinates":[10.5847,57.7179],"population":8600},
+  {"id":"2621836","name":"Helsingør","region":"Capital Region","coordinates":[12.6113,56.0359],"population":46450},
+  {"id":"2621752","name":"Roskilde","region":"Zealand","coordinates":[12.0803,55.6415],"population":51000},
+  {"id":"2611394","name":"Silkeborg","region":"Central Denmark","coordinates":[9.5504,56.1697],"population":45000},
+  {"id":"2618540","name":"Ribe","region":"Southern Denmark","coordinates":[8.7597,55.3310],"population":8700},
+  {"id":"2624985","name":"Esbjerg","region":"Southern Denmark","coordinates":[8.4597,55.4767],"population":72000},
+  {"id":"2616238","name":"Kolding","region":"Southern Denmark","coordinates":[9.4736,55.4904],"population":61000},
+  {"id":"2618425_frederiksberg","name":"Frederiksberg","region":"Capital Region","coordinates":[12.5281,55.6807],"population":103000},
+  {"id":"2625259","name":"Viborg","region":"Central Denmark","coordinates":[9.4025,56.4533],"population":40000},
+  {"id":"2617832","name":"Sønderborg","region":"Southern Denmark","coordinates":[9.7919,54.9123],"population":27000}
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2413876",
+    "name": "Banjul",
+    "region": "Banjul City",
+    "coordinates": [
+      -16.5779,
+      13.4549
+    ],
+    "population": 34589
+  },
+  {
+    "id": "2413876_bakau",
+    "name": "Bakau",
+    "region": "Banjul City",
+    "coordinates": [
+      -16.6833,
+      13.4833
+    ],
+    "population": 43169
+  },
+  {
+    "id": "2413876_kartong",
+    "name": "Kartong",
+    "region": "West Coast Region",
+    "coordinates": [
+      -16.75,
+      13.0833
+    ],
+    "population": 5000
+  }
+]

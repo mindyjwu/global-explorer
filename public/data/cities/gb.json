@@ -1,0 +1,17 @@
+[
+  {"id":"2643743","name":"London","region":"England","coordinates":[-0.1276,51.5074],"population":8982000},
+  {"id":"2650225","name":"Edinburgh","region":"Scotland","coordinates":[-3.1883,55.9533],"population":540000},
+  {"id":"2640729","name":"Oxford","region":"England","coordinates":[-1.2577,51.7520],"population":171380},
+  {"id":"2653941","name":"Cambridge","region":"England","coordinates":[0.1218,52.2053],"population":145700},
+  {"id":"2656173","name":"Bath","region":"England","coordinates":[-2.3590,51.3811],"population":94782},
+  {"id":"2633352","name":"York","region":"England","coordinates":[-1.0873,53.9600],"population":208163},
+  {"id":"2644210","name":"Liverpool","region":"England","coordinates":[-2.9916,53.4084],"population":498042},
+  {"id":"2643123","name":"Manchester","region":"England","coordinates":[-2.2426,53.4808],"population":553230},
+  {"id":"2654710","name":"Brighton","region":"England","coordinates":[-0.1373,50.8225],"population":290395},
+  {"id":"2645494","name":"Inverness","region":"Scotland","coordinates":[-4.2264,57.4778],"population":46870},
+  {"id":"2648579","name":"Glasgow","region":"Scotland","coordinates":[-4.2518,55.8642],"population":635640},
+  {"id":"2654675","name":"Bristol","region":"England","coordinates":[-2.5879,51.4545],"population":470000},
+  {"id":"2634739","name":"Stratford-upon-Avon","region":"England","coordinates":[-1.7079,52.1917],"population":27445},
+  {"id":"2641673","name":"Canterbury","region":"England","coordinates":[1.0803,51.2802],"population":55240},
+  {"id":"2637248","name":"St Andrews","region":"Scotland","coordinates":[-2.7956,56.3398],"population":18000}
+]

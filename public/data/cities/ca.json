@@ -1,0 +1,17 @@
+[
+  {"id":"6173331","name":"Vancouver","region":"British Columbia","coordinates":[-123.1207,49.2827],"population":675218},
+  {"id":"6167865","name":"Toronto","region":"Ontario","coordinates":[-79.3832,43.6532],"population":2731571},
+  {"id":"6077243","name":"Montréal","region":"Quebec","coordinates":[-73.5673,45.5017],"population":1762949},
+  {"id":"6325494","name":"Québec City","region":"Quebec","coordinates":[-71.2082,46.8139],"population":531902},
+  {"id":"5895429","name":"Banff","region":"Alberta","coordinates":[-115.5708,51.1784],"population":7847},
+  {"id":"6174041","name":"Victoria","region":"British Columbia","coordinates":[-123.3656,48.4284],"population":367770},
+  {"id":"6173221","name":"Whistler","region":"British Columbia","coordinates":[-122.9574,50.1163],"population":11854},
+  {"id":"5913490","name":"Calgary","region":"Alberta","coordinates":[-114.0708,51.0534],"population":1336000},
+  {"id":"6094817","name":"Ottawa","region":"Ontario","coordinates":[-75.6972,45.4215],"population":1017449},
+  {"id":"6324733","name":"Halifax","region":"Nova Scotia","coordinates":[-63.5752,44.6476],"population":439819},
+  {"id":"6082837","name":"Niagara Falls","region":"Ontario","coordinates":[-79.0849,43.0896],"population":82184},
+  {"id":"5946076","name":"Jasper","region":"Alberta","coordinates":[-118.0762,52.8737],"population":4590},
+  {"id":"6174249","name":"Tofino","region":"British Columbia","coordinates":[-125.9029,49.1530],"population":1932},
+  {"id":"6049403","name":"Kelowna","region":"British Columbia","coordinates":[-119.4960,49.8880],"population":136000},
+  {"id":"6546099","name":"Charlottetown","region":"Prince Edward Island","coordinates":[-63.1311,46.2382],"population":36094}
+]

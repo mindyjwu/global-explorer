@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2240449",
+    "name": "Luanda",
+    "region": "Luanda Province",
+    "coordinates": [
+      13.2344,
+      -8.8368
+    ],
+    "population": 7774000
+  },
+  {
+    "id": "2240449_lubango",
+    "name": "Lubango",
+    "region": "Huíla Province",
+    "coordinates": [
+      13.4923,
+      -14.9177
+    ],
+    "population": 776489
+  },
+  {
+    "id": "2240449_namibe",
+    "name": "Namibe",
+    "region": "Namibe Province",
+    "coordinates": [
+      12.1597,
+      -15.1961
+    ],
+    "population": 131808
+  },
+  {
+    "id": "2240449_malanje",
+    "name": "Malanje",
+    "region": "Malanje Province",
+    "coordinates": [
+      16.342,
+      -9.5396
+    ],
+    "population": 824889
+  },
+  {
+    "id": "2240449_kalandula",
+    "name": "Kalandula Falls",
+    "region": "Malanje Province",
+    "coordinates": [
+      16.0049,
+      -9.0649
+    ],
+    "population": 5000
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "2374775",
+    "name": "Bissau",
+    "region": "Bissau Region",
+    "coordinates": [
+      -15.5903,
+      11.8636
+    ],
+    "population": 492004
+  },
+  {
+    "id": "2374775_bijagos",
+    "name": "Arquipélago dos Bijagós",
+    "region": "South Region",
+    "coordinates": [
+      -15.7333,
+      11.2
+    ],
+    "population": 25000
+  }
+]

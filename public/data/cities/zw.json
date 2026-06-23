@@ -1,0 +1,82 @@
+[
+  {
+    "id": "890299",
+    "name": "Harare",
+    "region": "Harare Province",
+    "coordinates": [
+      31.0522,
+      -17.8252
+    ],
+    "population": 1542813
+  },
+  {
+    "id": "894701",
+    "name": "Bulawayo",
+    "region": "Bulawayo Province",
+    "coordinates": [
+      28.5833,
+      -20.1667
+    ],
+    "population": 699385
+  },
+  {
+    "id": "890299_vicfalls",
+    "name": "Victoria Falls",
+    "region": "Matabeleland North",
+    "coordinates": [
+      25.844,
+      -17.9243
+    ],
+    "population": 35000
+  },
+  {
+    "id": "890299_greatzimb",
+    "name": "Great Zimbabwe",
+    "region": "Masvingo",
+    "coordinates": [
+      30.9333,
+      -20.2667
+    ],
+    "population": 10000
+  },
+  {
+    "id": "890299_hwange",
+    "name": "Hwange",
+    "region": "Matabeleland North",
+    "coordinates": [
+      26.4834,
+      -18.3618
+    ],
+    "population": 42600
+  },
+  {
+    "id": "890299_matobo",
+    "name": "Matobo Hills",
+    "region": "Matabeleland South",
+    "coordinates": [
+      28.4978,
+      -20.5311
+    ],
+    "population": 10000
+  },
+  {
+    "id": "890299_kariba",
+    "name": "Kariba",
+    "region": "Mashonaland West",
+    "coordinates": [
+      28.8,
+      -16.517
+    ],
+    "population": 22000
+  },
+  {
+    "id": "890299_nyanga",
+    "name": "Nyanga",
+    "region": "Manicaland",
+    "coordinates": [
+      32.7448,
+      -18.2167
+    ],
+    "population": 15000
+  }
+]

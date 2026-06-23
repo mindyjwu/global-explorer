@@ -1,0 +1,17 @@
+[
+  {"id":"2964574","name":"Dublin","region":"Leinster","coordinates":[-6.2603,53.3498],"population":1173179},
+  {"id":"2963597","name":"Galway","region":"Connacht","coordinates":[-9.0568,53.2707],"population":80976},
+  {"id":"2965140","name":"Cork","region":"Munster","coordinates":[-8.4756,51.8985],"population":210000},
+  {"id":"2963430","name":"Killarney","region":"Munster","coordinates":[-9.5027,52.0597],"population":14219},
+  {"id":"2964406","name":"Dingle","region":"Munster","coordinates":[-10.2694,52.1397],"population":1938},
+  {"id":"2964032","name":"Doolin","region":"Munster","coordinates":[-9.3882,53.0201],"population":200},
+  {"id":"2965140_clifden","name":"Clifden","region":"Connacht","coordinates":[-9.5220,53.4889],"population":1500},
+  {"id":"2963847","name":"Westport","region":"Connacht","coordinates":[-9.5195,53.7996],"population":6000},
+  {"id":"2963295","name":"Sligo","region":"Connacht","coordinates":[-8.4761,54.2694],"population":19199},
+  {"id":"2964171","name":"Waterford","region":"Munster","coordinates":[-7.1101,52.2593],"population":53504},
+  {"id":"2963633","name":"Limerick","region":"Munster","coordinates":[-8.6238,52.6638],"population":94192},
+  {"id":"2963335","name":"Kilkenny","region":"Leinster","coordinates":[-7.2551,52.6541],"population":26512},
+  {"id":"2964574_giantscauseway","name":"Giant's Causeway","region":"Northern Ireland","coordinates":[-6.5112,55.2408],"population":1400},
+  {"id":"2961269","name":"Derry","region":"Northern Ireland","coordinates":[-7.3093,54.9966],"population":85016},
+  {"id":"2963573","name":"Kenmare","region":"Munster","coordinates":[-9.5803,51.8736],"population":2430}
+]

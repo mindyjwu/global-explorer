@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2460596",
+    "name": "Bamako",
+    "region": "Bamako Capital District",
+    "coordinates": [
+      -8.0,
+      12.65
+    ],
+    "population": 2515000
+  },
+  {
+    "id": "2460596_timbuktu",
+    "name": "Timbuktu",
+    "region": "Timbuktu Region",
+    "coordinates": [
+      -3.0067,
+      16.7743
+    ],
+    "population": 54453
+  },
+  {
+    "id": "2460596_mopti",
+    "name": "Mopti",
+    "region": "Mopti Region",
+    "coordinates": [
+      -4.1972,
+      14.4943
+    ],
+    "population": 108456
+  },
+  {
+    "id": "2460596_djenne",
+    "name": "Djenné",
+    "region": "Mopti Region",
+    "coordinates": [
+      -4.5553,
+      13.9048
+    ],
+    "population": 32944
+  },
+  {
+    "id": "2460596_dogon",
+    "name": "Dogon Country",
+    "region": "Mopti Region",
+    "coordinates": [
+      -3.5,
+      14.0
+    ],
+    "population": 10000
+  }
+]

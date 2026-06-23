@@ -1,0 +1,10 @@
+[
+  {"id":"292223","name":"Dubai","region":"Dubai","coordinates":[55.2708,25.2048],"population":3331420},
+  {"id":"292968","name":"Abu Dhabi","region":"Abu Dhabi","coordinates":[54.3773,24.4539],"population":1483000},
+  {"id":"292672","name":"Sharjah","region":"Sharjah","coordinates":[55.3829,25.3462],"population":1400000},
+  {"id":"292588","name":"Ras al-Khaimah","region":"Ras al-Khaimah","coordinates":[55.9432,25.7869],"population":345000},
+  {"id":"292932","name":"Al Ain","region":"Abu Dhabi","coordinates":[55.7536,24.2075],"population":651000},
+  {"id":"292953","name":"Fujairah","region":"Fujairah","coordinates":[56.3340,25.1288],"population":113000},
+  {"id":"293000","name":"Hatta","region":"Dubai","coordinates":[56.1157,24.8011],"population":10000},
+  {"id":"291074","name":"Ajman","region":"Ajman","coordinates":[55.5136,25.4052],"population":504846}
+]

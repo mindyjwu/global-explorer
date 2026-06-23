@@ -1,0 +1,122 @@
+[
+  {
+    "id": "250441",
+    "name": "Amman",
+    "region": "Amman",
+    "coordinates": [
+      35.9284,
+      31.9522
+    ],
+    "population": 4007526
+  },
+  {
+    "id": "249336",
+    "name": "Wadi Musa",
+    "region": "Ma'an",
+    "coordinates": [
+      35.4444,
+      30.3285
+    ],
+    "population": 15000
+  },
+  {
+    "id": "248826",
+    "name": "Wadi Rum",
+    "region": "Aqaba",
+    "coordinates": [
+      36.5773,
+      29.5755
+    ],
+    "population": 3000
+  },
+  {
+    "id": "251833_aqaba",
+    "name": "Aqaba",
+    "region": "Aqaba",
+    "coordinates": [
+      35.006,
+      29.5322
+    ],
+    "population": 188000
+  },
+  {
+    "id": "249891",
+    "name": "Jerash",
+    "region": "Jerash",
+    "coordinates": [
+      35.8908,
+      32.2752
+    ],
+    "population": 50000
+  },
+  {
+    "id": "250699",
+    "name": "Madaba",
+    "region": "Madaba",
+    "coordinates": [
+      35.7936,
+      31.7166
+    ],
+    "population": 82000
+  },
+  {
+    "id": "248949",
+    "name": "Kerak",
+    "region": "Karak",
+    "coordinates": [
+      35.7031,
+      31.1813
+    ],
+    "population": 28000
+  },
+  {
+    "id": "250897",
+    "name": "Ajloun",
+    "region": "Ajloun",
+    "coordinates": [
+      35.7502,
+      32.3318
+    ],
+    "population": 27000
+  },
+  {
+    "id": "249515",
+    "name": "Dana",
+    "region": "Tafilah",
+    "coordinates": [
+      35.6018,
+      30.6999
+    ],
+    "population": 200
+  },
+  {
+    "id": "251319",
+    "name": "Umm Qais",
+    "region": "Irbid",
+    "coordinates": [
+      35.6832,
+      32.6546
+    ],
+    "population": 5000
+  },
+  {
+    "id": "250441_azraq",
+    "name": "Azraq",
+    "region": "Zarqa",
+    "coordinates": [
+      36.8282,
+      31.8345
+    ],
+    "population": 20000
+  },
+  {
+    "id": "248975",
+    "name": "Irbid",
+    "region": "Irbid",
+    "coordinates": [
+      35.85,
+      32.5556
+    ],
+    "population": 307480
+  }
+]

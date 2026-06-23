@@ -1,0 +1,62 @@
+[
+  {
+    "id": "909137",
+    "name": "Lusaka",
+    "region": "Lusaka Province",
+    "coordinates": [
+      28.3228,
+      -15.4166
+    ],
+    "population": 2179000
+  },
+  {
+    "id": "909137_livingstone",
+    "name": "Livingstone",
+    "region": "Southern Province",
+    "coordinates": [
+      25.8726,
+      -17.8416
+    ],
+    "population": 134349
+  },
+  {
+    "id": "909137_southluangwa",
+    "name": "South Luangwa",
+    "region": "Eastern Province",
+    "coordinates": [
+      31.7854,
+      -13.1285
+    ],
+    "population": 5000
+  },
+  {
+    "id": "909137_lowerz",
+    "name": "Lower Zambezi",
+    "region": "Lusaka Province",
+    "coordinates": [
+      29.1996,
+      -15.8667
+    ],
+    "population": 5000
+  },
+  {
+    "id": "909137_kafue",
+    "name": "Kafue",
+    "region": "Southern Province",
+    "coordinates": [
+      25.9795,
+      -15.7717
+    ],
+    "population": 5000
+  },
+  {
+    "id": "909137_kasanka",
+    "name": "Kasanka",
+    "region": "Central Province",
+    "coordinates": [
+      29.185,
+      -12.575
+    ],
+    "population": 5000
+  }
+]

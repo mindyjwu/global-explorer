@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2288072",
+    "name": "Abidjan",
+    "region": "Lagunes District",
+    "coordinates": [
+      -4.0305,
+      5.36
+    ],
+    "population": 5068858
+  },
+  {
+    "id": "2288072_yamoussoukro",
+    "name": "Yamoussoukro",
+    "region": "Lacs District",
+    "coordinates": [
+      -5.2767,
+      6.8276
+    ],
+    "population": 355573
+  },
+  {
+    "id": "2288072_bouake",
+    "name": "Bouaké",
+    "region": "Vallée du Bandama",
+    "coordinates": [
+      -5.0333,
+      7.6833
+    ],
+    "population": 536728
+  },
+  {
+    "id": "2288072_grandbassam",
+    "name": "Grand-Bassam",
+    "region": "Sud-Comoé",
+    "coordinates": [
+      -3.7408,
+      5.1956
+    ],
+    "population": 70000
+  },
+  {
+    "id": "2288072_man",
+    "name": "Man",
+    "region": "Tonkpi",
+    "coordinates": [
+      -7.5528,
+      7.4028
+    ],
+    "population": 155600
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1040652",
+    "name": "Maputo",
+    "region": "Maputo City",
+    "coordinates": [
+      32.5832,
+      -25.9667
+    ],
+    "population": 1101170
+  },
+  {
+    "id": "1040652_inhambane",
+    "name": "Inhambane",
+    "region": "Inhambane Province",
+    "coordinates": [
+      35.3844,
+      -23.8647
+    ],
+    "population": 68500
+  },
+  {
+    "id": "1040652_tofo",
+    "name": "Tofo Beach",
+    "region": "Inhambane Province",
+    "coordinates": [
+      35.5509,
+      -23.8611
+    ],
+    "population": 8000
+  },
+  {
+    "id": "1040652_vilanculos",
+    "name": "Vilanculos",
+    "region": "Inhambane Province",
+    "coordinates": [
+      35.3303,
+      -22.005
+    ],
+    "population": 57000
+  },
+  {
+    "id": "1040652_ilha",
+    "name": "Ilha de Moçambique",
+    "region": "Nampula Province",
+    "coordinates": [
+      40.731,
+      -15.0368
+    ],
+    "population": 14403
+  },
+  {
+    "id": "1040652_pemba",
+    "name": "Pemba",
+    "region": "Cabo Delgado Province",
+    "coordinates": [
+      40.5189,
+      -12.9741
+    ],
+    "population": 140000
+  },
+  {
+    "id": "1040652_gorongosa",
+    "name": "Gorongosa",
+    "region": "Sofala Province",
+    "coordinates": [
+      34.7069,
+      -18.8297
+    ],
+    "population": 10000
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {"id":"745044","name":"Istanbul","region":"Istanbul","coordinates":[28.9784,41.0082],"population":15519267},
+  {"id":"308465","name":"Göreme","region":"Nevşehir","coordinates":[34.8305,38.6431],"population":2000},
+  {"id":"323777","name":"Antalya","region":"Antalya","coordinates":[30.7133,36.8969],"population":2619000},
+  {"id":"743044","name":"Bodrum","region":"Muğla","coordinates":[27.4256,37.0344],"population":125000},
+  {"id":"311044","name":"Izmir","region":"Izmir","coordinates":[27.1428,38.4237],"population":4394694},
+  {"id":"323786","name":"Ankara","region":"Ankara","coordinates":[32.8597,39.9334],"population":5639076},
+  {"id":"307955","name":"Selçuk","region":"Izmir","coordinates":[27.3706,37.9508],"population":29000},
+  {"id":"299258","name":"Pamukkale","region":"Denizli","coordinates":[29.1201,37.9210],"population":3000},
+  {"id":"740783","name":"Trabzon","region":"Trabzon","coordinates":[39.7301,41.0015],"population":807903},
+  {"id":"306927","name":"Konya","region":"Konya","coordinates":[32.4932,37.8715],"population":2161303},
+  {"id":"750269","name":"Bursa","region":"Bursa","coordinates":[29.0610,40.1885],"population":1959391},
+  {"id":"315106","name":"Fethiye","region":"Muğla","coordinates":[29.1196,36.6551],"population":82895},
+  {"id":"749775","name":"Çanakkale","region":"Çanakkale","coordinates":[26.4141,40.1553],"population":110000},
+  {"id":"306297","name":"Mardin","region":"Mardin","coordinates":[40.7358,37.3212],"population":96345},
+  {"id":"300650","name":"Şanlıurfa","region":"Şanlıurfa","coordinates":[38.7955,37.1591],"population":558526}
+]

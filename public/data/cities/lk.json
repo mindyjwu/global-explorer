@@ -1,0 +1,17 @@
+[
+  {"id":"1248991","name":"Colombo","region":"Western Province","coordinates":[79.8612,6.9271],"population":752993},
+  {"id":"1247950","name":"Kandy","region":"Central Province","coordinates":[80.6350,7.2906],"population":111701},
+  {"id":"1242110","name":"Galle","region":"Southern Province","coordinates":[80.2170,6.0535],"population":99478},
+  {"id":"1247633","name":"Sigiriya","region":"Central Province","coordinates":[80.7597,7.9570],"population":2000},
+  {"id":"1244926","name":"Anuradhapura","region":"North Central Province","coordinates":[80.3997,8.3114],"population":56448},
+  {"id":"1248022","name":"Polonnaruwa","region":"North Central Province","coordinates":[81.0003,7.9403],"population":13000},
+  {"id":"1245488","name":"Ella","region":"Uva Province","coordinates":[81.0474,6.8667],"population":3500},
+  {"id":"1246884","name":"Nuwara Eliya","region":"Central Province","coordinates":[80.7873,6.9497],"population":27110},
+  {"id":"1245924","name":"Mirissa","region":"Southern Province","coordinates":[80.4666,5.9472],"population":6000},
+  {"id":"1241622","name":"Trincomalee","region":"Eastern Province","coordinates":[81.2152,8.5874],"population":99135},
+  {"id":"1246615","name":"Bentota","region":"Western Province","coordinates":[79.9919,6.4256],"population":15000},
+  {"id":"1244926_arugam","name":"Arugam Bay","region":"Eastern Province","coordinates":[81.8359,6.8400],"population":4000},
+  {"id":"1248091","name":"Hikkaduwa","region":"Southern Province","coordinates":[80.1039,6.1400],"population":20000},
+  {"id":"1246294","name":"Dambulla","region":"Central Province","coordinates":[80.6500,7.8731],"population":65000},
+  {"id":"1244326","name":"Tissamaharama","region":"Southern Province","coordinates":[81.2884,6.2859],"population":20000}
+]

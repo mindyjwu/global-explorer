@@ -1,0 +1,52 @@
+[
+  {
+    "id": "379252",
+    "name": "Khartoum",
+    "region": "Khartoum State",
+    "coordinates": [
+      32.5599,
+      15.5518
+    ],
+    "population": 2617682
+  },
+  {
+    "id": "370759",
+    "name": "Omdurman",
+    "region": "Khartoum State",
+    "coordinates": [
+      32.4817,
+      15.645
+    ],
+    "population": 2800000
+  },
+  {
+    "id": "379252_meroe",
+    "name": "Meroë",
+    "region": "Nubian Desert",
+    "coordinates": [
+      33.75,
+      16.9333
+    ],
+    "population": 3000
+  },
+  {
+    "id": "379252_portsudan",
+    "name": "Port Sudan",
+    "region": "Red Sea State",
+    "coordinates": [
+      37.2167,
+      19.6167
+    ],
+    "population": 489725
+  },
+  {
+    "id": "379252_kassala",
+    "name": "Kassala",
+    "region": "Kassala State",
+    "coordinates": [
+      36.4,
+      15.45
+    ],
+    "population": 549500
+  }
+]

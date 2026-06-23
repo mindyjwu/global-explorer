@@ -1,0 +1,152 @@
+[
+  {
+    "id": "756135",
+    "name": "Warsaw",
+    "region": "Masovian",
+    "coordinates": [
+      21.0122,
+      52.2297
+    ],
+    "population": 1793579
+  },
+  {
+    "id": "3094802",
+    "name": "Kraków",
+    "region": "Lesser Poland",
+    "coordinates": [
+      19.9449,
+      50.0647
+    ],
+    "population": 779966
+  },
+  {
+    "id": "3081368",
+    "name": "Wrocław",
+    "region": "Lower Silesian",
+    "coordinates": [
+      17.0385,
+      51.1079
+    ],
+    "population": 641928
+  },
+  {
+    "id": "3099434",
+    "name": "Gdańsk",
+    "region": "Pomeranian",
+    "coordinates": [
+      18.6465,
+      54.352
+    ],
+    "population": 470907
+  },
+  {
+    "id": "3088171",
+    "name": "Poznań",
+    "region": "Greater Poland",
+    "coordinates": [
+      16.9252,
+      52.4064
+    ],
+    "population": 548028
+  },
+  {
+    "id": "3083271",
+    "name": "Zakopane",
+    "region": "Lesser Poland",
+    "coordinates": [
+      19.9494,
+      49.2992
+    ],
+    "population": 27350
+  },
+  {
+    "id": "3093133",
+    "name": "Oświęcim",
+    "region": "Lesser Poland",
+    "coordinates": [
+      19.2218,
+      50.034
+    ],
+    "population": 40000
+  },
+  {
+    "id": "776069",
+    "name": "Białowieża",
+    "region": "Podlaskie",
+    "coordinates": [
+      23.8658,
+      52.6965
+    ],
+    "population": 2500
+  },
+  {
+    "id": "3083233",
+    "name": "Toruń",
+    "region": "Kuyavian-Pomeranian",
+    "coordinates": [
+      18.5981,
+      53.0137
+    ],
+    "population": 202085
+  },
+  {
+    "id": "3093133_lublin",
+    "name": "Lublin",
+    "region": "Lublin",
+    "coordinates": [
+      22.5468,
+      51.2465
+    ],
+    "population": 340768
+  },
+  {
+    "id": "3099100",
+    "name": "Sopot",
+    "region": "Pomeranian",
+    "coordinates": [
+      18.5601,
+      54.4415
+    ],
+    "population": 33000
+  },
+  {
+    "id": "3097656",
+    "name": "Malbork",
+    "region": "Pomeranian",
+    "coordinates": [
+      19.0268,
+      54.0355
+    ],
+    "population": 38000
+  },
+  {
+    "id": "3095983",
+    "name": "Kazimierz Dolny",
+    "region": "Lublin",
+    "coordinates": [
+      21.952,
+      51.3197
+    ],
+    "population": 3500
+  },
+  {
+    "id": "3095616",
+    "name": "Wieliczka",
+    "region": "Lesser Poland",
+    "coordinates": [
+      20.0489,
+      49.9845
+    ],
+    "population": 23000
+  },
+  {
+    "id": "3094120",
+    "name": "Łódź",
+    "region": "Łódź",
+    "coordinates": [
+      19.456,
+      51.7592
+    ],
+    "population": 672185
+  }
+]

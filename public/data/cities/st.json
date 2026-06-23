@@ -1,0 +1,22 @@
+[
+  {
+    "id": "2410758",
+    "name": "São Tomé",
+    "region": "São Tomé Island",
+    "coordinates": [
+      6.7273,
+      0.3365
+    ],
+    "population": 90112
+  },
+  {
+    "id": "2410758_principe",
+    "name": "Príncipe Island",
+    "region": "Príncipe Region",
+    "coordinates": [
+      7.4,
+      1.6167
+    ],
+    "population": 7000
+  }
+]

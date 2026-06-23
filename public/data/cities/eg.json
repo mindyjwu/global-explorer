@@ -1,0 +1,17 @@
+[
+  {"id":"360630","name":"Cairo","region":"Cairo","coordinates":[31.2357,30.0444],"population":10107000},
+  {"id":"348144","name":"Luxor","region":"Luxor","coordinates":[32.6421,25.6872],"population":506588},
+  {"id":"359792","name":"Aswan","region":"Aswan","coordinates":[32.8998,24.0889],"population":288456},
+  {"id":"361058","name":"Alexandria","region":"Alexandria","coordinates":[29.9187,31.2001],"population":5200000},
+  {"id":"360502","name":"Sharm el-Sheikh","region":"South Sinai","coordinates":[34.3300,27.9158],"population":73000},
+  {"id":"359783","name":"Hurghada","region":"Red Sea","coordinates":[33.8116,27.2579],"population":248000},
+  {"id":"360013","name":"Dahab","region":"South Sinai","coordinates":[34.5138,28.4899],"population":6000},
+  {"id":"361866","name":"Siwa","region":"Matrouh","coordinates":[25.5197,29.2032],"population":27000},
+  {"id":"347951","name":"Abu Simbel","region":"Aswan","coordinates":[31.6258,22.3372],"population":3000},
+  {"id":"359783_marsa","name":"Marsa Alam","region":"Red Sea","coordinates":[35.4792,25.0657],"population":7000},
+  {"id":"358822","name":"Edfu","region":"Aswan","coordinates":[32.8737,24.9789],"population":60000},
+  {"id":"359570","name":"Fayyum","region":"Fayyum","coordinates":[30.8418,29.3084],"population":330000},
+  {"id":"358047","name":"Nuweiba","region":"South Sinai","coordinates":[34.6550,28.9833],"population":10000},
+  {"id":"349033","name":"Kom Ombo","region":"Aswan","coordinates":[32.9263,24.4527],"population":60000},
+  {"id":"360630_giza","name":"Giza","region":"Giza","coordinates":[31.2089,30.0131],"population":3628062}
+]

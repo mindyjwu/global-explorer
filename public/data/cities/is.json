@@ -1,0 +1,17 @@
+[
+  {"id":"3413829","name":"Reykjavik","region":"Capital Region","coordinates":[-21.9426,64.1466],"population":131136},
+  {"id":"3416888","name":"Akureyri","region":"Northeastern Region","coordinates":[-18.0878,65.6835],"population":18925},
+  {"id":"3414106","name":"Vík","region":"Southern Region","coordinates":[-18.9985,63.4184],"population":318},
+  {"id":"3415683","name":"Húsavík","region":"Northeastern Region","coordinates":[-17.3400,66.0443],"population":2307},
+  {"id":"3416218","name":"Ísafjörður","region":"Westfjords","coordinates":[-23.1314,66.0759],"population":2600},
+  {"id":"3417728","name":"Stykkishólmur","region":"Western Region","coordinates":[-22.7272,65.0735],"population":1200},
+  {"id":"2629799","name":"Höfn","region":"Eastern Region","coordinates":[-15.2070,64.2539],"population":2000},
+  {"id":"3415726","name":"Selfoss","region":"Southern Region","coordinates":[-21.0000,63.9335],"population":7000},
+  {"id":"3413438","name":"Seyðisfjörður","region":"Eastern Region","coordinates":[-13.8281,65.2606],"population":700},
+  {"id":"3414680","name":"Siglufjörður","region":"Northeastern Region","coordinates":[-18.9120,66.1520],"population":1200},
+  {"id":"3416888_thingvellir","name":"Þingvellir","region":"Capital Region","coordinates":[-21.1000,64.2556],"population":100},
+  {"id":"3414680_blue","name":"Blue Lagoon","region":"Southern Peninsula","coordinates":[-22.4352,63.8412],"population":3400},
+  {"id":"3414680_landmannalaugar","name":"Landmannalaugar","region":"Southern Region","coordinates":[-19.0622,63.9825],"population":50},
+  {"id":"3416218_snae","name":"Snæfellsnes","region":"Western Region","coordinates":[-23.6253,64.7658],"population":3000},
+  {"id":"3415683_jokul","name":"Jökulsárlón Glacier","region":"Eastern Region","coordinates":[-16.1781,64.0784],"population":100}
+]

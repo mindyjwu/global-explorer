@@ -1,0 +1,52 @@
+[
+  {
+    "id": "927967",
+    "name": "Lilongwe",
+    "region": "Central Region",
+    "coordinates": [
+      33.7741,
+      -13.9626
+    ],
+    "population": 989318
+  },
+  {
+    "id": "927967_blantyre",
+    "name": "Blantyre",
+    "region": "Southern Region",
+    "coordinates": [
+      35.0168,
+      -15.7861
+    ],
+    "population": 995600
+  },
+  {
+    "id": "927967_lakemalawi",
+    "name": "Lake Malawi",
+    "region": "Northern/Central",
+    "coordinates": [
+      34.5,
+      -12.0
+    ],
+    "population": 5000
+  },
+  {
+    "id": "927967_nkhatabay",
+    "name": "Nkhata Bay",
+    "region": "Northern Region",
+    "coordinates": [
+      34.2872,
+      -11.6041
+    ],
+    "population": 14200
+  },
+  {
+    "id": "927967_liwonde",
+    "name": "Liwonde",
+    "region": "Southern Region",
+    "coordinates": [
+      35.2275,
+      -15.0643
+    ],
+    "population": 20000
+  }
+]

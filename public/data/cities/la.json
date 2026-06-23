@@ -1,0 +1,14 @@
+[
+  {"id":"1655021","name":"Luang Prabang","region":"Luang Prabang","coordinates":[102.1357,19.8893],"population":56039},
+  {"id":"1655812","name":"Vientiane","region":"Vientiane Prefecture","coordinates":[102.6301,17.9757],"population":820555},
+  {"id":"1655737","name":"Vang Vieng","region":"Vientiane","coordinates":[102.4451,18.9246],"population":25000},
+  {"id":"1651073","name":"Pakse","region":"Champasak","coordinates":[105.7842,15.1178],"population":88332},
+  {"id":"1652099","name":"Savannakhet","region":"Savannakhet","coordinates":[104.7594,16.5562],"population":124300},
+  {"id":"1650741","name":"Don Det","region":"Champasak","coordinates":[105.9375,14.0049],"population":1500},
+  {"id":"1655640","name":"Nong Khiaw","region":"Luang Prabang","coordinates":[102.6082,20.5561],"population":5000},
+  {"id":"1655645","name":"Muang Ngoi","region":"Luang Prabang","coordinates":[102.6864,20.7259],"population":1000},
+  {"id":"1655598","name":"Thakhek","region":"Khammouane","coordinates":[104.8276,17.4009],"population":60000},
+  {"id":"1655570","name":"Huay Xai","region":"Bokeo","coordinates":[100.4170,20.2631],"population":30000},
+  {"id":"1655550","name":"Phonsavan","region":"Xiangkhouang","coordinates":[103.1937,19.4553],"population":37500},
+  {"id":"1655520","name":"Muang Khua","region":"Phongsali","coordinates":[102.1167,21.0645],"population":5000}
+]

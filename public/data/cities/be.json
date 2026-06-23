@@ -1,0 +1,17 @@
+[
+  {"id":"2800866","name":"Brussels","region":"Brussels Capital","coordinates":[4.3517,50.8503],"population":185103},
+  {"id":"2800931","name":"Bruges","region":"West Flanders","coordinates":[3.2247,51.2093],"population":117951},
+  {"id":"2797656","name":"Ghent","region":"East Flanders","coordinates":[3.7174,51.0543],"population":262219},
+  {"id":"2803138","name":"Antwerp","region":"Antwerp","coordinates":[4.4024,51.2194],"population":520504},
+  {"id":"2792482","name":"Leuven","region":"Flemish Brabant","coordinates":[4.7003,50.8798],"population":101649},
+  {"id":"2792811","name":"Liège","region":"Wallonia","coordinates":[5.5797,50.6453],"population":196825},
+  {"id":"2790869","name":"Namur","region":"Wallonia","coordinates":[4.8695,50.4669],"population":111024},
+  {"id":"2794028","name":"Ypres","region":"West Flanders","coordinates":[2.8769,50.8503],"population":35121},
+  {"id":"2797803","name":"Dinant","region":"Wallonia","coordinates":[4.9117,50.2614],"population":14000},
+  {"id":"2790454","name":"Ostend","region":"West Flanders","coordinates":[2.9167,51.2333],"population":71000},
+  {"id":"2786990","name":"Spa","region":"Wallonia","coordinates":[5.8687,50.4933],"population":11000},
+  {"id":"2793110","name":"Mechelen","region":"Antwerp","coordinates":[4.4800,51.0276],"population":86616},
+  {"id":"2797639","name":"Hasselt","region":"Limburg","coordinates":[5.3300,50.9300],"population":79344},
+  {"id":"2800866_waterloo","name":"Waterloo","region":"Walloon Brabant","coordinates":[4.3978,50.7148],"population":30000},
+  {"id":"2792083","name":"Tongeren","region":"Limburg","coordinates":[5.4600,50.7800],"population":30000}
+]

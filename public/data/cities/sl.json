@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2408619",
+    "name": "Freetown",
+    "region": "Western Area",
+    "coordinates": [
+      -13.2317,
+      8.484
+    ],
+    "population": 1055964
+  },
+  {
+    "id": "2408619_tacugama",
+    "name": "Tacugama Chimpanzee Sanctuary",
+    "region": "Western Area",
+    "coordinates": [
+      -13.1933,
+      8.49
+    ],
+    "population": 1000
+  },
+  {
+    "id": "2408619_tiwai",
+    "name": "Tiwai Island",
+    "region": "Pujehun District",
+    "coordinates": [
+      -11.3833,
+      7.55
+    ],
+    "population": 2000
+  },
+  {
+    "id": "2408619_tokeh",
+    "name": "Tokeh Beach",
+    "region": "Western Rural",
+    "coordinates": [
+      -13.19,
+      8.37
+    ],
+    "population": 3000
+  }
+]

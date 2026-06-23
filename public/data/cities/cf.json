@@ -1,0 +1,22 @@
+[
+  {
+    "id": "2388945",
+    "name": "Bangui",
+    "region": "Ombella-M'Poko Prefecture",
+    "coordinates": [
+      18.5582,
+      4.3612
+    ],
+    "population": 889231
+  },
+  {
+    "id": "2388945_dzanga",
+    "name": "Dzanga-Sangha Reserve",
+    "region": "Sangha-Mbaéré Prefecture",
+    "coordinates": [
+      16.2333,
+      3.2333
+    ],
+    "population": 5000
+  }
+]

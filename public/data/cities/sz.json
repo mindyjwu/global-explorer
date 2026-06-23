@@ -1,0 +1,32 @@
+[
+  {
+    "id": "934999",
+    "name": "Mbabane",
+    "region": "Hhohho",
+    "coordinates": [
+      31.1367,
+      -26.3186
+    ],
+    "population": 95000
+  },
+  {
+    "id": "934999_manzini",
+    "name": "Manzini",
+    "region": "Manzini District",
+    "coordinates": [
+      31.3667,
+      -26.5
+    ],
+    "population": 110537
+  },
+  {
+    "id": "934999_hlane",
+    "name": "Hlane Royal NP",
+    "region": "Lubombo",
+    "coordinates": [
+      31.9967,
+      -26.28
+    ],
+    "population": 2000
+  }
+]

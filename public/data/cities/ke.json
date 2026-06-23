@@ -1,0 +1,17 @@
+[
+  {"id":"184745","name":"Nairobi","region":"Nairobi","coordinates":[36.8219,-1.2921],"population":4397073},
+  {"id":"186301","name":"Mombasa","region":"Coast","coordinates":[39.6682,-4.0435],"population":1208333},
+  {"id":"186227","name":"Narok","region":"Narok","coordinates":[35.8717,-1.0818],"population":45000},
+  {"id":"183454","name":"Lamu","region":"Lamu","coordinates":[40.9020,-2.2686],"population":19000},
+  {"id":"185987","name":"Malindi","region":"Kilifi","coordinates":[40.1169,-3.2130],"population":119859},
+  {"id":"186204","name":"Diani Beach","region":"Kwale","coordinates":[39.5793,-4.2788],"population":30000},
+  {"id":"186762","name":"Nakuru","region":"Nakuru","coordinates":[36.0680,-0.3031],"population":570000},
+  {"id":"184617","name":"Amboseli","region":"Kajiado","coordinates":[37.2530,-2.6500],"population":15000},
+  {"id":"184510","name":"Archer's Post","region":"Samburu","coordinates":[37.6559,0.6509],"population":20000},
+  {"id":"186008","name":"Watamu","region":"Kilifi","coordinates":[40.0151,-3.3564],"population":8000},
+  {"id":"186105","name":"Nanyuki","region":"Laikipia","coordinates":[36.9997,-0.0180],"population":30000},
+  {"id":"186785","name":"Kisumu","region":"Kisumu","coordinates":[34.7519,-0.1022],"population":409928},
+  {"id":"185153","name":"Voi","region":"Taita-Taveta","coordinates":[38.5564,-3.3963],"population":50000},
+  {"id":"186553","name":"Nyahururu","region":"Laikipia","coordinates":[36.3593,0.0217],"population":53000},
+  {"id":"184745_karen","name":"Karen","region":"Nairobi","coordinates":[36.7073,-1.3527],"population":75000}
+]

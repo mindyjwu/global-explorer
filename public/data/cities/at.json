@@ -1,0 +1,17 @@
+[
+  {"id":"2761369","name":"Vienna","region":"Vienna","coordinates":[16.3738,48.2082],"population":1911191},
+  {"id":"2766824","name":"Salzburg","region":"Salzburg","coordinates":[13.0450,47.8095],"population":156872},
+  {"id":"2775220","name":"Innsbruck","region":"Tyrol","coordinates":[11.3923,47.2692],"population":132493},
+  {"id":"2777268","name":"Hallstatt","region":"Upper Austria","coordinates":[13.6493,47.5622],"population":800},
+  {"id":"2778067","name":"Graz","region":"Styria","coordinates":[15.4395,47.0707],"population":291072},
+  {"id":"2772400","name":"Linz","region":"Upper Austria","coordinates":[14.2858,48.3069],"population":204846},
+  {"id":"2766155","name":"Zell am See","region":"Salzburg","coordinates":[12.7960,47.3255],"population":10067},
+  {"id":"2762601","name":"Kitzbühel","region":"Tyrol","coordinates":[12.3924,47.4463],"population":8217},
+  {"id":"2774326","name":"Klagenfurt","region":"Carinthia","coordinates":[14.3050,46.6228],"population":101303},
+  {"id":"2766056","name":"St. Anton am Arlberg","region":"Tyrol","coordinates":[10.2681,47.1297],"population":2644},
+  {"id":"2771816","name":"Melk","region":"Lower Austria","coordinates":[15.3326,48.2268],"population":5000},
+  {"id":"2773913","name":"Baden","region":"Lower Austria","coordinates":[16.2327,48.0044],"population":25903},
+  {"id":"2780748","name":"Bregenz","region":"Vorarlberg","coordinates":[9.7471,47.5031],"population":29913},
+  {"id":"2771936","name":"Mayrhofen","region":"Tyrol","coordinates":[11.8675,47.1667],"population":3900},
+  {"id":"2773481","name":"Krems","region":"Lower Austria","coordinates":[15.6144,48.4111],"population":24473}
+]

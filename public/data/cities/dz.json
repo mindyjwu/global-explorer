@@ -1,0 +1,82 @@
+[
+  {
+    "id": "2507480",
+    "name": "Algiers",
+    "region": "Algiers Province",
+    "coordinates": [
+      3.0588,
+      36.7372
+    ],
+    "population": 2694532
+  },
+  {
+    "id": "2490685",
+    "name": "Oran",
+    "region": "Oran Province",
+    "coordinates": [
+      -0.6417,
+      35.6969
+    ],
+    "population": 803329
+  },
+  {
+    "id": "2494594",
+    "name": "Tlemcen",
+    "region": "Tlemcen Province",
+    "coordinates": [
+      -1.315,
+      34.88
+    ],
+    "population": 173571
+  },
+  {
+    "id": "2501152",
+    "name": "Constantine",
+    "region": "Constantine Province",
+    "coordinates": [
+      6.6147,
+      36.365
+    ],
+    "population": 937786
+  },
+  {
+    "id": "2292434",
+    "name": "Ghardaïa",
+    "region": "Ghardaïa Province",
+    "coordinates": [
+      3.669,
+      32.4903
+    ],
+    "population": 111852
+  },
+  {
+    "id": "2506508",
+    "name": "Timgad",
+    "region": "Batna Province",
+    "coordinates": [
+      6.4668,
+      35.4836
+    ],
+    "population": 70000
+  },
+  {
+    "id": "2501490",
+    "name": "Tamanrasset",
+    "region": "Tamanrasset Province",
+    "coordinates": [
+      5.5231,
+      22.7853
+    ],
+    "population": 113000
+  },
+  {
+    "id": "2476660",
+    "name": "Tipaza",
+    "region": "Tipaza Province",
+    "coordinates": [
+      2.447,
+      36.5928
+    ],
+    "population": 90000
+  }
+]

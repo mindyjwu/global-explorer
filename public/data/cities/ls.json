@@ -1,0 +1,32 @@
+[
+  {
+    "id": "932505",
+    "name": "Maseru",
+    "region": "Maseru District",
+    "coordinates": [
+      27.4833,
+      -29.3167
+    ],
+    "population": 330760
+  },
+  {
+    "id": "932505_semonkong",
+    "name": "Semonkong",
+    "region": "Maseru District",
+    "coordinates": [
+      28.0833,
+      -29.85
+    ],
+    "population": 3000
+  },
+  {
+    "id": "932505_maletsunyane",
+    "name": "Maletsunyane Falls",
+    "region": "Maseru District",
+    "coordinates": [
+      28.0667,
+      -29.8667
+    ],
+    "population": 1000
+  }
+]

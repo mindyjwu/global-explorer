@@ -1,0 +1,62 @@
+[
+  {
+    "id": "2222438",
+    "name": "Yaoundé",
+    "region": "Centre Region",
+    "coordinates": [
+      11.5166,
+      3.868
+    ],
+    "population": 2765568
+  },
+  {
+    "id": "2222438_douala",
+    "name": "Douala",
+    "region": "Littoral Region",
+    "coordinates": [
+      9.7022,
+      4.0511
+    ],
+    "population": 3663000
+  },
+  {
+    "id": "2222438_limbe",
+    "name": "Limbe",
+    "region": "South West Region",
+    "coordinates": [
+      9.1987,
+      4.0121
+    ],
+    "population": 127400
+  },
+  {
+    "id": "2222438_kribi",
+    "name": "Kribi",
+    "region": "South Region",
+    "coordinates": [
+      9.9117,
+      2.9399
+    ],
+    "population": 100000
+  },
+  {
+    "id": "2222438_bamenda",
+    "name": "Bamenda",
+    "region": "North West Region",
+    "coordinates": [
+      10.146,
+      5.9597
+    ],
+    "population": 400000
+  },
+  {
+    "id": "2222438_waza",
+    "name": "Waza National Park",
+    "region": "Far North Region",
+    "coordinates": [
+      14.5,
+      11.3333
+    ],
+    "population": 5000
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {"id":"2759794","name":"Amsterdam","region":"North Holland","coordinates":[4.9041,52.3676],"population":872680},
+  {"id":"2747891","name":"Rotterdam","region":"South Holland","coordinates":[4.4777,51.9225],"population":651446},
+  {"id":"2747373","name":"The Hague","region":"South Holland","coordinates":[4.3007,52.0705],"population":548320},
+  {"id":"2745912","name":"Utrecht","region":"Utrecht","coordinates":[5.1214,52.0907],"population":361699},
+  {"id":"2751773","name":"Leiden","region":"South Holland","coordinates":[4.4960,52.1601],"population":123279},
+  {"id":"2755003","name":"Haarlem","region":"North Holland","coordinates":[4.6368,52.3873],"population":161265},
+  {"id":"2756253","name":"Delft","region":"South Holland","coordinates":[4.3571,52.0116],"population":103163},
+  {"id":"2751283","name":"Maastricht","region":"Limburg","coordinates":[5.6900,50.8514],"population":121565},
+  {"id":"2755249","name":"Groningen","region":"Groningen","coordinates":[6.5665,53.2194],"population":232651},
+  {"id":"2756071","name":"Eindhoven","region":"North Brabant","coordinates":[5.4600,51.4416],"population":235691},
+  {"id":"2761070","name":"Alkmaar","region":"North Holland","coordinates":[4.7430,52.6324],"population":107879},
+  {"id":"2754344","name":"Keukenhof (Lisse)","region":"South Holland","coordinates":[4.5557,52.2640],"population":22000},
+  {"id":"2744080","name":"Texel","region":"North Holland","coordinates":[4.8018,53.0538],"population":13500},
+  {"id":"2758809","name":"Arnhem","region":"Gelderland","coordinates":[5.8987,51.9851],"population":160508},
+  {"id":"2750853","name":"Middelburg","region":"Zeeland","coordinates":[3.6136,51.4988],"population":48478}
+]

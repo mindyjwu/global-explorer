@@ -1,0 +1,32 @@
+[
+  {
+    "id": "223817",
+    "name": "Djibouti City",
+    "region": "Djibouti Region",
+    "coordinates": [
+      43.1456,
+      11.5886
+    ],
+    "population": 562000
+  },
+  {
+    "id": "223817_assal",
+    "name": "Lake Assal",
+    "region": "Djibouti Region",
+    "coordinates": [
+      42.4161,
+      11.6539
+    ],
+    "population": 500
+  },
+  {
+    "id": "223817_tadjoura",
+    "name": "Tadjoura",
+    "region": "Tadjoura Region",
+    "coordinates": [
+      42.8935,
+      11.787
+    ],
+    "population": 22000
+  }
+]

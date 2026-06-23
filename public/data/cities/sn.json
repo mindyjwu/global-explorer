@@ -1,0 +1,62 @@
+[
+  {
+    "id": "2253354",
+    "name": "Dakar",
+    "region": "Dakar",
+    "coordinates": [
+      -17.4441,
+      14.6937
+    ],
+    "population": 3137196
+  },
+  {
+    "id": "2253354_goree",
+    "name": "Gorée Island",
+    "region": "Dakar",
+    "coordinates": [
+      -17.3956,
+      14.6711
+    ],
+    "population": 1500
+  },
+  {
+    "id": "2222862",
+    "name": "Saint-Louis",
+    "region": "Saint-Louis",
+    "coordinates": [
+      -16.4818,
+      16.0194
+    ],
+    "population": 253063
+  },
+  {
+    "id": "2229998",
+    "name": "Ziguinchor",
+    "region": "Ziguinchor",
+    "coordinates": [
+      -16.2732,
+      12.5674
+    ],
+    "population": 205294
+  },
+  {
+    "id": "2253354_saly",
+    "name": "Saly",
+    "region": "Thiès",
+    "coordinates": [
+      -16.8057,
+      14.4626
+    ],
+    "population": 25000
+  },
+  {
+    "id": "2253354_djiffer",
+    "name": "Sine-Saloum Delta",
+    "region": "Fatick",
+    "coordinates": [
+      -16.7408,
+      13.8206
+    ],
+    "population": 10000
+  }
+]

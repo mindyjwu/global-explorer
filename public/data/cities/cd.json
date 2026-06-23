@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2314302",
+    "name": "Kinshasa",
+    "region": "Kinshasa",
+    "coordinates": [
+      15.3222,
+      -4.3217
+    ],
+    "population": 14342439
+  },
+  {
+    "id": "2314302_lubumbashi",
+    "name": "Lubumbashi",
+    "region": "Haut-Katanga",
+    "coordinates": [
+      27.4744,
+      -11.6608
+    ],
+    "population": 2106441
+  },
+  {
+    "id": "2314302_goma",
+    "name": "Goma",
+    "region": "North Kivu",
+    "coordinates": [
+      29.2265,
+      -1.6758
+    ],
+    "population": 670195
+  },
+  {
+    "id": "2314302_kisangani",
+    "name": "Kisangani",
+    "region": "Tshopo",
+    "coordinates": [
+      25.1953,
+      0.5153
+    ],
+    "population": 1340000
+  },
+  {
+    "id": "2314302_virunga",
+    "name": "Virunga NP",
+    "region": "North Kivu",
+    "coordinates": [
+      29.5472,
+      -0.85
+    ],
+    "population": 5000
+  }
+]

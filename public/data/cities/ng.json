@@ -1,0 +1,102 @@
+[
+  {
+    "id": "2332459",
+    "name": "Lagos",
+    "region": "Lagos State",
+    "coordinates": [
+      3.3792,
+      6.4541
+    ],
+    "population": 14862000
+  },
+  {
+    "id": "2347283",
+    "name": "Abuja",
+    "region": "FCT",
+    "coordinates": [
+      7.4951,
+      9.0579
+    ],
+    "population": 3464000
+  },
+  {
+    "id": "2337018",
+    "name": "Kano",
+    "region": "Kano State",
+    "coordinates": [
+      8.5163,
+      12.0
+    ],
+    "population": 3626068
+  },
+  {
+    "id": "2339354",
+    "name": "Ibadan",
+    "region": "Oyo State",
+    "coordinates": [
+      3.8964,
+      7.3776
+    ],
+    "population": 3565108
+  },
+  {
+    "id": "2347283_calabar",
+    "name": "Calabar",
+    "region": "Cross River State",
+    "coordinates": [
+      8.3254,
+      4.9517
+    ],
+    "population": 371182
+  },
+  {
+    "id": "2347283_jos",
+    "name": "Jos",
+    "region": "Plateau State",
+    "coordinates": [
+      8.8921,
+      9.9296
+    ],
+    "population": 816824
+  },
+  {
+    "id": "2317765",
+    "name": "Port Harcourt",
+    "region": "Rivers State",
+    "coordinates": [
+      7.0134,
+      4.8156
+    ],
+    "population": 1865000
+  },
+  {
+    "id": "2303908",
+    "name": "Benin City",
+    "region": "Edo State",
+    "coordinates": [
+      5.6165,
+      6.335
+    ],
+    "population": 1495000
+  },
+  {
+    "id": "2328926",
+    "name": "Enugu",
+    "region": "Enugu State",
+    "coordinates": [
+      7.4897,
+      6.4483
+    ],
+    "population": 722664
+  },
+  {
+    "id": "2347283_ife",
+    "name": "Ile-Ife",
+    "region": "Osun State",
+    "coordinates": [
+      4.5624,
+      7.467
+    ],
+    "population": 501952
+  }
+]

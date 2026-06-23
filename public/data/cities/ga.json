@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2400553",
+    "name": "Libreville",
+    "region": "Estuaire Province",
+    "coordinates": [
+      9.4436,
+      0.3901
+    ],
+    "population": 703940
+  },
+  {
+    "id": "2400553_portgentil",
+    "name": "Port-Gentil",
+    "region": "Ogooué-Maritime Province",
+    "coordinates": [
+      8.7769,
+      -0.7193
+    ],
+    "population": 144500
+  },
+  {
+    "id": "2400553_lope",
+    "name": "Lopé National Park",
+    "region": "Ogooué-Ivindo Province",
+    "coordinates": [
+      11.5778,
+      -0.2003
+    ],
+    "population": 2000
+  }
+]

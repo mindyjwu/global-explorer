@@ -1,0 +1,8 @@
+[
+  {"id":"1880252","name":"Singapore","region":"Central Region","coordinates":[103.8198,1.3521],"population":5850342},
+  {"id":"1880252_sentosa","name":"Sentosa Island","region":"Southern Region","coordinates":[103.8239,1.2494],"population":20000},
+  {"id":"1880252_chinatown","name":"Chinatown","region":"Central Region","coordinates":[103.8445,1.2821],"population":70000},
+  {"id":"1880252_littleindia","name":"Little India","region":"Central Region","coordinates":[103.8514,1.3065],"population":60000},
+  {"id":"1880252_gardens","name":"Gardens by the Bay","region":"Central Region","coordinates":[103.8631,1.2816],"population":10000},
+  {"id":"1880252_jurong","name":"Jurong","region":"Western Region","coordinates":[103.6941,1.3398],"population":300000}
+]

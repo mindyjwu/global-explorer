@@ -1,0 +1,17 @@
+[
+  {"id":"3652462","name":"Quito","region":"Pichincha","coordinates":[-78.5249,-0.2295],"population":2011388},
+  {"id":"3657509","name":"Guayaquil","region":"Guayas","coordinates":[-79.8891,-2.1894],"population":2698077},
+  {"id":"3659691","name":"Cuenca","region":"Azuay","coordinates":[-78.9969,-2.8974],"population":605933},
+  {"id":"3652462_galapagos","name":"Puerto Ayora","region":"Galápagos","coordinates":[-90.3118,-0.7441],"population":15393},
+  {"id":"3659210","name":"Baños","region":"Tungurahua","coordinates":[-78.4235,-1.3960],"population":20000},
+  {"id":"3652462_otavalo","name":"Otavalo","region":"Imbabura","coordinates":[-78.2593,0.2342],"population":105000},
+  {"id":"3650548","name":"Puerto López","region":"Manabí","coordinates":[-80.8122,-1.5648],"population":18000},
+  {"id":"3659210_mindo","name":"Mindo","region":"Pichincha","coordinates":[-78.7729,0.0524],"population":5000},
+  {"id":"3655105","name":"Vilcabamba","region":"Loja","coordinates":[-79.2220,-4.2637],"population":5000},
+  {"id":"3654410","name":"Riobamba","region":"Chimborazo","coordinates":[-78.6480,-1.6736],"population":225741},
+  {"id":"3659210_tena","name":"Tena","region":"Napo","coordinates":[-77.8166,-0.9868],"population":60000},
+  {"id":"3652462_montanita","name":"Montañita","region":"Santa Elena","coordinates":[-80.7580,-1.8150],"population":3000},
+  {"id":"3659210_cotacachi","name":"Cotacachi","region":"Imbabura","coordinates":[-78.2731,0.3045],"population":45000},
+  {"id":"3654628","name":"Loja","region":"Loja","coordinates":[-79.2001,-3.9992],"population":214855},
+  {"id":"3659210_amazon","name":"Lago Agrio","region":"Sucumbíos","coordinates":[-76.8759,-0.0892],"population":57000}
+]

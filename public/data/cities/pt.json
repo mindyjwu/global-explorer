@@ -6,7 +6,7 @@
   {"id":"2267095","name":"Setúbal","region":"Setúbal","coordinates":[-8.8882,38.5244],"population":89504},
   {"id":"2732268","name":"Guimarães","region":"Braga","coordinates":[-8.2975,41.4425],"population":52181},
   {"id":"2736334","name":"Cascais","region":"Lisbon","coordinates":[-9.4218,38.6979],"population":35415},
-  {"id":"2267057","name":"Sintra","region":"Lisbon","coordinates":[-9.3895,38.7997],"population":377835},
+  {"id":"2267057_sintra","name":"Sintra","region":"Lisbon","coordinates":[-9.3895,38.7997],"population":377835},
   {"id":"2270385","name":"Évora","region":"Alentejo","coordinates":[-7.9097,38.5711],"population":56596},
   {"id":"2268337","name":"Faro","region":"Algarve","coordinates":[-7.9304,37.0194],"population":64560},
   {"id":"2267335","name":"Lagos","region":"Algarve","coordinates":[-8.6741,37.1027],"population":31049},

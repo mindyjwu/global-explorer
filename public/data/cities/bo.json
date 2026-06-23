@@ -1,0 +1,17 @@
+[
+  {"id":"3911925","name":"La Paz","region":"La Paz","coordinates":[-68.1193,-16.5000],"population":2369059},
+  {"id":"3904010","name":"Uyuni","region":"Potosí","coordinates":[-66.8256,-20.4635],"population":18705},
+  {"id":"3902377","name":"Sucre","region":"Chuquisaca","coordinates":[-65.2592,-19.0196],"population":337987},
+  {"id":"3904333","name":"Potosí","region":"Potosí","coordinates":[-65.7538,-19.5836],"population":233621},
+  {"id":"3904906","name":"Santa Cruz","region":"Santa Cruz","coordinates":[-63.1812,-17.7833],"population":1565478},
+  {"id":"3911925_copa","name":"Copacabana","region":"La Paz","coordinates":[-69.0849,-16.1625],"population":5000},
+  {"id":"3915530","name":"Rurrenabaque","region":"Beni","coordinates":[-67.5269,-14.4453],"population":23000},
+  {"id":"3904414","name":"Samaipata","region":"Santa Cruz","coordinates":[-63.8748,-18.1783],"population":5000},
+  {"id":"3911003","name":"Oruro","region":"Oruro","coordinates":[-67.1088,-17.9833],"population":264943},
+  {"id":"3901485","name":"Tarija","region":"Tarija","coordinates":[-64.7294,-21.5355],"population":204107},
+  {"id":"3908967","name":"Cochabamba","region":"Cochabamba","coordinates":[-66.1568,-17.3895],"population":820868},
+  {"id":"3904010_tiwanaku","name":"Tiwanaku","region":"La Paz","coordinates":[-68.6736,-16.5561],"population":1800},
+  {"id":"3911925_coroico","name":"Coroico","region":"La Paz","coordinates":[-67.7253,-16.1953],"population":12000},
+  {"id":"3901604","name":"Tupiza","region":"Potosí","coordinates":[-65.7185,-21.4436],"population":23000},
+  {"id":"3910024","name":"Trinidad","region":"Beni","coordinates":[-64.9013,-14.8333],"population":131517}
+]

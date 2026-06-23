@@ -1,0 +1,62 @@
+[
+  {
+    "id": "202061",
+    "name": "Kigali",
+    "region": "Kigali City",
+    "coordinates": [
+      30.0587,
+      -1.9441
+    ],
+    "population": 859332
+  },
+  {
+    "id": "202061_musanze",
+    "name": "Musanze",
+    "region": "Northern Province",
+    "coordinates": [
+      29.635,
+      -1.496
+    ],
+    "population": 89208
+  },
+  {
+    "id": "202061_nyungwe",
+    "name": "Nyungwe Forest",
+    "region": "Southern Province",
+    "coordinates": [
+      29.38,
+      -2.444
+    ],
+    "population": 5000
+  },
+  {
+    "id": "202061_rubavu",
+    "name": "Rubavu",
+    "region": "Western Province",
+    "coordinates": [
+      29.3368,
+      -1.6784
+    ],
+    "population": 86640
+  },
+  {
+    "id": "202061_volcanoes",
+    "name": "Volcanoes NP",
+    "region": "Northern Province",
+    "coordinates": [
+      29.5494,
+      -1.465
+    ],
+    "population": 5000
+  },
+  {
+    "id": "202061_kibuye",
+    "name": "Karongi (Kibuye)",
+    "region": "Western Province",
+    "coordinates": [
+      29.3494,
+      -2.0592
+    ],
+    "population": 55000
+  }
+]

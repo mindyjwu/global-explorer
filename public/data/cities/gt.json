@@ -1,0 +1,14 @@
+[
+  {"id":"3598132","name":"Guatemala City","region":"Guatemala","coordinates":[-90.5328,14.6349],"population":1110000},
+  {"id":"3598740","name":"Antigua","region":"Sacatepéquez","coordinates":[-90.7340,14.5586],"population":45000},
+  {"id":"3598132_tikal","name":"Tikal (Flores)","region":"Petén","coordinates":[-89.8925,16.9309],"population":25000},
+  {"id":"3598132_chichi","name":"Chichicastenango","region":"Quiché","coordinates":[-91.1107,14.9426],"population":70000},
+  {"id":"3598132_atitlan","name":"Panajachel","region":"Sololá","coordinates":[-91.1545,14.7393],"population":15000},
+  {"id":"3598132_xela","name":"Quetzaltenango","region":"Quetzaltenango","coordinates":[-91.5183,14.8444],"population":127569},
+  {"id":"3598132_semuc","name":"Lanquín","region":"Alta Verapaz","coordinates":[-89.9784,15.5741],"population":10000},
+  {"id":"3598132_livingston","name":"Livingston","region":"Izabal","coordinates":[-88.7450,15.8284],"population":15000},
+  {"id":"3598132_monterrico","name":"Monterrico","region":"Santa Rosa","coordinates":[-90.4836,13.8956],"population":3000},
+  {"id":"3598132_coban","name":"Cobán","region":"Alta Verapaz","coordinates":[-90.3686,15.4714],"population":80000},
+  {"id":"3598132_sanpedro","name":"San Pedro La Laguna","region":"Sololá","coordinates":[-91.2681,14.6935],"population":10000},
+  {"id":"3598132_rio","name":"Río Dulce","region":"Izabal","coordinates":[-88.9767,15.6534],"population":10000}
+]

@@ -1,0 +1,17 @@
+[
+  {"id":"2193733","name":"Auckland","region":"Auckland","coordinates":[174.7633,-36.8485],"population":1695200},
+  {"id":"2179537","name":"Wellington","region":"Wellington","coordinates":[174.7762,-41.2865],"population":418500},
+  {"id":"2189547","name":"Queenstown","region":"Otago","coordinates":[168.6626,-45.0312],"population":15800},
+  {"id":"2192362","name":"Christchurch","region":"Canterbury","coordinates":[172.6362,-43.5321],"population":404500},
+  {"id":"2190288","name":"Rotorua","region":"Bay of Plenty","coordinates":[176.2497,-38.1368],"population":79096},
+  {"id":"2191562","name":"Dunedin","region":"Otago","coordinates":[170.5028,-45.8788],"population":130000},
+  {"id":"2186224","name":"Napier","region":"Hawke's Bay","coordinates":[176.9189,-39.4928],"population":65000},
+  {"id":"2192833","name":"Nelson","region":"Nelson","coordinates":[173.2838,-41.2706],"population":52000},
+  {"id":"2188874","name":"Paihia","region":"Northland","coordinates":[174.0892,-35.2808],"population":2250},
+  {"id":"2189522","name":"Taupo","region":"Waikato","coordinates":[175.9756,-38.6857],"population":25000},
+  {"id":"2209055","name":"Wanaka","region":"Otago","coordinates":[169.1416,-44.7025],"population":10000},
+  {"id":"2189547_teanau","name":"Te Anau","region":"Southland","coordinates":[167.7137,-45.4143],"population":2500},
+  {"id":"2186741","name":"Kaikōura","region":"Canterbury","coordinates":[173.6829,-42.4009],"population":3900},
+  {"id":"2193733_abel","name":"Abel Tasman","region":"Nelson-Tasman","coordinates":[173.0104,-40.9148],"population":1500},
+  {"id":"2179537_franz","name":"Franz Josef","region":"West Coast","coordinates":[170.1823,-43.3886],"population":400}
+]

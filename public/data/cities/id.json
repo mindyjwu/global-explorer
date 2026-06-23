@@ -1,17 +1,152 @@
 [
-  {"id":"1642911","name":"Bali (Denpasar)","region":"Bali","coordinates":[115.2167,-8.6500],"population":897300},
-  {"id":"1642911","name":"Ubud","region":"Bali","coordinates":[115.2625,-8.5069],"population":30000},
-  {"id":"1643084","name":"Jakarta","region":"Java","coordinates":[106.8456,-6.2088],"population":10560000},
-  {"id":"1625822","name":"Yogyakarta","region":"Java","coordinates":[110.3645,-7.8014],"population":422732},
-  {"id":"1643402","name":"Seminyak","region":"Bali","coordinates":[115.1592,-8.6897],"population":25000},
-  {"id":"1630789","name":"Lombok","region":"Nusa Tenggara","coordinates":[116.1285,-8.5681],"population":700000},
-  {"id":"1624725","name":"Labuan Bajo","region":"Nusa Tenggara","coordinates":[119.8860,-8.4967],"population":28000},
-  {"id":"1626542","name":"Surabaya","region":"Java","coordinates":[112.7508,-7.2575],"population":2852000},
-  {"id":"1645457","name":"Bandung","region":"Java","coordinates":[107.6098,-6.9175],"population":2490622},
-  {"id":"1629896","name":"Bromo (Probolinggo)","region":"Java","coordinates":[113.1720,-7.9425],"population":230000},
-  {"id":"1622786","name":"Raja Ampat","region":"Papua","coordinates":[130.5260,-0.2310],"population":40000},
-  {"id":"1624697","name":"Flores (Ruteng)","region":"Nusa Tenggara","coordinates":[120.4636,-8.6168],"population":80000},
-  {"id":"1625994","name":"Gili Trawangan","region":"Nusa Tenggara","coordinates":[116.0462,-8.3519],"population":2000},
-  {"id":"1639897","name":"Makassar","region":"Sulawesi","coordinates":[119.4072,-5.1477],"population":1339374},
-  {"id":"1627896","name":"Toraja (Rantepao)","region":"Sulawesi","coordinates":[119.8987,-2.9667],"population":40000}
+  {
+    "id": "1642911",
+    "name": "Bali (Denpasar)",
+    "region": "Bali",
+    "coordinates": [
+      115.2167,
+      -8.65
+    ],
+    "population": 897300
+  },
+  {
+    "id": "1642911_ubud",
+    "name": "Ubud",
+    "region": "Bali",
+    "coordinates": [
+      115.2625,
+      -8.5069
+    ],
+    "population": 30000
+  },
+  {
+    "id": "1643084",
+    "name": "Jakarta",
+    "region": "Java",
+    "coordinates": [
+      106.8456,
+      -6.2088
+    ],
+    "population": 10560000
+  },
+  {
+    "id": "1625822",
+    "name": "Yogyakarta",
+    "region": "Java",
+    "coordinates": [
+      110.3645,
+      -7.8014
+    ],
+    "population": 422732
+  },
+  {
+    "id": "1643402",
+    "name": "Seminyak",
+    "region": "Bali",
+    "coordinates": [
+      115.1592,
+      -8.6897
+    ],
+    "population": 25000
+  },
+  {
+    "id": "1630789",
+    "name": "Lombok",
+    "region": "Nusa Tenggara",
+    "coordinates": [
+      116.1285,
+      -8.5681
+    ],
+    "population": 700000
+  },
+  {
+    "id": "1624725",
+    "name": "Labuan Bajo",
+    "region": "Nusa Tenggara",
+    "coordinates": [
+      119.886,
+      -8.4967
+    ],
+    "population": 28000
+  },
+  {
+    "id": "1626542",
+    "name": "Surabaya",
+    "region": "Java",
+    "coordinates": [
+      112.7508,
+      -7.2575
+    ],
+    "population": 2852000
+  },
+  {
+    "id": "1645457",
+    "name": "Bandung",
+    "region": "Java",
+    "coordinates": [
+      107.6098,
+      -6.9175
+    ],
+    "population": 2490622
+  },
+  {
+    "id": "1629896",
+    "name": "Bromo (Probolinggo)",
+    "region": "Java",
+    "coordinates": [
+      113.172,
+      -7.9425
+    ],
+    "population": 230000
+  },
+  {
+    "id": "1622786",
+    "name": "Raja Ampat",
+    "region": "Papua",
+    "coordinates": [
+      130.526,
+      -0.231
+    ],
+    "population": 40000
+  },
+  {
+    "id": "1624697",
+    "name": "Flores (Ruteng)",
+    "region": "Nusa Tenggara",
+    "coordinates": [
+      120.4636,
+      -8.6168
+    ],
+    "population": 80000
+  },
+  {
+    "id": "1625994",
+    "name": "Gili Trawangan",
+    "region": "Nusa Tenggara",
+    "coordinates": [
+      116.0462,
+      -8.3519
+    ],
+    "population": 2000
+  },
+  {
+    "id": "1639897",
+    "name": "Makassar",
+    "region": "Sulawesi",
+    "coordinates": [
+      119.4072,
+      -5.1477
+    ],
+    "population": 1339374
+  },
+  {
+    "id": "1627896",
+    "name": "Toraja (Rantepao)",
+    "region": "Sulawesi",
+    "coordinates": [
+      119.8987,
+      -2.9667
+    ],
+    "population": 40000
+  }
 ]

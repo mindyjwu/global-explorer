@@ -1,0 +1,22 @@
+[
+  {
+    "id": "372891",
+    "name": "Juba",
+    "region": "Central Equatoria",
+    "coordinates": [
+      31.5825,
+      4.8517
+    ],
+    "population": 525953
+  },
+  {
+    "id": "372891_wau",
+    "name": "Wau",
+    "region": "Western Bahr el Ghazal",
+    "coordinates": [
+      27.9799,
+      7.7006
+    ],
+    "population": 151323
+  }
+]

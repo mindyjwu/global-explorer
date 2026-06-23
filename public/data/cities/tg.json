@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2363686",
+    "name": "Lomé",
+    "region": "Maritime Region",
+    "coordinates": [
+      1.2124,
+      6.1375
+    ],
+    "population": 837437
+  },
+  {
+    "id": "2363686_kpalime",
+    "name": "Kpalimé",
+    "region": "Plateaux Region",
+    "coordinates": [
+      0.6285,
+      6.9103
+    ],
+    "population": 75000
+  },
+  {
+    "id": "2363686_atakpame",
+    "name": "Atakpamé",
+    "region": "Plateaux Region",
+    "coordinates": [
+      1.1267,
+      7.5333
+    ],
+    "population": 84000
+  }
+]

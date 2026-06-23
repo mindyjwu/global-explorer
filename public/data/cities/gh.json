@@ -1,0 +1,82 @@
+[
+  {
+    "id": "2306104",
+    "name": "Accra",
+    "region": "Greater Accra",
+    "coordinates": [
+      -0.2057,
+      5.5502
+    ],
+    "population": 2291352
+  },
+  {
+    "id": "2298813",
+    "name": "Cape Coast",
+    "region": "Central Region",
+    "coordinates": [
+      -1.2414,
+      5.1053
+    ],
+    "population": 169894
+  },
+  {
+    "id": "2297378",
+    "name": "Kumasi",
+    "region": "Ashanti Region",
+    "coordinates": [
+      -1.6236,
+      6.6885
+    ],
+    "population": 2035064
+  },
+  {
+    "id": "2301093",
+    "name": "Tamale",
+    "region": "Northern Region",
+    "coordinates": [
+      -0.8393,
+      9.4008
+    ],
+    "population": 562919
+  },
+  {
+    "id": "2306104_axim",
+    "name": "Axim",
+    "region": "Western Region",
+    "coordinates": [
+      -2.2368,
+      4.8692
+    ],
+    "population": 27965
+  },
+  {
+    "id": "2306104_bolga",
+    "name": "Bolgatanga",
+    "region": "Upper East Region",
+    "coordinates": [
+      -0.8517,
+      10.7881
+    ],
+    "population": 131550
+  },
+  {
+    "id": "2299862",
+    "name": "Ho",
+    "region": "Volta Region",
+    "coordinates": [
+      0.4721,
+      6.6111
+    ],
+    "population": 74073
+  },
+  {
+    "id": "2306104_adafoah",
+    "name": "Ada Foah",
+    "region": "Greater Accra",
+    "coordinates": [
+      0.627,
+      5.7865
+    ],
+    "population": 12000
+  }
+]

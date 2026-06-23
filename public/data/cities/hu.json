@@ -1,0 +1,17 @@
+[
+  {"id":"3054643","name":"Budapest","region":"Budapest","coordinates":[19.0402,47.4979],"population":1752286},
+  {"id":"720866","name":"Eger","region":"Heves","coordinates":[20.3778,47.9025],"population":55000},
+  {"id":"3046526","name":"Pécs","region":"Baranya","coordinates":[18.2330,46.0727],"population":143576},
+  {"id":"3045832","name":"Sopron","region":"Győr-Moson-Sopron","coordinates":[16.5945,47.6851],"population":60000},
+  {"id":"722472","name":"Debrecen","region":"Hajdú-Bihar","coordinates":[21.6273,47.5316],"population":202520},
+  {"id":"3051985","name":"Keszthely","region":"Zala","coordinates":[17.2438,46.7681],"population":20000},
+  {"id":"720737","name":"Tokaj","region":"Borsod-Abaúj-Zemplén","coordinates":[21.3932,48.1197],"population":4600},
+  {"id":"3053163","name":"Győr","region":"Győr-Moson-Sopron","coordinates":[17.6369,47.6875],"population":131558},
+  {"id":"3044310","name":"Visegrád","region":"Pest","coordinates":[18.9773,47.7914],"population":1700},
+  {"id":"3049968","name":"Szentendre","region":"Pest","coordinates":[19.0741,47.6813],"population":26000},
+  {"id":"3052375","name":"Hévíz","region":"Zala","coordinates":[17.1890,46.7914],"population":4600},
+  {"id":"3053685","name":"Esztergom","region":"Komárom-Esztergom","coordinates":[18.7368,47.7934],"population":29000},
+  {"id":"3047079","name":"Miskolc","region":"Borsod-Abaúj-Zemplén","coordinates":[20.7848,48.1035],"population":154521},
+  {"id":"3043689","name":"Veszprém","region":"Veszprém","coordinates":[17.9121,47.0930],"population":60000},
+  {"id":"3051498","name":"Lillafüred","region":"Borsod-Abaúj-Zemplén","coordinates":[20.7133,48.0833],"population":1000}
+]

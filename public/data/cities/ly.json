@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2215163",
+    "name": "Tripoli",
+    "region": "Tripolitania",
+    "coordinates": [
+      13.1872,
+      32.9028
+    ],
+    "population": 1127000
+  },
+  {
+    "id": "2217362",
+    "name": "Benghazi",
+    "region": "Cyrenaica",
+    "coordinates": [
+      20.0686,
+      32.1194
+    ],
+    "population": 650629
+  },
+  {
+    "id": "2219905",
+    "name": "Leptis Magna",
+    "region": "Khoms District",
+    "coordinates": [
+      14.2987,
+      32.6388
+    ],
+    "population": 50000
+  },
+  {
+    "id": "2219905_sabratha",
+    "name": "Sabratha",
+    "region": "Sabratha District",
+    "coordinates": [
+      12.4884,
+      32.7939
+    ],
+    "population": 83000
+  },
+  {
+    "id": "2215163_ghadames",
+    "name": "Ghadames",
+    "region": "Ghadames District",
+    "coordinates": [
+      9.4968,
+      30.1347
+    ],
+    "population": 10000
+  }
+]

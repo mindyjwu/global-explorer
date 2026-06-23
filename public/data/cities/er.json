@@ -1,0 +1,32 @@
+[
+  {
+    "id": "338537",
+    "name": "Asmara",
+    "region": "Central Region",
+    "coordinates": [
+      38.9318,
+      15.338
+    ],
+    "population": 963540
+  },
+  {
+    "id": "338537_massawa",
+    "name": "Massawa",
+    "region": "Northern Red Sea Region",
+    "coordinates": [
+      39.473,
+      15.608
+    ],
+    "population": 40000
+  },
+  {
+    "id": "338537_keren",
+    "name": "Keren",
+    "region": "Anseba Region",
+    "coordinates": [
+      38.45,
+      15.7833
+    ],
+    "population": 74800
+  }
+]

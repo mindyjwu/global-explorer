@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2357048",
+    "name": "Ouagadougou",
+    "region": "Centre Region",
+    "coordinates": [
+      -1.5338,
+      12.3686
+    ],
+    "population": 2415266
+  },
+  {
+    "id": "2357048_bobo",
+    "name": "Bobo-Dioulasso",
+    "region": "Hauts-Bassins Region",
+    "coordinates": [
+      -4.2979,
+      11.1771
+    ],
+    "population": 903914
+  },
+  {
+    "id": "2357048_banfora",
+    "name": "Banfora",
+    "region": "Cascades Region",
+    "coordinates": [
+      -4.7667,
+      10.6333
+    ],
+    "population": 115000
+  }
+]

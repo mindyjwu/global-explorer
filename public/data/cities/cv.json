@@ -1,0 +1,42 @@
+[
+  {
+    "id": "3374333",
+    "name": "Praia",
+    "region": "Santiago Island",
+    "coordinates": [
+      -23.5133,
+      14.9331
+    ],
+    "population": 131719
+  },
+  {
+    "id": "3374333_mindelo",
+    "name": "Mindelo",
+    "region": "São Vicente Island",
+    "coordinates": [
+      -24.9994,
+      16.8886
+    ],
+    "population": 76829
+  },
+  {
+    "id": "3374333_salbarbosa",
+    "name": "Sal Island",
+    "region": "Sal Island",
+    "coordinates": [
+      -22.9125,
+      16.729
+    ],
+    "population": 33000
+  },
+  {
+    "id": "3374333_fogo",
+    "name": "Fogo Island",
+    "region": "Fogo Island",
+    "coordinates": [
+      -24.35,
+      14.95
+    ],
+    "population": 37000
+  }
+]

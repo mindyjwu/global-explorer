@@ -1,0 +1,22 @@
+[
+  {
+    "id": "53654",
+    "name": "Mogadishu",
+    "region": "Banadir",
+    "coordinates": [
+      45.3438,
+      2.0469
+    ],
+    "population": 2587183
+  },
+  {
+    "id": "53654_berbera",
+    "name": "Berbera",
+    "region": "Woqooyi Galbeed",
+    "coordinates": [
+      45.0161,
+      10.4366
+    ],
+    "population": 200000
+  }
+]

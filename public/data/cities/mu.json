@@ -1,0 +1,52 @@
+[
+  {
+    "id": "934154",
+    "name": "Port Louis",
+    "region": "Port Louis District",
+    "coordinates": [
+      57.4989,
+      -20.1609
+    ],
+    "population": 147066
+  },
+  {
+    "id": "934154_grandbay",
+    "name": "Grand Baie",
+    "region": "Rivière du Rempart",
+    "coordinates": [
+      57.585,
+      -20.0133
+    ],
+    "population": 26000
+  },
+  {
+    "id": "934154_mahebourg",
+    "name": "Mahébourg",
+    "region": "Grand Port District",
+    "coordinates": [
+      57.7042,
+      -20.4067
+    ],
+    "population": 18000
+  },
+  {
+    "id": "934154_rodrigues",
+    "name": "Rodrigues Island",
+    "region": "Rodrigues",
+    "coordinates": [
+      63.4225,
+      -19.7178
+    ],
+    "population": 42000
+  },
+  {
+    "id": "934154_flacq",
+    "name": "Belle Mare",
+    "region": "Flacq District",
+    "coordinates": [
+      57.7833,
+      -20.2167
+    ],
+    "population": 15000
+  }
+]

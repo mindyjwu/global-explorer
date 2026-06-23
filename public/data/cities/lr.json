@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2275394",
+    "name": "Monrovia",
+    "region": "Montserrado County",
+    "coordinates": [
+      -10.7969,
+      6.3005
+    ],
+    "population": 1010970
+  },
+  {
+    "id": "2275394_robertsport",
+    "name": "Robertsport",
+    "region": "Grand Cape Mount",
+    "coordinates": [
+      -11.3687,
+      6.7543
+    ],
+    "population": 8000
+  },
+  {
+    "id": "2275394_sapo",
+    "name": "Sapo National Park",
+    "region": "Sinoe County",
+    "coordinates": [
+      -8.55,
+      5.5
+    ],
+    "population": 3000
+  }
+]

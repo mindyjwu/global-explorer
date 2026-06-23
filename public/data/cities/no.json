@@ -1,0 +1,152 @@
+[
+  {
+    "id": "658225",
+    "name": "Oslo",
+    "region": "Oslo",
+    "coordinates": [
+      10.7522,
+      59.9139
+    ],
+    "population": 693494
+  },
+  {
+    "id": "773876",
+    "name": "Bergen",
+    "region": "Vestland",
+    "coordinates": [
+      5.3221,
+      60.3913
+    ],
+    "population": 283929
+  },
+  {
+    "id": "607072",
+    "name": "Tromsø",
+    "region": "Troms og Finnmark",
+    "coordinates": [
+      18.9553,
+      69.6496
+    ],
+    "population": 77518
+  },
+  {
+    "id": "3134891",
+    "name": "Flåm",
+    "region": "Vestland",
+    "coordinates": [
+      7.1146,
+      60.8634
+    ],
+    "population": 350
+  },
+  {
+    "id": "3163392",
+    "name": "Ålesund",
+    "region": "Møre og Romsdal",
+    "coordinates": [
+      6.1494,
+      62.4723
+    ],
+    "population": 68205
+  },
+  {
+    "id": "3145533",
+    "name": "Svolvær",
+    "region": "Nordland",
+    "coordinates": [
+      14.57,
+      68.2345
+    ],
+    "population": 5000
+  },
+  {
+    "id": "3132722",
+    "name": "Stavanger",
+    "region": "Rogaland",
+    "coordinates": [
+      5.7331,
+      58.97
+    ],
+    "population": 144615
+  },
+  {
+    "id": "3149565",
+    "name": "Geiranger",
+    "region": "Møre og Romsdal",
+    "coordinates": [
+      7.2057,
+      62.1009
+    ],
+    "population": 250
+  },
+  {
+    "id": "3151404",
+    "name": "Kristiansand",
+    "region": "Agder",
+    "coordinates": [
+      7.9951,
+      58.1599
+    ],
+    "population": 111676
+  },
+  {
+    "id": "3133880",
+    "name": "Trondheim",
+    "region": "Trøndelag",
+    "coordinates": [
+      10.3951,
+      63.4305
+    ],
+    "population": 204238
+  },
+  {
+    "id": "3161732",
+    "name": "Bodø",
+    "region": "Nordland",
+    "coordinates": [
+      14.374,
+      67.2802
+    ],
+    "population": 52678
+  },
+  {
+    "id": "3145742",
+    "name": "Lillehammer",
+    "region": "Innlandet",
+    "coordinates": [
+      10.4671,
+      61.1153
+    ],
+    "population": 28000
+  },
+  {
+    "id": "3163302",
+    "name": "Alta",
+    "region": "Troms og Finnmark",
+    "coordinates": [
+      23.271,
+      69.9689
+    ],
+    "population": 21000
+  },
+  {
+    "id": "607072_voss",
+    "name": "Voss",
+    "region": "Vestland",
+    "coordinates": [
+      6.4199,
+      60.6276
+    ],
+    "population": 15000
+  },
+  {
+    "id": "607072_lofoten",
+    "name": "Lofoten Islands",
+    "region": "Nordland",
+    "coordinates": [
+      13.5683,
+      68.1543
+    ],
+    "population": 24500
+  }
+]

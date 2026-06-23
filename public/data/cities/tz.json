@@ -1,0 +1,17 @@
+[
+  {"id":"149590","name":"Zanzibar Stone Town","region":"Zanzibar","coordinates":[39.1942,-6.1622],"population":223033},
+  {"id":"160263","name":"Arusha","region":"Arusha","coordinates":[36.6820,-3.3869],"population":617631},
+  {"id":"160196","name":"Dar es Salaam","region":"Dar es Salaam","coordinates":[39.2693,-6.7924],"population":7404689},
+  {"id":"148716","name":"Moshi","region":"Kilimanjaro","coordinates":[37.3408,-3.3537],"population":184292},
+  {"id":"152220","name":"Karatu","region":"Arusha","coordinates":[35.7869,-3.3378],"population":50000},
+  {"id":"160196_serengeti","name":"Serengeti","region":"Mara","coordinates":[34.8295,-2.4581],"population":500},
+  {"id":"149590_nungwi","name":"Nungwi","region":"Zanzibar North","coordinates":[39.3090,-5.7268],"population":10000},
+  {"id":"160263_manyara","name":"Lake Manyara","region":"Manyara","coordinates":[35.8411,-3.3631],"population":30000},
+  {"id":"148975","name":"Pemba Island","region":"Pemba North","coordinates":[39.8117,-5.2167],"population":406848},
+  {"id":"152411","name":"Bagamoyo","region":"Pwani","coordinates":[38.9047,-6.4408],"population":75000},
+  {"id":"161515","name":"Kigoma","region":"Kigoma","coordinates":[29.6255,-4.8769],"population":215000},
+  {"id":"148716_kilimanjaro","name":"Kilimanjaro Base","region":"Kilimanjaro","coordinates":[37.3558,-3.0674],"population":5000},
+  {"id":"160263_ngorongoro","name":"Ngorongoro Crater","region":"Arusha","coordinates":[35.5858,-3.2333],"population":1000},
+  {"id":"149590_mafia","name":"Mafia Island","region":"Pwani","coordinates":[39.8483,-7.9188],"population":40000},
+  {"id":"153400","name":"Iringa","region":"Iringa","coordinates":[35.6913,-7.7675],"population":138000}
+]

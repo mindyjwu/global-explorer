@@ -7,8 +7,10 @@ interface AppState {
   cities: City[];
   selectedCity: City | null;
   activeFilters: InterestTag[];
+  isLoading: boolean;
   // actions
-  flyToCountry: (country: CountryConfig, cities: City[]) => void;
+  beginFly: (country: CountryConfig) => void;
+  setCities: (cities: City[] | null) => void;
   returnToGlobe: () => void;
   selectCity: (city: City | null) => void;
   toggleFilter: (tag: InterestTag) => void;
@@ -21,12 +23,18 @@ export const useAppState = create<AppState>((set) => ({
   cities: [],
   selectedCity: null,
   activeFilters: [],
+  isLoading: false,
 
-  flyToCountry: (country, cities) =>
-    set({ view: 'country', activeCountry: country, cities, selectedCity: null }),
+  // Atomically transitions to country view + marks loading in one set() call
+  // so there's never a frame where view=country && !isLoading && cities=[] (empty state flash)
+  beginFly: (country) =>
+    set({ view: 'country', activeCountry: country, cities: [], selectedCity: null, isLoading: true }),
+
+  setCities: (cities) =>
+    set({ cities: cities ?? [], isLoading: false }),
 
   returnToGlobe: () =>
-    set({ view: 'globe', activeCountry: null, cities: [], selectedCity: null, activeFilters: [] }),
+    set({ view: 'globe', activeCountry: null, cities: [], selectedCity: null, activeFilters: [], isLoading: false }),
 
   selectCity: (city) => set({ selectedCity: city }),
 

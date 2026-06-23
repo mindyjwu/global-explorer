@@ -1,0 +1,17 @@
+[
+  {"id":"2657896","name":"Zurich","region":"Zurich","coordinates":[8.5417,47.3769],"population":434008},
+  {"id":"2660646","name":"Geneva","region":"Geneva","coordinates":[6.1432,46.2044],"population":201818},
+  {"id":"2661552","name":"Bern","region":"Bern","coordinates":[7.4474,46.9480],"population":133883},
+  {"id":"2659811","name":"Lucerne","region":"Lucerne","coordinates":[8.3093,47.0502],"population":82620},
+  {"id":"2658145","name":"Zermatt","region":"Valais","coordinates":[7.7491,46.0207],"population":5875},
+  {"id":"2660389","name":"Interlaken","region":"Bern","coordinates":[7.8632,46.6863],"population":5524},
+  {"id":"2661604","name":"Basel","region":"Basel-City","coordinates":[7.5886,47.5596],"population":178120},
+  {"id":"2658576","name":"St. Moritz","region":"Graubünden","coordinates":[9.8355,46.4975],"population":5036},
+  {"id":"2659836","name":"Lugano","region":"Ticino","coordinates":[8.9511,46.0037],"population":63968},
+  {"id":"2659994","name":"Lausanne","region":"Vaud","coordinates":[6.6327,46.5197],"population":140202},
+  {"id":"2659471","name":"Montreux","region":"Vaud","coordinates":[6.9137,46.4312],"population":26374},
+  {"id":"2660552","name":"Grindelwald","region":"Bern","coordinates":[8.0413,46.6242],"population":3745},
+  {"id":"2659374","name":"Locarno","region":"Ticino","coordinates":[8.7966,46.1712],"population":16320},
+  {"id":"2661039","name":"Davos","region":"Graubünden","coordinates":[9.8351,46.8033],"population":10802},
+  {"id":"2661783","name":"Appenzell","region":"Appenzell Innerrhoden","coordinates":[9.4077,47.3318],"population":5740}
+]
