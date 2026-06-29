@@ -2,6 +2,7 @@ import { MapView } from './components/MapView/MapView';
 import { CityPanel } from './components/Panel/CityPanel';
 import { FilterBar } from './components/Panel/FilterBar';
 import { BackButton } from './components/UI/BackButton';
+import { SearchBar } from './components/UI/SearchBar';
 import { useAppState } from './store/appState';
 
 function GlobeHint() {
@@ -56,6 +57,7 @@ export default function App() {
     >
       <MapView />
       <BackButton />
+      <SearchBar />
       <CountryName />
       <GlobeHint />
       <NoCityData />
