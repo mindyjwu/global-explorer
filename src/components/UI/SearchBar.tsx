@@ -3,6 +3,8 @@ import { useAppState } from '../../store/appState';
 import { loadCities } from '../../lib/cityData';
 import { getSearchIndex, searchCities } from '../../lib/searchIndex';
 import type { SearchEntry } from '../../lib/searchIndex';
+import { getRecentCities, addRecentCity } from '../../lib/recentCities';
+import type { RecentCity } from '../../lib/recentCities';
 
 export function SearchBar() {
   const { view, beginFly, setCities, selectCity } = useAppState();
@@ -12,6 +14,7 @@ export function SearchBar() {
   const [activeIdx, setActiveIdx] = useState(-1);
   const [index, setIndex] = useState<SearchEntry[] | null>(null);
   const [indexLoading, setIndexLoading] = useState(false);
+  const [recents, setRecents] = useState<RecentCity[]>([]);
 
   const inputRef = useRef<HTMLInputElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
@@ -36,12 +39,14 @@ export function SearchBar() {
       if (e.key === '/' && !isInput) {
         e.preventDefault();
         setOpen(true);
+        setRecents(getRecentCities());
         setTimeout(() => inputRef.current?.focus(), 0);
         ensureIndex();
       }
       if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
         e.preventDefault();
         setOpen(true);
+        setRecents(getRecentCities());
         setTimeout(() => inputRef.current?.focus(), 0);
         ensureIndex();
       }
@@ -96,16 +101,35 @@ export function SearchBar() {
     // Fly to the country
     beginFly(entry.country);
 
-    // Load that country's cities, then select the target city
+    // Load that country's cities
     const cities = await loadCities(entry.country.citiesFile);
     setCities(cities);
 
-    // Find the city in the loaded data (match by id)
-    const match = cities?.find((c) => c.id === entry.city.id) ?? null;
-    if (match) {
-      selectCity(match);
+    // For a city match, also select it to open the CityPanel
+    if (entry.type === 'city') {
+      const match = cities?.find((c) => c.id === entry.city.id) ?? null;
+      if (match) {
+        selectCity(match);
+      }
+      setRecents(addRecentCity({
+        cityId: entry.city.id,
+        cityName: entry.city.name,
+        displayName: entry.city.content?.displayName ?? null,
+        region: entry.city.region,
+        country: entry.country,
+      }));
     }
   }, [beginFly, setCities, selectCity]);
+
+  const handleSelectRecent = useCallback((recent: RecentCity) => {
+    handleSelect({
+      type: 'city',
+      city: { id: recent.cityId, name: recent.cityName, region: recent.region, coordinates: [0, 0], population: 0, content: recent.displayName ? { displayName: recent.displayName, knownFor: '', tags: [], source: 'llm' } : null },
+      country: recent.country,
+      searchName: recent.cityName.toLowerCase(),
+      searchDisplay: recent.displayName?.toLowerCase() ?? null,
+    });
+  }, [handleSelect]);
 
   const handleKeyDown = (e: React.KeyboardEvent) => {
     if (e.key === 'ArrowDown') {
@@ -127,6 +151,7 @@ export function SearchBar() {
 
   const handleFocus = () => {
     setOpen(true);
+    setRecents(getRecentCities());
     ensureIndex();
   };
 
@@ -180,6 +205,31 @@ export function SearchBar() {
         )}
       </div>
 
+      {/* Recently viewed (shown when focused with no query yet) */}
+      {open && !query && !indexLoading && recents.length > 0 && (
+        <div className="mt-1.5 rounded-xl bg-paper border border-line shadow-lg overflow-hidden max-h-[320px] overflow-y-auto">
+          <div className="px-4 pt-2.5 pb-1 text-[10px] font-mono text-ink-soft/70 tracking-wide uppercase">
+            Recently viewed
+          </div>
+          {recents.map((recent) => (
+            <button
+              key={recent.cityId}
+              onClick={() => handleSelectRecent(recent)}
+              className="w-full text-left px-4 py-2.5 flex items-center gap-3 transition-colors duration-100 hover:bg-paper-2"
+            >
+              <div className="flex-1 min-w-0">
+                <div className="text-sm font-body text-ink truncate">
+                  {recent.displayName ?? recent.cityName}
+                </div>
+                <div className="text-[11px] font-mono text-ink-soft tracking-wide truncate">
+                  {recent.country.name} · {recent.region}
+                </div>
+              </div>
+            </button>
+          ))}
+        </div>
+      )}
+
       {/* Dropdown */}
       {open && (query || indexLoading) && (
         <div className="mt-1.5 rounded-xl bg-paper border border-line shadow-lg overflow-hidden max-h-[320px] overflow-y-auto">
@@ -195,7 +245,7 @@ export function SearchBar() {
           )}
           {results.map((entry, i) => (
             <button
-              key={`${entry.country.iso2}-${entry.city.id}`}
+              key={entry.type === 'city' ? `${entry.country.iso2}-${entry.city.id}` : entry.country.iso2}
               onClick={() => handleSelect(entry)}
               onMouseEnter={() => setActiveIdx(i)}
               className={[
@@ -205,10 +255,10 @@ export function SearchBar() {
             >
               <div className="flex-1 min-w-0">
                 <div className="text-sm font-body text-ink truncate">
-                  {entry.city.content?.displayName ?? entry.city.name}
+                  {entry.type === 'city' ? (entry.city.content?.displayName ?? entry.city.name) : entry.country.name}
                 </div>
                 <div className="text-[11px] font-mono text-ink-soft tracking-wide truncate">
-                  {entry.country.name} · {entry.city.region}
+                  {entry.type === 'city' ? `${entry.country.name} · ${entry.city.region}` : 'Country'}
                 </div>
               </div>
               <svg

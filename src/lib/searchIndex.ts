@@ -5,7 +5,8 @@ import editorial from '../data/content/cities-editorial.json';
 
 const editorialMap = editorial as Record<string, CityContent>;
 
-export interface SearchEntry {
+export interface CitySearchEntry {
+  type: 'city';
   city: City;
   country: CountryConfig;
   /** Lowercase name for matching */
@@ -13,6 +14,15 @@ export interface SearchEntry {
   /** Lowercase displayName (from editorial) for matching */
   searchDisplay: string | null;
 }
+
+export interface CountrySearchEntry {
+  type: 'country';
+  country: CountryConfig;
+  /** Lowercase name for matching */
+  searchName: string;
+}
+
+export type SearchEntry = CitySearchEntry | CountrySearchEntry;
 
 let cache: SearchEntry[] | null = null;
 let loading: Promise<SearchEntry[]> | null = null;
@@ -49,11 +59,21 @@ async function buildIndex(): Promise<SearchEntry[]> {
     }),
   );
 
+  // Country entries, so typing a country name jumps straight there
+  for (const config of countryConfigs) {
+    entries.push({
+      type: 'country',
+      country: config,
+      searchName: config.name.toLowerCase(),
+    });
+  }
+
   for (const result of results) {
     if (result.status !== 'fulfilled') continue;
     const { config, cities } = result.value;
     for (const city of cities) {
       entries.push({
+        type: 'city',
         city,
         country: config,
         searchName: city.name.toLowerCase(),
@@ -78,25 +98,31 @@ export function searchCities(index: SearchEntry[], query: string, limit = 8): Se
   const substringMatches: SearchEntry[] = [];
 
   for (const entry of index) {
+    const displayMatch = entry.type === 'city' ? (entry.searchDisplay?.startsWith(q) ?? false) : false;
     const nameMatch = entry.searchName.startsWith(q);
-    const displayMatch = entry.searchDisplay?.startsWith(q) ?? false;
 
     if (nameMatch || displayMatch) {
       prefixMatches.push(entry);
     } else if (
       entry.searchName.includes(q) ||
-      (entry.searchDisplay?.includes(q) ?? false)
+      (entry.type === 'city' && (entry.searchDisplay?.includes(q) ?? false))
     ) {
       substringMatches.push(entry);
     }
 
-    if (prefixMatches.length + substringMatches.length >= limit * 2) break;
+    if (prefixMatches.length + substringMatches.length >= limit * 4) break;
   }
 
-  // Sort each group by population (descending) for relevance
-  const byPop = (a: SearchEntry, b: SearchEntry) => b.city.population - a.city.population;
-  prefixMatches.sort(byPop);
-  substringMatches.sort(byPop);
+  // Within each tier, countries surface first (matching a whole country is
+  // high-relevance), then cities sorted by population descending.
+  const byRelevance = (a: SearchEntry, b: SearchEntry) => {
+    if (a.type === 'country' && b.type !== 'country') return -1;
+    if (b.type === 'country' && a.type !== 'country') return 1;
+    if (a.type === 'city' && b.type === 'city') return b.city.population - a.city.population;
+    return 0;
+  };
+  prefixMatches.sort(byRelevance);
+  substringMatches.sort(byRelevance);
 
   return [...prefixMatches, ...substringMatches].slice(0, limit);
 }
