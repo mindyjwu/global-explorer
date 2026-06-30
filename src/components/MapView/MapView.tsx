@@ -88,6 +88,33 @@ function configFromFeature(iso2: string, name: string, feature: maplibregl.MapGe
   return { iso2, name, center, zoom, citiesFile };
 }
 
+// Layers in the OpenFreeMap "liberty" base style to mute toward the paper/cobalt/turq
+// palette instead of its default saturated blue water + bright green landcover.
+const WATER_LAYERS = ['water'];
+const LAND_LAYERS: Record<string, string> = {
+  landcover_wood: '#D6E3CC',
+  landcover_grass: '#DCE6CE',
+  park: '#DCE6CE',
+};
+// Default labels (multi-script place names, roads, POIs) compete with our own
+// city pins and country-name UI — hide them for a cleaner, custom-cartography look.
+const HIDDEN_LAYER_PREFIXES = ['poi_', 'highway-name', 'highway-shield', 'road_shield', 'label_'];
+const HIDDEN_LAYERS = ['airport', 'water_name_point_label', 'water_name_line_label', 'waterway_line_label'];
+
+function restyleBasemap(map: maplibregl.Map) {
+  map.setPaintProperty('background', 'background-color', '#F5F2EC');
+  for (const id of WATER_LAYERS) {
+    if (map.getLayer(id)) map.setPaintProperty(id, 'fill-color', '#C9DEE3');
+  }
+  for (const [id, color] of Object.entries(LAND_LAYERS)) {
+    if (map.getLayer(id)) map.setPaintProperty(id, 'fill-color', color);
+  }
+  for (const layer of map.getStyle().layers) {
+    const hide = HIDDEN_LAYERS.includes(layer.id) || HIDDEN_LAYER_PREFIXES.some((p) => layer.id.startsWith(p));
+    if (hide) map.setLayoutProperty(layer.id, 'visibility', 'none');
+  }
+}
+
 export function MapView() {
   const mapContainer = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
@@ -118,6 +145,7 @@ export function MapView() {
     map.on('load', () => {
       map.resize();
       map.setProjection({ type: 'globe' });
+      restyleBasemap(map);
 
       map.addSource('countries', {
         type: 'geojson',
@@ -125,18 +153,18 @@ export function MapView() {
         generateId: true,
       });
 
-      // All countries are clickable now — uniform gold styling
+      // All countries are clickable now — uniform nature-toned styling
       map.addLayer({
         id: 'country-fill',
         type: 'fill',
         source: 'countries',
         paint: {
-          'fill-color': '#C99A3B',
+          'fill-color': '#2F948A',
           'fill-opacity': [
             'case',
             ['boolean', ['feature-state', 'hover'], false],
-            0.30,
-            0.10,
+            0.28,
+            0.06,
           ],
         },
       });
@@ -146,9 +174,9 @@ export function MapView() {
         type: 'line',
         source: 'countries',
         paint: {
-          'line-color': '#B89030',
+          'line-color': '#2B5C9A',
           'line-width': 0.8,
-          'line-opacity': 0.5,
+          'line-opacity': 0.35,
         },
       });
 
