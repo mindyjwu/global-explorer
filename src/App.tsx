@@ -3,7 +3,9 @@ import { CityPanel } from './components/Panel/CityPanel';
 import { FilterBar } from './components/Panel/FilterBar';
 import { BackButton } from './components/UI/BackButton';
 import { SearchBar } from './components/UI/SearchBar';
+import { SurpriseMeButton } from './components/UI/SurpriseMeButton';
 import { useAppState } from './store/appState';
+import { useUrlSync } from './lib/urlSync';
 
 function GlobeHint() {
   const { view } = useAppState();
@@ -50,6 +52,7 @@ function NoCityData() {
 }
 
 export default function App() {
+  useUrlSync();
   return (
     <div
       className="relative overflow-hidden bg-paper"
@@ -58,6 +61,7 @@ export default function App() {
       <MapView />
       <BackButton />
       <SearchBar />
+      <SurpriseMeButton />
       <CountryName />
       <GlobeHint />
       <NoCityData />

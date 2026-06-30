@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { useAppState } from '../../store/appState';
 import { ALL_TAGS, TAG_LABELS } from '../../lib/constants';
 import type { InterestTag } from '../../types';
@@ -22,7 +23,18 @@ const TAG_ACTIVE_COLORS: Record<InterestTag, { bg: string; border: string }> = {
 
 export function FilterBar() {
   const { view, activeFilters, toggleFilter, clearFilters } = useAppState();
+  const [copied, setCopied] = useState(false);
   if (view !== 'country') return null;
+
+  const handleShare = async () => {
+    try {
+      await navigator.clipboard.writeText(window.location.href);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 1500);
+    } catch {
+      // clipboard unavailable — ignore
+    }
+  };
 
   return (
     <div className="absolute bottom-6 left-1/2 -translate-x-1/2 z-20 flex items-center gap-2 flex-wrap justify-center px-2">
@@ -63,6 +75,14 @@ export function FilterBar() {
           ✕ Clear
         </button>
       )}
+      <button
+        onClick={handleShare}
+        className="px-3 py-1.5 rounded-full border border-line text-xs font-mono
+                   text-ink-soft hover:text-ink hover:border-ink-soft transition-colors duration-150
+                   bg-paper/90 backdrop-blur-sm uppercase tracking-wide"
+      >
+        {copied ? '✓ Copied' : '🔗 Share'}
+      </button>
     </div>
   );
 }
