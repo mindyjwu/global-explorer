@@ -1,66 +1,37 @@
-visit https://global-explorer-ivory.vercel.app/ website! 
+# Global Explorer
 
-## React Compiler
+An interactive 3D globe for discovering cities around the world. Spin the globe, click a country, and browse curated city destinations — 1,100+ cities across 111 countries, searchable and filterable, with shareable URLs for any view.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Live site:** [global-explorer-ivory.vercel.app](https://global-explorer-ivory.vercel.app)
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- **3D globe navigation** — click any country to zoom into its cities
+- **1,135 cities in 111 countries**, served as static per-country JSON for fast loads
+- **Search** with a client-side index, plus filters and a "Surprise me" button
+- **Shareable URLs** — the view state syncs to the URL, so any city or country view can be linked directly
+- **Recent cities** — picks up where you left off
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## Tech stack
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+- React 19 + TypeScript, built with Vite
+- [MapLibre GL](https://maplibre.org) for globe and map rendering, with [OpenFreeMap](https://openfreemap.org) tiles (no API key needed)
+- Zustand for state management
+- Tailwind CSS 4
+- City data sourced from [GeoNames](https://www.geonames.org)
+- Deployed on Vercel
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+## Why I built it
+
+I wanted to see how far a map-first UI could go for travel discovery — no lists, no forms, just a globe you can poke at. It was also an exercise in handling a real dataset: fetching and filtering GeoNames data into static JSON that a client-only app can serve without a backend.
+
+Built with [Claude Code](https://claude.com/claude-code).
+
+## Running locally
+
+```bash
+npm install
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+No API keys required — map tiles come from OpenFreeMap. See `.env.example` if you want to swap tile providers or refresh the city data.
