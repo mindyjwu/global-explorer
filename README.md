@@ -1,37 +1,32 @@
 # Global Explorer
 
-An interactive 3D globe for discovering cities around the world. Spin the globe, click a country, and browse curated city destinations — 1,100+ cities across 111 countries, searchable and filterable, with shareable URLs for any view.
+**[global-explorer-ivory.vercel.app](https://global-explorer-ivory.vercel.app)**
 
-**Live site:** [global-explorer-ivory.vercel.app](https://global-explorer-ivory.vercel.app)
+A globe you can actually spin. Click a country, browse its cities, get lost for a while — 1,135 cities across 111 countries, searchable, filterable, and shareable by URL so a specific city view is a link you can send someone, not a screenshot.
 
-## Features
+I did a semester at NYU Paris and have been trying to recreate that "where should I go next" feeling in an app ever since — most travel sites bury it under login walls and listicles before you get to look at an actual map. This is the version with no forms in the way: you land on a globe, not a homepage.
 
-- **3D globe navigation** — click any country to zoom into its cities
-- **1,135 cities in 111 countries**, served as static per-country JSON for fast loads
-- **Search** with a client-side index, plus filters and a "Surprise me" button
-- **Shareable URLs** — the view state syncs to the URL, so any city or country view can be linked directly
-- **Recent cities** — picks up where you left off
+## What's in it
 
-## Tech stack
+- Click any country on the 3D globe to zoom into its cities
+- 1,135 cities served as static per-country JSON, so it stays fast without a backend
+- Client-side search plus filters, and a "Surprise me" button for when you don't know where you want to go
+- Shareable URLs — whatever you're looking at is encoded in the link
+- Picks up your recent cities so you don't lose your place
 
-- React 19 + TypeScript, built with Vite
-- [MapLibre GL](https://maplibre.org) for globe and map rendering, with [OpenFreeMap](https://openfreemap.org) tiles (no API key needed)
-- Zustand for state management
-- Tailwind CSS 4
-- City data sourced from [GeoNames](https://www.geonames.org)
-- Deployed on Vercel
+## Stack
 
-## Why I built it
+React 19 + TypeScript on Vite, MapLibre GL for the globe and map rendering (OpenFreeMap tiles, no API key required), Zustand for state, Tailwind 4. City data sourced from GeoNames and pre-filtered into static JSON. Deployed on Vercel.
 
-I wanted to see how far a map-first UI could go for travel discovery — no lists, no forms, just a globe you can poke at. It was also an exercise in handling a real dataset: fetching and filtering GeoNames data into static JSON that a client-only app can serve without a backend.
+## Why it's built this way
 
-Built with [Claude Code](https://claude.com/claude-code).
+The interesting part wasn't the globe rendering — MapLibre does most of that for you — it was making a real geographic dataset (GeoNames, which is enormous and messy) fast enough to feel instant in a client-only app with no server to lean on. Everything gets pre-processed into small per-country files at build time instead of queried live.
 
-## Running locally
+## Running it locally
 
 ```bash
 npm install
 npm run dev
 ```
 
-No API keys required — map tiles come from OpenFreeMap. See `.env.example` if you want to swap tile providers or refresh the city data.
+No API keys needed — tiles come from OpenFreeMap. See `.env.example` if you want to swap tile providers or regenerate the city data.
