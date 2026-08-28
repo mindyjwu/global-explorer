@@ -1,15 +1,90 @@
 import { useEffect } from 'react';
 import { useAppState } from '../../store/appState';
 import { TAG_LABELS } from '../../lib/constants';
-import type { InterestTag } from '../../types';
+import type { InterestTag, CityContent } from '../../types';
+
+const MONTH_SHORT = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+function SafetyDots({ rating }: { rating: number }) {
+  const full = Math.round(rating);
+  const color = rating >= 4 ? 'bg-emerald-500' : rating >= 3 ? 'bg-amber-400' : 'bg-red-400';
+  return (
+    <div className="flex items-center gap-0.5">
+      {Array.from({ length: 5 }, (_, i) => (
+        <span key={i} className={`inline-block w-2 h-2 rounded-full ${i < full ? color : 'bg-line'}`} />
+      ))}
+    </div>
+  );
+}
+
+function TripInfo({ content }: { content: CityContent }) {
+  const { stayDays, bestMonths, avgCostUSD, avgTempC, safetyRating } = content;
+  if (!stayDays && !bestMonths && !avgCostUSD && !avgTempC && !safetyRating) return null;
+
+  return (
+    <div className="mt-5 pt-4 border-t border-line grid grid-cols-2 gap-x-4 gap-y-4">
+      {stayDays && (
+        <div>
+          <div className="text-[10px] font-mono uppercase tracking-widest text-ink-soft mb-0.5">Stay</div>
+          <div className="text-sm font-body text-ink">
+            {stayDays.min === stayDays.max ? `${stayDays.min} days` : `${stayDays.min}–${stayDays.max} days`}
+          </div>
+        </div>
+      )}
+      {avgCostUSD && (
+        <div>
+          <div className="text-[10px] font-mono uppercase tracking-widest text-ink-soft mb-0.5">Daily budget</div>
+          <div className="text-sm font-body text-ink">${avgCostUSD} <span className="text-[11px] text-ink-soft">/ person</span></div>
+        </div>
+      )}
+      {avgTempC && (
+        <div>
+          <div className="text-[10px] font-mono uppercase tracking-widest text-ink-soft mb-0.5">Temperature</div>
+          <div className="text-sm font-body text-ink">{avgTempC.low}–{avgTempC.high}°C</div>
+        </div>
+      )}
+      {safetyRating && (
+        <div>
+          <div className="text-[10px] font-mono uppercase tracking-widest text-ink-soft mb-1">Safety</div>
+          <SafetyDots rating={safetyRating} />
+        </div>
+      )}
+      {bestMonths && bestMonths.length > 0 && (
+        <div className="col-span-2">
+          <div className="text-[10px] font-mono uppercase tracking-widest text-ink-soft mb-1.5">Best time to visit</div>
+          <div className="flex flex-wrap gap-1">
+            {MONTH_SHORT.map((m, i) => {
+              const active = bestMonths.includes(i + 1);
+              return (
+                <span
+                  key={m}
+                  className={[
+                    'px-1.5 py-0.5 rounded text-[10px] font-mono',
+                    active
+                      ? 'bg-cobalt text-paper'
+                      : 'bg-line/40 text-ink-soft',
+                  ].join(' ')}
+                >
+                  {m}
+                </span>
+              );
+            })}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
 
 const TAG_COLORS: Record<InterestTag, { bg: string; text: string }> = {
-  nature:      { bg: 'bg-emerald-50',  text: 'text-emerald-800' },
-  beaches:     { bg: 'bg-teal-50',     text: 'text-teal-800' },
-  'food-wine': { bg: 'bg-amber-50',    text: 'text-amber-800' },
-  history:     { bg: 'bg-blue-50',     text: 'text-blue-800' },
-  shopping:    { bg: 'bg-purple-50',   text: 'text-purple-800' },
-  nightlife:   { bg: 'bg-orange-50',   text: 'text-orange-800' },
+  nature:        { bg: 'bg-emerald-50',  text: 'text-emerald-800' },
+  beaches:       { bg: 'bg-teal-50',     text: 'text-teal-800' },
+  adventure:     { bg: 'bg-green-50',    text: 'text-green-800' },
+  'food-wine':   { bg: 'bg-amber-50',    text: 'text-amber-800' },
+  'street-food': { bg: 'bg-orange-50',   text: 'text-orange-800' },
+  history:       { bg: 'bg-blue-50',     text: 'text-blue-800' },
+  shopping:      { bg: 'bg-purple-50',   text: 'text-purple-800' },
+  nightlife:     { bg: 'bg-rose-50',     text: 'text-rose-800' },
 };
 
 export function CityPanel() {
@@ -82,8 +157,11 @@ export function CityPanel() {
                 {selectedCity.content.knownFor}
               </p>
 
+              {/* Trip info */}
+              <TripInfo content={selectedCity.content} />
+
               {/* Divider + meta */}
-              <div className="mt-6 pt-5 border-t border-line">
+              <div className="mt-5 pt-4 border-t border-line">
                 <div className="flex items-center gap-4 text-xs font-mono text-ink-soft">
                   <div>
                     <div className="text-[10px] uppercase tracking-widest mb-0.5">Region</div>

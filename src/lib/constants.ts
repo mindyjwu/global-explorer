@@ -125,16 +125,18 @@ export const SUPPORTED_COUNTRIES: Record<string, CountryConfig> = {
 };
 
 export const ALL_TAGS: InterestTag[] = [
-  'nature', 'beaches', 'food-wine', 'history', 'shopping', 'nightlife',
+  'nature', 'beaches', 'adventure', 'food-wine', 'street-food', 'history', 'shopping', 'nightlife',
 ];
 
 export const TAG_LABELS: Record<InterestTag, string> = {
-  nature:    'Nature',
-  beaches:   'Beaches',
+  nature:      'Nature',
+  beaches:     'Beaches',
+  adventure:   'Outdoors & Sports',
   'food-wine': 'Food & Wine',
-  history:   'History',
-  shopping:  'Shopping',
-  nightlife: 'Nightlife',
+  'street-food': 'Street Food',
+  history:     'History',
+  shopping:    'Shopping',
+  nightlife:   'Nightlife',
 };
 
 // OpenFreeMap liberty style — no API key required

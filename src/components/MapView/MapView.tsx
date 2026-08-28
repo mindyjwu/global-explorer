@@ -8,12 +8,14 @@ import type { City, InterestTag } from '../../types';
 import type { CountryConfig } from '../../types';
 
 const TAG_COLORS: Record<InterestTag, string> = {
-  nature:      '#2F8A6E',
-  beaches:     '#2F948A',
-  'food-wine': '#C99A3B',
-  history:     '#2B5C9A',
-  shopping:    '#9A5CB4',
-  nightlife:   '#C56A3F',
+  nature:        '#2F8A6E',
+  beaches:       '#2F948A',
+  adventure:     '#4A7C59',
+  'food-wine':   '#C99A3B',
+  'street-food': '#B86A2E',
+  history:       '#2B5C9A',
+  shopping:      '#9A5CB4',
+  nightlife:     '#C56A3F',
 };
 
 function getPinColor(city: City): string {
@@ -38,6 +40,37 @@ function svgToElement(svg: string): HTMLElement {
   const div = document.createElement('div');
   div.innerHTML = svg;
   return div.firstChild as HTMLElement;
+}
+
+function makePinElement(city: City, isSelected: boolean, dimmed: boolean): HTMLElement {
+  const color = getPinColor(city);
+  const wrapper = document.createElement('div');
+  wrapper.style.cssText = 'display:flex;flex-direction:column;align-items:center;gap:2px;';
+
+  wrapper.appendChild(svgToElement(makePinSvg(color, isSelected, dimmed)));
+
+  const label = document.createElement('div');
+  label.textContent = city.content?.displayName ?? city.name;
+  label.style.cssText = [
+    'font-family:"Space Mono",monospace',
+    'font-size:9px',
+    'line-height:1.2',
+    'color:#15243A',
+    'background:rgba(245,242,236,0.88)',
+    'padding:1px 5px',
+    'border-radius:3px',
+    'white-space:nowrap',
+    'max-width:90px',
+    'overflow:hidden',
+    'text-overflow:ellipsis',
+    'pointer-events:none',
+    `opacity:${dimmed ? 0.25 : isSelected ? 1 : 0.82}`,
+    `font-weight:${isSelected ? 700 : 400}`,
+    `box-shadow:${isSelected ? '0 1px 4px rgba(43,92,154,0.18)' : 'none'}`,
+  ].join(';');
+  wrapper.appendChild(label);
+
+  return wrapper;
 }
 
 // Compute [minLng, minLat, maxLng, maxLat] from a GeoJSON feature's polygon coords.
@@ -279,8 +312,7 @@ export function MapView() {
         (city.content?.tags.some((t) => activeFilters.includes(t)) ?? false);
 
       const dimmed = !matchesFilter;
-      const color = getPinColor(city);
-      const el = svgToElement(makePinSvg(color, isSelected, dimmed));
+      const el = makePinElement(city, isSelected, dimmed);
       el.style.cursor = dimmed ? 'default' : 'pointer';
       el.style.opacity = dimmed ? '0.18' : '1';
       el.style.transition = 'opacity 0.25s ease, transform 0.15s ease';

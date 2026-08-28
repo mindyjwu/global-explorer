@@ -1,4 +1,4 @@
-export type InterestTag = 'nature' | 'beaches' | 'food-wine' | 'history' | 'shopping' | 'nightlife';
+export type InterestTag = 'nature' | 'beaches' | 'food-wine' | 'history' | 'shopping' | 'nightlife' | 'adventure' | 'street-food';
 
 export interface CityGeo {
   id: string;
@@ -13,6 +13,11 @@ export interface CityContent {
   knownFor: string;
   tags: InterestTag[];
   source: 'curated' | 'llm' | 'wikipedia';
+  stayDays?: { min: number; max: number };
+  bestMonths?: number[];   // 1–12
+  avgCostUSD?: number;     // per person per day
+  avgTempC?: { low: number; high: number }; // annual range
+  safetyRating?: number;   // 1–5
 }
 
 export interface City extends CityGeo {

@@ -4,21 +4,25 @@ import { ALL_TAGS, TAG_LABELS } from '../../lib/constants';
 import type { InterestTag } from '../../types';
 
 const TAG_ICONS: Record<InterestTag, string> = {
-  nature:      '🌿',
-  beaches:     '🏖',
-  'food-wine': '🍷',
-  history:     '🏛',
-  shopping:    '🛍',
-  nightlife:   '✦',
+  nature:        '🌿',
+  beaches:       '🏖',
+  adventure:     '🧗',
+  'food-wine':   '🍷',
+  'street-food': '🍜',
+  history:       '🏛',
+  shopping:      '🛍',
+  nightlife:     '✦',
 };
 
 const TAG_ACTIVE_COLORS: Record<InterestTag, { bg: string; border: string }> = {
-  nature:      { bg: '#2F8A6E', border: '#2F8A6E' },
-  beaches:     { bg: '#2F948A', border: '#2F948A' },
-  'food-wine': { bg: '#C99A3B', border: '#C99A3B' },
-  history:     { bg: '#2B5C9A', border: '#2B5C9A' },
-  shopping:    { bg: '#9A5CB4', border: '#9A5CB4' },
-  nightlife:   { bg: '#C56A3F', border: '#C56A3F' },
+  nature:        { bg: '#2F8A6E', border: '#2F8A6E' },
+  beaches:       { bg: '#2F948A', border: '#2F948A' },
+  adventure:     { bg: '#4A7C59', border: '#4A7C59' },
+  'food-wine':   { bg: '#C99A3B', border: '#C99A3B' },
+  'street-food': { bg: '#B86A2E', border: '#B86A2E' },
+  history:       { bg: '#2B5C9A', border: '#2B5C9A' },
+  shopping:      { bg: '#9A5CB4', border: '#9A5CB4' },
+  nightlife:     { bg: '#C56A3F', border: '#C56A3F' },
 };
 
 export function FilterBar() {
