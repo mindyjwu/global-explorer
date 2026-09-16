@@ -13,6 +13,7 @@ I did a semester at NYU Paris and have been trying to recreate that "where shoul
 - Client-side search plus filters, and a "Surprise me" button for when you don't know where you want to go
 - Shareable URLs — whatever you're looking at is encoded in the link
 - Picks up your recent cities so you don't lose your place
+- **From the Met** — pick a country and the left edge shows five of The Metropolitan Museum of Art's own highlights made there, live from the Met's free open-access API. No key, no AI, nothing generated.
 
 ## Stack
 

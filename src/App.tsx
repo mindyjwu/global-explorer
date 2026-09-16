@@ -1,6 +1,7 @@
 import { MapView } from './components/MapView/MapView';
 import { CityPanel } from './components/Panel/CityPanel';
 import { FilterBar } from './components/Panel/FilterBar';
+import { MetStrip } from './components/Panel/MetStrip';
 import { BackButton } from './components/UI/BackButton';
 import { SearchBar } from './components/UI/SearchBar';
 import { SurpriseMeButton } from './components/UI/SurpriseMeButton';
@@ -65,6 +66,7 @@ export default function App() {
       <CountryName />
       <GlobeHint />
       <NoCityData />
+      <MetStrip />
       <FilterBar />
       <CityPanel />
     </div>
