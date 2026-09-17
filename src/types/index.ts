@@ -1,4 +1,7 @@
-export type InterestTag = 'nature' | 'beaches' | 'food-wine' | 'history' | 'shopping' | 'nightlife' | 'adventure' | 'street-food';
+export type InterestTag =
+  | 'nature' | 'beaches' | 'adventure' | 'food-wine' | 'street-food'
+  | 'history' | 'shopping' | 'nightlife'
+  | 'wonders' | 'national-parks' | 'wildlife' | 'aurora' | 'islands';
 
 export interface CityGeo {
   id: string;

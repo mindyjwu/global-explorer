@@ -125,34 +125,41 @@ export const SUPPORTED_COUNTRIES: Record<string, CountryConfig> = {
 };
 
 export const ALL_TAGS: InterestTag[] = [
-  'nature', 'beaches', 'adventure', 'food-wine', 'street-food', 'history', 'shopping', 'nightlife',
+  'nature', 'beaches', 'adventure', 'food-wine', 'street-food',
+  'history', 'shopping', 'nightlife',
+  'wonders', 'national-parks', 'wildlife', 'aurora', 'islands',
 ];
 
 export const TAG_LABELS: Record<InterestTag, string> = {
-  nature:      'Nature',
-  beaches:     'Beaches',
-  adventure:   'Outdoors & Sports',
-  'food-wine': 'Food & Wine',
-  'street-food': 'Street Food',
-  history:     'History',
-  shopping:    'Shopping',
-  nightlife:   'Nightlife',
+  nature:          'Nature',
+  beaches:         'Beaches',
+  adventure:       'Outdoors & Sports',
+  'food-wine':     'Food & Wine',
+  'street-food':   'Street Food',
+  history:         'History',
+  shopping:        'Shopping',
+  nightlife:       'Nightlife',
+  wonders:         'World Wonders',
+  'national-parks':'National Parks',
+  wildlife:        'Wildlife',
+  aurora:          'Northern Lights',
+  islands:         'Islands',
 };
 
 export interface ContinentConfig {
   name: string;
   center: [number, number];
   zoom: number;
-  emoji: string;
+  color: string;
 }
 
 export const CONTINENTS: ContinentConfig[] = [
-  { name: 'Europe',       center: [15,  51],  zoom: 3.6, emoji: '🏰' },
-  { name: 'Africa',       center: [20,   2],  zoom: 3.0, emoji: '🌍' },
-  { name: 'Asia',         center: [100, 30],  zoom: 2.9, emoji: '🏯' },
-  { name: 'Middle East',  center: [45,  26],  zoom: 4.0, emoji: '🕌' },
-  { name: 'Americas',     center: [-80, 10],  zoom: 2.5, emoji: '🌎' },
-  { name: 'Oceania',      center: [148,-25],  zoom: 3.5, emoji: '🌊' },
+  { name: 'Europe',      center: [15,  51],  zoom: 3.6, color: '#2B5C9A' },
+  { name: 'Africa',      center: [20,   2],  zoom: 3.0, color: '#B86A2E' },
+  { name: 'Asia',        center: [100, 30],  zoom: 2.9, color: '#2F948A' },
+  { name: 'Middle East', center: [45,  26],  zoom: 4.0, color: '#C99A3B' },
+  { name: 'Americas',    center: [-80, 10],  zoom: 2.5, color: '#4A7C59' },
+  { name: 'Oceania',     center: [148,-25],  zoom: 3.5, color: '#9A5CB4' },
 ];
 
 // Maps each supported iso2 to a continent name for breadcrumb display.

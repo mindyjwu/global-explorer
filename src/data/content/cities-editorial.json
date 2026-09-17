@@ -135,7 +135,8 @@
     "displayName": "Guimarães",
     "knownFor": "Widely regarded as the birthplace of Portugal, with a 10th-century castle and a perfectly preserved medieval quarter. UNESCO-listed historic center, compact enough to walk in an afternoon.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -372,7 +373,8 @@
     "knownFor": "A UNESCO World Heritage landscape of forested peaks, fairy-tale palaces, and mystical gardens. The candy-colored Pena Palace and Quinta da Regaleira's initiation well are unlike anywhere else in Europe. Go early; it fills by 10am.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -608,7 +610,8 @@
       "beaches",
       "nature",
       "history",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -740,7 +743,8 @@
     "knownFor": "A mountain town in the Japanese Alps with an Edo-period old town of preserved merchant houses and morning markets. Hida Folk Village is an open-air museum of thatched farmhouses. The autumn festival floats are UNESCO-listed.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -793,7 +797,8 @@
     "tags": [
       "history",
       "food-wine",
-      "shopping"
+      "shopping",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -1289,7 +1294,8 @@
     "knownFor": "Colombia's oldest surviving city, tucked between the Sierra Nevada mountains and the Caribbean. The Tayrona National Park — jungle, beaches, and indigenous Kogui settlements — starts just outside the city.",
     "tags": [
       "beaches",
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -1341,7 +1347,8 @@
     "knownFor": "Perched on a ridge in Colombia's coffee country, Manizales is the gateway to the Nevado del Ruiz volcano and the rolling fincas of the Eje Cafetero. Coffee farm tours with tastings are a half-day from the city center.",
     "tags": [
       "nature",
-      "food-wine"
+      "food-wine",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -1445,7 +1452,8 @@
     "tags": [
       "nature",
       "food-wine",
-      "street-food"
+      "street-food",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -1471,7 +1479,8 @@
     "knownFor": "Colombia's Caribbean island territory, 500km from the mainland. The Seven Colors Sea — where the shallow reef creates gradients from emerald to cobalt — is one of the Caribbean's most photographed phenomena.",
     "tags": [
       "beaches",
-      "nature"
+      "nature",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -1499,7 +1508,8 @@
       "history",
       "shopping",
       "food-wine",
-      "street-food"
+      "street-food",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -1731,7 +1741,8 @@
     "knownFor": "The gateway to the Sahara and the filming location for Game of Thrones, Gladiator, and Lawrence of Arabia. The Aït Benhaddou ksar — a UNESCO fortified village — is 30km away. Sunrise over the dunes at Merzouga is a half-day drive further.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -1808,7 +1819,8 @@
     "displayName": "Tétouan",
     "knownFor": "The most Moroccan of the northern cities — Andalusian refugees who arrived in 1492 shaped its architecture and its cuisine. The medina is UNESCO-listed and far less touristed than Fez. The Rif mountains begin right outside the city.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -1835,7 +1847,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -1892,7 +1905,9 @@
       "food-wine",
       "nature",
       "shopping",
-      "street-food"
+      "street-food",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -1918,7 +1933,8 @@
     "knownFor": "Thailand's largest island, defined by its Andaman Sea coast of limestone karsts and white sand beaches. Patong is reliably chaotic; Kata Noi is refined. The Phang Nga Bay boat trip — passing the James Bond island — is the essential day out.",
     "tags": [
       "beaches",
-      "nightlife"
+      "nightlife",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -2021,7 +2037,8 @@
     "knownFor": "The Gulf of Thailand's answer to Phuket: coconut palms, turquoise water, and a developed resort strip at Chaweng balanced by quieter bays on the north coast. The Big Buddha temple and the Na Muang waterfalls in the interior are the reliefs from the beach.",
     "tags": [
       "beaches",
-      "nightlife"
+      "nightlife",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -2126,7 +2143,8 @@
     "tags": [
       "nature",
       "beaches",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -2178,7 +2196,10 @@
     "knownFor": "The gateway to Thailand's northeast Isan region, the largest and least-touristed part of the country. Khao Yai National Park — UNESCO biosphere reserve, three hours south — is one of Asia's best wildlife destinations. The local food is distinctly different from Bangkok.",
     "tags": [
       "nature",
-      "food-wine"
+      "food-wine",
+      "wonders",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -2204,7 +2225,8 @@
     "knownFor": "The Death Railway bridge over the River Kwai and its WWII museum are a sober essential. The surrounding landscape is unexpectedly beautiful — waterfalls, national parks, and floating bamboo raft guesthouses on the river make it much more than a day trip from Bangkok.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -2286,7 +2308,8 @@
       "history",
       "food-wine",
       "beaches",
-      "shopping"
+      "shopping",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -2338,7 +2361,8 @@
     "knownFor": "The last imperial capital of Vietnam, with a UNESCO-listed walled Citadel modeled on the Forbidden City. The royal tombs scattered along the Perfume River are explored by dragon boat. Hue's cuisine is considered Vietnam's most refined — bun bo Hue is its fiery signature.",
     "tags": [
       "history",
-      "food-wine"
+      "food-wine",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -2362,7 +2386,9 @@
     "knownFor": "Nearly 2,000 limestone karst islands rising from emerald water — a UNESCO World Heritage site and one of Asia's most iconic landscapes. Overnight junk cruises are the way to see it; kayaking through grottoes at dawn before the day-trippers arrive is the moment that makes it.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "wonders",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -2415,7 +2441,8 @@
     "tags": [
       "beaches",
       "history",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -2546,7 +2573,9 @@
     "tags": [
       "beaches",
       "nature",
-      "food-wine"
+      "food-wine",
+      "national-parks",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -2572,7 +2601,8 @@
     "knownFor": "One of Vietnam's least-touristed coastal cities despite some of its best beaches. The Ky Co beach and Eo Gio cliff walk are remarkable. The Cham towers at Banh It predate Angkor. An authentic, affordable alternative for those who've done Hoi An.",
     "tags": [
       "beaches",
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -2599,7 +2629,8 @@
     "tags": [
       "nature",
       "history",
-      "shopping"
+      "shopping",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -2705,7 +2736,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -2730,7 +2762,9 @@
     "knownFor": "The gateway to Komodo National Park — the only place on earth where Komodo dragons live wild. The boat trip out to see them, snorkel the manta ray cleaning stations, and anchor at a pink-sand beach is one of Southeast Asia's great adventures.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -2755,7 +2789,8 @@
     "knownFor": "Java's second city is industrial and overlooked, but its Arab Quarter, Chinatown, and the Dutch colonial Kota Lama quarter are interesting. More importantly, it's the gateway to Bromo-Tengger-Semeru National Park, where the pre-dawn drive to see the volcano at sunrise is world-class.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -2832,7 +2867,8 @@
     "tags": [
       "nature",
       "beaches",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -2856,7 +2892,8 @@
     "displayName": "Flores",
     "knownFor": "An island of volcanoes, traditional villages, and the extraordinary Kelimutu — three crater lakes that change color independently from turquoise to black to green. The drive across Flores along the Trans-Flores Highway is one of Indonesia's great road trips.",
     "tags": [
-      "nature"
+      "nature",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -2882,7 +2919,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -3061,7 +3099,8 @@
     "displayName": "Agra",
     "knownFor": "The Taj Mahal needs no introduction — but seeing it at sunrise, before the crowds, from the far bank of the Yamuna river, when the marble turns from grey to pink to white, is still stunning. The Agra Fort and the abandoned city of Fatehpur Sikri complete the Mughal triangle.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -3296,7 +3335,8 @@
     "tags": [
       "history",
       "nature",
-      "adventure"
+      "adventure",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -3322,7 +3362,8 @@
     "knownFor": "A hill station at 2,050 meters where the tea that put Bengal on the map grows on terraced slopes with Kanchenjunga as the backdrop. The Darjeeling Himalayan Railway — a UNESCO World Heritage toy train — still runs. The morning Himalayan views from Tiger Hill can include Everest.",
     "tags": [
       "nature",
-      "food-wine"
+      "food-wine",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -3403,7 +3444,8 @@
     "knownFor": "The ancient capital of the Silla Kingdom, called the museum without walls — burial mounds the size of buildings rise from the city center, and Bulguksa Temple and the Seokguram Grotto are UNESCO masterpieces. The cherry blossoms around Bomun Lake in April are world-class.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -3429,7 +3471,9 @@
     "tags": [
       "nature",
       "food-wine",
-      "adventure"
+      "adventure",
+      "wonders",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -3481,7 +3525,8 @@
     "displayName": "Sokcho",
     "knownFor": "The gateway to Seoraksan National Park — South Korea's most dramatic mountain landscape of granite peaks, cable cars, and Buddhist temples cut into cliffsides. The Osaek hot springs are nearby. In winter the park gets heavy snow; in autumn the foliage turns the mountains red.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -3506,7 +3551,8 @@
     "displayName": "Andong",
     "knownFor": "The heart of Korea's Confucian heritage: the Hahoe Folk Village is a UNESCO-listed living village of Joseon-era houses where descendants still live. The mask dance festival (October) and the Dosan Seowon Confucian academy are the cultural anchors.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -3531,7 +3577,8 @@
     "displayName": "Suwon",
     "knownFor": "Home to the UNESCO-listed Hwaseong Fortress — an 18th-century walled city built by King Jeongjo, equipped with innovative flood gates and observation towers. Only 30 minutes from Seoul by subway, it's one of Korea's most rewarding day trips.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -3583,7 +3630,8 @@
     "knownFor": "A southern port city of extraordinary natural beauty: the cable car up Mireuksan gives views across the Hallyeohaesang archipelago's 400 islands. The Windy Hill, the undersea tunnel, and the classical music festival honoring composer Yun Isang are the local signatures.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -3740,7 +3788,8 @@
     "knownFor": "The base camp for Angkor — one of the world's great archaeological complexes. Angkor Wat at sunrise, the face-towers of the Bayon at Angkor Thom, and the jungle-swallowed Ta Prohm are the core. But the temples extend 400km² — you can return for days and still find something new.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -3870,7 +3919,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -3895,7 +3945,8 @@
     "displayName": "Mondulkiri",
     "knownFor": "Cambodia's emptiest province — rolling highlands, pine forests, and waterfalls that feel nothing like the Mekong lowlands. The Elephant Valley Project here lets retired working elephants live free-range; it's one of the most ethical elephant experiences in Asia.",
     "tags": [
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -3921,7 +3972,9 @@
     "knownFor": "A riverside town on the Mekong where the critically endangered Irrawaddy dolphins gather in the dry season. Watching them at dusk from a kayak is a quietly profound experience. The town's French colonial grid and the island of Koh Trong — a slow farming community — are the complements.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -3947,7 +4000,8 @@
     "knownFor": "Cambodia's most beautiful island: long white-sand beaches, clear turquoise water, and dense jungle interior. The bioluminescent plankton in the bay — visible when swimming at night — turns the water electric blue. Less developed than Thailand's islands; arrive before that changes.",
     "tags": [
       "beaches",
-      "nature"
+      "nature",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -3998,7 +4052,8 @@
     "knownFor": "A Mekong river town with a sleepy French colonial center and a bamboo bridge — rebuilt each dry season by hand — connecting to an island of vegetable gardens. The Wat Nokor temple complex mixes Angkorian ruins with a functioning modern temple.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -4075,7 +4130,8 @@
     "knownFor": "A provincial capital with one extraordinary nearby treasure: Sambor Prei Kuk — a pre-Angkorian temple complex of 100 brick towers scattered through the forest, predating Angkor Wat by 200 years. Largely overlooked, it offers a quieter experience than Siem Reap.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -4101,7 +4157,8 @@
     "knownFor": "The flooded Phnom Chisor hilltop temple has panoramic views across the rice plain — best visited in the rainy season when the roads become waterways. Angkor Borei, reached by boat when the flooding is right, houses Cambodia's oldest stone inscriptions.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -4214,7 +4271,8 @@
       "history",
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -4241,7 +4299,10 @@
     "tags": [
       "beaches",
       "nightlife",
-      "history"
+      "history",
+      "national-parks",
+      "islands",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -4295,7 +4356,8 @@
     "tags": [
       "history",
       "food-wine",
-      "street-food"
+      "street-food",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -4350,7 +4412,8 @@
     "tags": [
       "history",
       "food-wine",
-      "shopping"
+      "shopping",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -4461,7 +4524,8 @@
     "tags": [
       "beaches",
       "nature",
-      "nightlife"
+      "nightlife",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -4812,7 +4876,8 @@
       "beaches",
       "nightlife",
       "history",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -4889,7 +4954,8 @@
     "displayName": "Jackson Hole",
     "knownFor": "A valley floor at 6,000 feet ringed by the Teton Range — some of the most dramatic mountain scenery in North America. Grand Teton National Park and Yellowstone are the day trips. The ski mountain has a vertical drop that rivals anything in the Rockies.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -4915,7 +4981,8 @@
     "knownFor": "A mile-high college town at the base of the San Francisco Peaks — the Grand Canyon is 90 minutes south, Antelope Canyon and Horseshoe Bend 2 hours east. The Lowell Observatory where Pluto was discovered gives dark-sky astronomy tours. Route 66 passes through.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -4968,7 +5035,8 @@
     "knownFor": "The ancient Inca capital, now a city of Spanish colonial churches built on Inca stone foundations. The Sacred Valley, Pisac market, and Ollantaytambo are the day trips; Machu Picchu is the overnight. At 3,400 meters, altitude sickness is real — rest the first day.",
     "tags": [
       "history",
-      "shopping"
+      "shopping",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -4995,7 +5063,8 @@
     "tags": [
       "nature",
       "history",
-      "adventure"
+      "adventure",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -5021,7 +5090,8 @@
     "knownFor": "The White City of Peru, built in volcanic sillar stone beneath El Misti volcano. The Santa Catalina Monastery — a city within a city, closed to the public for 400 years — is the wonder. Arequipa's cuisine (rocoto relleno, adobo) is considered the finest regional cooking in Peru.",
     "tags": [
       "history",
-      "food-wine"
+      "food-wine",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -5047,7 +5117,8 @@
     "knownFor": "On the shores of Lake Titicaca at 3,800 meters — the highest navigable lake on earth. The floating reed islands of the Uros people are nearby; Taquile Island's weavers hold a UNESCO textile tradition. The night sky at this altitude is extraordinary.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -5073,7 +5144,8 @@
     "knownFor": "The trekking capital of Peru, set in the Callejón de Huaylas valley between two Andean ranges. The Santa Cruz Trek and Laguna 69 hike (a turquoise glacial lake under a 6,000m peak) are among the most spectacular in South America. Chavin de Huantar's pre-Inca temples are nearby.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -5098,7 +5170,8 @@
     "displayName": "Iquitos",
     "knownFor": "The largest city in the world with no road access — reachable only by boat or plane, deep in the Peruvian Amazon. Rubber-boom mansions tiled in Portuguese azulejos line the waterfront. The Amazon river dolphin tours and jungle lodges accessible from here are world-class.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -5176,7 +5249,8 @@
     "displayName": "Puerto Maldonado",
     "knownFor": "Gateway to the Madre de Dios Amazon basin — one of the world's most biodiverse regions. Tambopata National Reserve has macaw clay licks and giant river otter families; the Inkaterra Reserva Amazónica lodge is the luxury anchor. Birding is exceptional year-round.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -5309,7 +5383,8 @@
       "nature",
       "food-wine",
       "adventure",
-      "street-food"
+      "street-food",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -5334,7 +5409,8 @@
     "displayName": "El Calafate",
     "knownFor": "The gateway to Perito Moreno glacier — one of the few glaciers on earth that is still advancing. Standing at the ice walkways while 50-meter walls of blue ice calve into the lake with a sound like cannon fire is a visceral, unforgettable experience.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -5361,7 +5437,8 @@
     "knownFor": "Argentina's most beautiful colonial city, with a well-preserved center and access to the dramatic Andean landscapes of Jujuy province. The Tren a las Nubes (Train to the Clouds) reaches 4,220 meters; the Quebrada de Humahuaca's polychrome rock is UNESCO-listed.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -5412,7 +5489,8 @@
     "knownFor": "The southernmost city on earth, gateway to Antarctica and the end of the Ruta 40. The Beagle Channel, the Tierra del Fuego National Park, and the Martial Glacier are the hikes. The end-of-the-world post office still stamps passports.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -5439,7 +5517,8 @@
     "tags": [
       "history",
       "nightlife",
-      "adventure"
+      "adventure",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -5466,7 +5545,8 @@
     "knownFor": "A colonial town in the Quebrada de Humahuaca — a UNESCO World Heritage valley of polychrome sandstone mountains that change color through the day. The Hill of Seven Colors near Purmamarca is the iconic shot; the cactus-dotted altiplano around it is otherworldly.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -5520,7 +5600,9 @@
     "knownFor": "The gateway to Península Valdés — a UNESCO natural reserve where southern right whales, orca, elephant seals, and Magellanic penguins all concentrate in the same bay system. The whale season (July–November) draws wildlife photographers from around the world.",
     "tags": [
       "nature",
-      "beaches"
+      "beaches",
+      "wonders",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -5550,7 +5632,8 @@
       "nightlife",
       "nature",
       "history",
-      "adventure"
+      "adventure",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -5684,7 +5767,8 @@
     "knownFor": "The Amazon's grand city, built during the rubber boom on wealth extracted from the forest. The Teatro Amazonas opera house — the most improbable building in Brazil, pink-domed in the middle of the rainforest — remains its symbol. The Meeting of the Waters (Rio Negro meets the Amazon) is just outside.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -5790,7 +5874,9 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -5924,7 +6010,8 @@
     "knownFor": "Costa Rica's most visited national park in miniature: white-sand beaches fringed by jungle where capuchin monkeys, sloths, and raccoons share the beach with swimmers. Small enough to walk all the trails in a day; the park entrance queue starts at 7am.",
     "tags": [
       "nature",
-      "beaches"
+      "beaches",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -5949,7 +6036,8 @@
     "displayName": "Monteverde",
     "knownFor": "A cloud forest reserve at 1,440 meters where mist-soaked trees drip with bromeliads and howler monkeys announce the dawn. The Monteverde Cloud Forest Reserve is the oldest private reserve in the country; the Curi-Cancha reserve is less crowded and equally good for quetzals.",
     "tags": [
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -5975,7 +6063,8 @@
     "knownFor": "Costa Rica's Caribbean coast is culturally distinct from the Pacific — Afro-Caribbean, Rastafari, and Panamanian cultures blend in this laid-back beach town. Punta Uva and Playa Cocles have some of the country's finest beaches; the Jaguar Rescue Center is nearby.",
     "tags": [
       "beaches",
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -6002,7 +6091,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -6108,7 +6198,8 @@
     "displayName": "Tortuguero",
     "knownFor": "Reachable only by boat or plane, Tortuguero is a narrow sliver of land between the Caribbean and a network of jungle canals. Green sea turtles nest here from July to October in the largest rookery in the western Caribbean. Nocturnal nesting tours are one of Costa Rica's most extraordinary experiences.",
     "tags": [
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -6133,7 +6224,8 @@
     "displayName": "Drake Bay",
     "knownFor": "The remote edge of the Osa Peninsula, where the Corcovado National Park — National Geographic's 'most biologically intense place on earth' — begins. Scarlet macaws, tapirs, and all four Costa Rican monkey species are reliably seen. Access by small plane or a 3-hour boat ride.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -6161,7 +6253,9 @@
       "beaches",
       "nature",
       "food-wine",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -6347,7 +6441,8 @@
     "knownFor": "UNESCO-listed garden city with ancient aflaj irrigation channels, Bronze Age tombs, and lush oasis gardens.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -6539,7 +6634,8 @@
       "nature",
       "food-wine",
       "adventure",
-      "street-food"
+      "street-food",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -6648,7 +6744,8 @@
     "knownFor": "UNESCO-listed lakeside village of painted wooden houses mirrored in the Hallstätter See, one of the world's most-photographed villages.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -6731,7 +6828,8 @@
     "tags": [
       "nature",
       "beaches",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -7537,7 +7635,9 @@
     "displayName": "Sundarbans, Bangladesh",
     "knownFor": "UNESCO World Heritage mangrove delta shared with India, sheltering Bengal tigers, saltwater crocodiles, and Irrawaddy dolphins.",
     "tags": [
-      "nature"
+      "nature",
+      "wonders",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -7587,7 +7687,8 @@
     "knownFor": "Tea capital of Bangladesh surrounded by manicured estates, seven-colour tea, and the Lawachara National Park with hoolock gibbons.",
     "tags": [
       "nature",
-      "food-wine"
+      "food-wine",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -8082,7 +8183,8 @@
     "displayName": "Sucre, Bolivia",
     "knownFor": "Bolivia's constitutional capital, a UNESCO-listed white colonial city with dinosaur footprints, the Casa de la Libertad, and textile museums.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -8107,7 +8209,8 @@
     "displayName": "Potosí, Bolivia",
     "knownFor": "UNESCO colonial silver-mining city at 4070 m, where the Cerro Rico mine funded the Spanish Empire and haunts local folklore.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -8133,7 +8236,8 @@
     "knownFor": "Bolivia's fastest-growing city in the lowland Amazon basin, a modern frontier town with Jesuit mission circuits nearby.",
     "tags": [
       "history",
-      "nightlife"
+      "nightlife",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -8183,7 +8287,9 @@
     "displayName": "Rurrenabaque, Bolivia",
     "knownFor": "Amazon and Pampas gateway in Beni where jungle boat tours reveal pink river dolphins, caimans, and anacondas.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -8209,7 +8315,8 @@
     "knownFor": "Hill town near the pre-Inca rock fortress El Fuerte, a UNESCO site, surrounded by cloud forest and Che Guevara Trail history.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -8234,7 +8341,8 @@
     "displayName": "Oruro, Bolivia",
     "knownFor": "Home to Bolivia's most spectacular carnival — the Oruro Carnival, a UNESCO heritage festival of dance, costumes, and Andean ritual.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -8311,7 +8419,8 @@
     "displayName": "Tiwanaku, Bolivia",
     "knownFor": "UNESCO pre-Columbian ceremonial centre near Lake Titicaca, capital of the Tiwanaku Empire, with monolithic gateways and carvings.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -8387,7 +8496,9 @@
     "displayName": "Trinidad, Bolivia",
     "knownFor": "Gateway to Bolivia's Amazon lowlands in Beni, where river dolphins, caimans, and capybaras roam the llanos wetlands.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -8413,7 +8524,8 @@
     "knownFor": "UNESCO baroque hilltop city above Recife with painted 17th-century convents, flamboyant Carnival, and forró music spilling from doorways.",
     "tags": [
       "history",
-      "nightlife"
+      "nightlife",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -8439,7 +8551,8 @@
     "displayName": "Chapada Diamantina, Brazil",
     "knownFor": "Bahia's inland national park of flat-topped mountains, crystal pools, waterfalls, and old diamond-mining villages amid cerrado wilderness.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -8465,7 +8578,8 @@
     "displayName": "Cuiabá, Brazil",
     "knownFor": "Gateway to the Pantanal, the world's largest tropical wetland, where jaguars, giant otters, and hyacinth macaws thrive.",
     "tags": [
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -8597,7 +8711,9 @@
     "knownFor": "Jewel of the Canadian Rockies inside Banff National Park, with turquoise Lake Louise, hot springs, wildlife, and world-class skiing.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -8673,7 +8789,8 @@
     "knownFor": "Gateway to the Rockies with the legendary Calgary Stampede rodeo, a dynamic downtown, and proximity to Banff and Kananaskis.",
     "tags": [
       "history",
-      "nightlife"
+      "nightlife",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -8770,7 +8887,8 @@
     "displayName": "Jasper, Canada",
     "knownFor": "Canada's largest Rocky Mountain national park with Columbia Icefields, dark-sky preserve, bears, and the Maligne Canyon ice walks.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -8927,7 +9045,8 @@
     "knownFor": "Sandstone medieval capital with 6 km of arcaded shopping streets, a UNESCO old town, Einstein's home, and panoramic Alpine views.",
     "tags": [
       "history",
-      "shopping"
+      "shopping",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -8982,7 +9101,8 @@
     "tags": [
       "nature",
       "food-wine",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -9173,7 +9293,8 @@
     "knownFor": "Classic Bernese Oberland village below the Eiger with glacier hiking, the Eiger Express gondola, and First cliff walk.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -9310,7 +9431,8 @@
     "tags": [
       "history",
       "nightlife",
-      "food-wine"
+      "food-wine",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -9361,7 +9483,8 @@
     "knownFor": "Patagonian jumping-off point for Torres del Paine National Park, with glaciers, condors, guanacos, and legendary trekking circuits.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -9387,7 +9510,8 @@
     "knownFor": "Sole town on remote Easter Island, home to the iconic moai statues, the Rano Raraku quarry, and Polynesian Rapa Nui culture.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -9493,7 +9617,9 @@
     "knownFor": "Southernmost major city in the Americas on the Strait of Magellan, gateway to Patagonia and king penguin colonies at Seno Otway.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -9519,7 +9645,9 @@
     "knownFor": "Capital of Chiloé Island with brightly painted palafito stilt-houses, wooden UNESCO churches, and culinary culture of curanto.",
     "tags": [
       "history",
-      "food-wine"
+      "food-wine",
+      "wonders",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -9546,7 +9674,8 @@
     "tags": [
       "history",
       "food-wine",
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -9572,7 +9701,9 @@
     "knownFor": "Lake District port city and ferry hub for Patagonia, surrounded by volcanoes, salmon farms, and the Chiloé archipelago.",
     "tags": [
       "nature",
-      "food-wine"
+      "food-wine",
+      "national-parks",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -9652,7 +9783,8 @@
     "knownFor": "Chilean Patagonia's main hub for fly-fishing on the Río Simpson, hiking in Cerro Castillo, and the remote Carretera Austral road.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -9678,7 +9810,8 @@
     "knownFor": "China's imperial capital with the Forbidden City, Great Wall, Temple of Heaven, and Peking duck restaurants around every courtyard.",
     "tags": [
       "history",
-      "food-wine"
+      "food-wine",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -9828,7 +9961,8 @@
     "knownFor": "UNESCO-listed Naxi old town in Yunnan with cobblestone canals, Dongba script culture, and views of Jade Dragon Snow Mountain.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -9878,7 +10012,8 @@
     "knownFor": "Venice of the East with UNESCO classical gardens, silk factories, canal-side whitewashed houses, and the Grand Canal running through.",
     "tags": [
       "history",
-      "shopping"
+      "shopping",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -10051,7 +10186,8 @@
     "displayName": "Leticia, Colombia",
     "knownFor": "Colombian Amazon gateway town on the three-country border, with river-dolphin tours, indigenous communities, and the Amacayacu National Park.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -10106,7 +10242,8 @@
       "nature",
       "food-wine",
       "history",
-      "street-food"
+      "street-food",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -10131,7 +10268,8 @@
     "displayName": "Puerto Jiménez, Costa Rica",
     "knownFor": "Gateway village to the Osa Peninsula and Corcovado National Park, the most biologically intense place on Earth with scarlet macaws.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -10185,7 +10323,8 @@
     "tags": [
       "history",
       "nightlife",
-      "beaches"
+      "beaches",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -10210,7 +10349,8 @@
     "displayName": "Varadero, Cuba",
     "knownFor": "Cuba's premier all-inclusive beach resort on a 20-km peninsula of white sand, calm turquoise water, and a lively resort strip.",
     "tags": [
-      "beaches"
+      "beaches",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -10236,7 +10376,8 @@
     "knownFor": "UNESCO-valley of dramatic mogote limestone formations, tobacco farms, cave murals, and horseback rides through red-earthed fields.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -10261,7 +10402,8 @@
     "displayName": "Cienfuegos, Cuba",
     "knownFor": "Pearl of the South — a neoclassical UNESCO city on a bay with a refined French-influenced culture, Malecón promenade, and the Palacio de Valle.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -10313,7 +10455,8 @@
     "knoodFor": "Cuba's third-largest city with a UNESCO historic centre of labyrinthine streets designed to confuse pirates, tinajones clay jars, and ballet.",
     "knownFor": "Cuba's third-largest city with a UNESCO historic centre of labyrinthine streets designed to confuse pirates, tinajones clay jars, and ballet.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -10367,7 +10510,8 @@
       "history",
       "beaches",
       "food-wine",
-      "street-food"
+      "street-food",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -10394,7 +10538,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -10498,7 +10643,8 @@
     "knownFor": "UNESCO fairy-tale castle town in a Vltava river bend, with Baroque theatre, Renaissance courtyards, and rafting past painted houses.",
     "tags": [
       "history",
-      "adventure"
+      "adventure",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -10575,7 +10721,8 @@
     "displayName": "Kutná Hora, Czech Republic",
     "knownFor": "Silver-mining UNESCO town near Prague famous for the macabre Sedlec Ossuary decorated with human bones and a Gothic cathedral.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -10600,7 +10747,8 @@
     "displayName": "Olomouc, Czech Republic",
     "knownFor": "Moravian university city with Baroque fountains, the UNESCO Holy Trinity Column, and half the tourist crowds of Prague.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -10651,7 +10799,8 @@
     "displayName": "Telč, Czech Republic",
     "knownFor": "UNESCO Renaissance town square ringed by brightly painted arcaded facades and a Renaissance château surrounded by fish ponds.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -10702,7 +10851,8 @@
     "knownFor": "South Moravian wine town below a castle on the Austrian border, the heart of the Moravian wine country Pálava hills biosphere.",
     "tags": [
       "food-wine",
-      "history"
+      "history",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -10753,7 +10903,8 @@
     "displayName": "Kroměříž, Czech Republic",
     "knownFor": "UNESCO Moravian archbishop's city with a flamboyant Baroque palace, Archbishop's Gardens, and Flower Garden used in Amadeus filming.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -10779,7 +10930,8 @@
     "knownFor": "UNESCO Lednice-Valtice Cultural Landscape, a 200 km² English park with a neo-Gothic château, minarets, and romantic follies.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -11225,7 +11377,8 @@
     "tags": [
       "food-wine",
       "nightlife",
-      "history"
+      "history",
+      "aurora"
     ],
     "source": "curated",
     "stayDays": {
@@ -11406,7 +11559,8 @@
     "knownFor": "Former Danish capital with a UNESCO cathedral of Viking kings and the annual Roskilde Festival, Scandinavia's largest music event.",
     "tags": [
       "history",
-      "nightlife"
+      "nightlife",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -11509,7 +11663,8 @@
     "knownFor": "South Jutland city with Koldinghus Renaissance castle ruins, TRAPHOLT design museum, and a picturesque fjord for kayaking.",
     "tags": [
       "history",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -11586,7 +11741,8 @@
     "displayName": "Sønderborg, Denmark",
     "knownFor": "South Jutland frontier town straddling the Als fjord with Sønderborg Castle museum of the 1864 Schleswig wars and a compact harbour.",
     "tags": [
-      "history"
+      "history",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -11612,7 +11768,8 @@
     "knownFor": "UNESCO capital at 2850 m with the largest and best-preserved historic centre in Latin America and a ringside seat to the Pichincha volcano.",
     "tags": [
       "history",
-      "food-wine"
+      "food-wine",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -11638,7 +11795,8 @@
     "knownFor": "Ecuador's largest port city with the Malecón 2000 riverside park, Las Peñas painted colonial hill, and gateway to the Galápagos flights.",
     "tags": [
       "history",
-      "nightlife"
+      "nightlife",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -11664,7 +11822,8 @@
     "knownFor": "UNESCO colonial highland city with Art Nouveau buildings, the Pumapungo Inca ruins, renowned panama-hat workshops, and a vibrant art scene.",
     "tags": [
       "history",
-      "shopping"
+      "shopping",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -11689,7 +11848,8 @@
     "displayName": "Puerto Ayora, Galápagos",
     "knownFor": "Main town on Santa Cruz in the Galápagos Islands, gateway to encounters with giant tortoises, marine iguanas, blue-footed boobies, and Darwin's finches.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -11768,7 +11928,8 @@
     "knownFor": "Fishing village on the Manabí coast, hub for humpback whale-watching from June to September and the Isla de la Plata poor-man's Galápagos.",
     "tags": [
       "nature",
-      "beaches"
+      "beaches",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -11872,7 +12033,8 @@
     "knownFor": "Amazon jungle capital of Ecuador with headwaters rafting on the Napo and Jatunyacu rivers and Kichwa community ecotourism lodges.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -11951,7 +12113,8 @@
     "knownFor": "Musical city in southern Ecuador near the Podocarpus cloud-forest national park and the gateway to the Vilcabamba Valley.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -11976,7 +12139,9 @@
     "displayName": "Lago Agrio, Ecuador",
     "knownFor": "Gateway to the Cuyabeno Wildlife Reserve in the Ecuadorian Amazon, where pink dolphins, anacondas, and toucans can be spotted.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -12002,7 +12167,8 @@
     "knownFor": "Megacity on the Nile with the Egyptian Museum's Tutankhamun treasures, Khan el-Khalili bazaar, and the Pyramids of Giza on the city's edge.",
     "tags": [
       "history",
-      "shopping"
+      "shopping",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -12111,7 +12277,9 @@
       "beaches",
       "nightlife",
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -12248,7 +12416,9 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -12301,7 +12471,9 @@
     "knownFor": "Oasis depression near Cairo with the Wadi el-Hitan (Valley of the Whales) UNESCO fossil site and Lake Qarun flamingo wetlands.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "wonders",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -12381,7 +12553,8 @@
     "displayName": "Giza, Egypt",
     "knownFor": "Home to the Great Pyramid, the last surviving ancient wonder of the world, the Great Sphinx, and the Solar Boat Museum.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -12694,7 +12867,8 @@
     "knownFor": "UNESCO-walled D'Alt Vila fortress hill above a harbour famous for legendary open-air clubs Pacha and DC-10, drawing summer party-goers from the world over.",
     "tags": [
       "history",
-      "nightlife"
+      "nightlife",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -12926,7 +13100,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -12952,7 +13127,8 @@
     "tags": [
       "nature",
       "beaches",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -13031,7 +13207,8 @@
     "tags": [
       "food-wine",
       "history",
-      "street-food"
+      "street-food",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -13058,7 +13235,8 @@
     "tags": [
       "food-wine",
       "history",
-      "street-food"
+      "street-food",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -13085,7 +13263,8 @@
     "tags": [
       "history",
       "food-wine",
-      "beaches"
+      "beaches",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -13191,7 +13370,8 @@
     "knownFor": "Alpine mountaineering capital beneath Mont Blanc, Europe's highest peak, with the Mer de Glace glacier, world-class ski area, and freeride culture.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -13705,7 +13885,8 @@
     "displayName": "Canterbury, England",
     "knownFor": "Chaucer's pilgrim city with a UNESCO Gothic cathedral, Thomas Becket's shrine, Roman walls, and a charming medieval street grid.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -13810,7 +13991,8 @@
     "knownFor": "Ancient capital of Colchis (Land of the Golden Fleece) with the UNESCO Bagrati Cathedral, Gelati monastery, and Prometheus Cave.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -13865,7 +14047,8 @@
     "tags": [
       "nature",
       "history",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -13893,7 +14076,8 @@
     "tags": [
       "history",
       "nature",
-      "adventure"
+      "adventure",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -13919,7 +14103,8 @@
     "displayName": "Borjomi, Georgia",
     "knownFor": "Borjomi-Kharagauli National Park gateway with the therapeutic mineral water springs bottled since 1890 and Soviet-era spa parks.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -13945,7 +14130,8 @@
     "displayName": "Mtskheta, Georgia",
     "knownFor": "UNESCO ancient capital of Georgia where the Aragvi and Mtkvari rivers meet, with the Jvari monastery visible from Tbilisi's streets.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -14080,7 +14266,9 @@
     "knownFor": "Highest continuously inhabited settlement in Europe at 2200 m in Svaneti, with medieval stone towers, glaciers, and UNESCO status.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -14162,7 +14350,8 @@
     "tags": [
       "history",
       "food-wine",
-      "nightlife"
+      "nightlife",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -14238,7 +14427,8 @@
     "knownFor": "Island of the medieval Knights of St John with a UNESCO walled city, the Street of Knights, Lindos acropolis, and 300 days of sunshine.",
     "tags": [
       "history",
-      "beaches"
+      "beaches",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -14316,7 +14506,8 @@
     "tags": [
       "history",
       "beaches",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -14366,7 +14557,8 @@
     "knownFor": "Gateway to the monasteries of Meteora perched atop sheer sandstone pillars, a UNESCO site and one of the most dramatic religious landscapes on Earth.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -14418,7 +14610,8 @@
     "knownFor": "Ionian island with the iconic shipwreck beach Navagio and the Blue Caves, plus loggerhead sea turtle nesting beaches at Laganas.",
     "tags": [
       "beaches",
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -14468,7 +14661,8 @@
     "displayName": "Delphi, Greece",
     "knownFor": "Ancient sanctuary of the Oracle of Apollo on Mount Parnassus, where kings and generals sought prophecy — now a UNESCO archaeological park.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -14517,7 +14711,8 @@
     "displayName": "Epidaurus, Greece",
     "knownFor": "UNESCO Sanctuary of Asclepius with the best-preserved ancient Greek theatre, renowned for near-perfect acoustics still used for summer performances.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -14568,7 +14763,8 @@
     "knownFor": "UNESCO colonial city ringed by three volcanoes with cobblestoned streets, Spanish baroque churches in ruins, and the world's most beautiful Easter processions.",
     "tags": [
       "history",
-      "food-wine"
+      "food-wine",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -14593,7 +14789,8 @@
     "knownFor": "Greatest Maya city in the jungle of Petén with towering Temple IV rising above the forest canopy and howler monkeys greeting sunrise.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -14720,7 +14917,8 @@
       "beaches",
       "food-wine",
       "history",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -14745,7 +14943,8 @@
     "knownFor": "Pacific black-sand turtle nesting beach with the Biotopo Monterrico nature reserve, leatherback releases, and hammock-slung beach bars.",
     "tags": [
       "beaches",
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -14971,7 +15170,9 @@
     "displayName": "Plitvice Lakes, Croatia",
     "knownFor": "UNESCO national park of 16 terraced lakes connected by waterfalls, with boardwalk trails through vivid turquoise and emerald waters.",
     "tags": [
-      "nature"
+      "nature",
+      "wonders",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -15046,7 +15247,9 @@
     "knownFor": "Croatian city with a UNESCO Cathedral of St James built without mortar, a medieval fortress, and gateway to the Krka National Park waterfalls.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -15096,7 +15299,8 @@
     "knownFor": "UNESCO island city connected by bridges with a remarkably intact Romanesque-Gothic Cathedral of St Lawrence and Venetian clock tower.",
     "tags": [
       "history",
-      "beaches"
+      "beaches",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -15223,7 +15427,8 @@
     "tags": [
       "history",
       "nightlife",
-      "food-wine"
+      "food-wine",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -15276,7 +15481,8 @@
     "displayName": "Pécs, Hungary",
     "knownFor": "Southern Hungary's most artistic city with a Roman necropolis, Ottoman mosque, Zsolnay ceramics, and a UNESCO Early Christian heritage.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -15386,7 +15592,8 @@
     "tags": [
       "food-wine",
       "history",
-      "street-food"
+      "street-food",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -15706,7 +15913,8 @@
     "knownFor": "Gateway to the Ring of Kerry with three lakes in a national park, pony traps on the Gap of Dunloe, and the 15th-century Ross Castle.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -15807,7 +16015,8 @@
     "knownFor": "Georgian planned town beneath Croagh Patrick pilgrimage mountain, with a pretty quayside Mall and Clew Bay's drumlin island archipelago.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -15934,7 +16143,8 @@
     "knownFor": "UNESCO basalt hexagonal columns on the Antrim coast, formed 60 million years ago by volcanic activity — Northern Ireland's top attraction.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -16007,7 +16217,8 @@
     "displayName": "Jerusalem, Israel",
     "knownFor": "Holy city for three religions with the Western Wall, Church of the Holy Sepulchre, and Al-Aqsa Mosque sharing the UNESCO Old City walls.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -16061,7 +16272,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -16217,7 +16429,8 @@
     "knownFor": "UNESCO Crusader city with the underground Knights' Halls, an Ottoman bazaar, Bahá'í gardens, and the best hummus in the Galilee.",
     "tags": [
       "history",
-      "food-wine"
+      "food-wine",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -16320,7 +16533,8 @@
     "tags": [
       "nightlife",
       "food-wine",
-      "nature"
+      "nature",
+      "aurora"
     ],
     "source": "curated",
     "stayDays": {
@@ -16348,7 +16562,8 @@
     "tags": [
       "nature",
       "food-wine",
-      "adventure"
+      "adventure",
+      "aurora"
     ],
     "source": "curated",
     "stayDays": {
@@ -16401,7 +16616,8 @@
     "displayName": "Húsavík, Iceland",
     "knownFor": "Whale-watching capital of Europe where humpback, minke, and blue whales are spotted on tours from the colourful harbour.",
     "tags": [
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -16428,7 +16644,8 @@
     "knownFor": "Remote Westfjords capital surrounded by towering fjord walls, with skiing, puffins, and the annual polar music and skiing festival.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -16483,7 +16700,8 @@
     "knownFor": "Lobster capital of Iceland near Jökulsárlón glacier lagoon, with front-row views of the Vatnajökull ice cap and a famous lobster festival.",
     "tags": [
       "food-wine",
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -16537,7 +16755,8 @@
     "knownFor": "East Iceland fjord town with colourful Art Nouveau houses, the ferry to Europe, a rainbow walkway, and the LungA arts festival.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -16564,7 +16783,8 @@
     "knownFor": "Northernmost town on the Troll Peninsula, once herring capital of the world, with a stunning fjord and the award-winning Herring Era Museum.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -16592,7 +16812,8 @@
     "tags": [
       "history",
       "nature",
-      "adventure"
+      "adventure",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -16645,7 +16866,8 @@
     "knownFor": "Highland rhyolite wonderland of rainbow-coloured mountains, steaming geothermal pools, and the starting point for the Laugavegur trek.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -16672,7 +16894,8 @@
     "knownFor": "Jules Verne's entrance to the Earth's centre via the Snæfellsjökull glacier volcano, with seal colonies, lava fields, and charming fishing villages.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -16751,7 +16974,8 @@
     "knownFor": "Town at the gateway to Petra — the Rose-Red City carved in rock by the Nabataeans, Jordan's most visited site and a Wonder of the World.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -16777,7 +17001,8 @@
     "knownFor": "UNESCO desert landscape of soaring red sandstone and granite mountains where Lawrence of Arabia camped, used as Mars in The Martian.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -16906,7 +17131,8 @@
     "knownFor": "Northern highlands town with the Ajloun Castle built to combat the Crusaders, surrounded by oak and pistachio forest biosphere reserve.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -16931,7 +17157,9 @@
     "displayName": "Dana, Jordan",
     "knownFor": "Largest nature reserve in Jordan with Dana Biosphere Reserve villages, ibex herds, and the three-day Wadi Fidan trail to Petra.",
     "tags": [
-      "nature"
+      "nature",
+      "wonders",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -17035,7 +17263,9 @@
     "tags": [
       "nature",
       "history",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -17116,7 +17346,8 @@
     "knownFor": "UNESCO Swahili island city without cars, with donkey-narrow alleys, carved wooden doors, dhow races, and a 700-year trading heritage.",
     "tags": [
       "history",
-      "beaches"
+      "beaches",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -17146,7 +17377,8 @@
       "history",
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -17201,7 +17433,9 @@
     "displayName": "Nakuru, Kenya",
     "knownFor": "Gateway to Lake Nakuru National Park, famous for flamingo flocks, white rhinos, and Rothschild giraffe on the alkaline lake shores.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -17228,7 +17462,8 @@
     "displayName": "Amboseli, Kenya",
     "knownFor": "Small park beneath Kilimanjaro with the most iconic elephant photography in Africa, open grasslands, and views of Africa's highest peak.",
     "tags": [
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -17284,7 +17519,9 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -17312,7 +17549,8 @@
     "knownFor": "Equator-straddling town on Mount Kenya's foothills, gateway to Mount Kenya National Park trekking and the Ol Pejeta Conservancy rhinos.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -17367,7 +17605,9 @@
     "displayName": "Voi, Kenya",
     "knownFor": "Tsavo East gateway town in Kenya's largest national park, famed for the man-eating lions of Tsavo and red-dust elephant herds.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -17422,7 +17662,8 @@
     "knownFor": "Upmarket suburb of Nairobi with the Karen Blixen Museum (Out of Africa), Giraffe Centre, David Sheldrick Elephant Orphanage.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -17451,7 +17692,8 @@
     "tags": [
       "history",
       "nature",
-      "food-wine"
+      "food-wine",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -17580,7 +17822,8 @@
     "knownFor": "4000 Islands hammock haven in the Mekong where rare Irrawaddy dolphins and Li Phi waterfalls reward those who make the southern journey.",
     "tags": [
       "nature",
-      "beaches"
+      "beaches",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -17685,7 +17928,8 @@
     "displayName": "Huay Xai, Laos",
     "knownFor": "Border crossing from Thailand with the 2-day Gibbon Experience zip-lining and overnight tree-house stays in the Bokeo Nature Reserve.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -17711,7 +17955,8 @@
     "knownFor": "Gateway to the mysterious UNESCO Plain of Jars — an Iron Age megalithic burial site with thousands of stone urns on an upland plateau.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -17813,7 +18058,8 @@
     "knownFor": "UNESCO Dutch colonial fort town on the southern coast with cricket inside the ramparts, boutique hotels in colonial mansions, and Galle Literary Festival.",
     "tags": [
       "history",
-      "beaches"
+      "beaches",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -17862,7 +18108,8 @@
     "displayName": "Anuradhapura, Sri Lanka",
     "knownFor": "UNESCO ancient capital with the Sacred Bo Tree — the oldest historically documented tree on Earth — and gigantic Dagobas of early Buddhism.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -17886,7 +18133,8 @@
     "displayName": "Polonnaruwa, Sri Lanka",
     "knownFor": "UNESCO medieval capital with the Gal Vihara recumbent Buddha carved into granite and the 12th-century city's well-preserved moat and citadel.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -18014,7 +18262,8 @@
     "knownFor": "West-coast beach resort near the Bentota River wildlife sanctuary with water sports, turtle hatcheries, and Geoffrey Bawa's Lunuganga estate.",
     "tags": [
       "beaches",
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -18040,7 +18289,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -18090,7 +18340,8 @@
     "displayName": "Dambulla, Sri Lanka",
     "knownFor": "UNESCO Golden Rock Temple with five cave shrines containing 157 statues and 2200-year-old murals inside a 160-m-high natural rockface.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -18116,7 +18367,9 @@
     "tags": [
       "nature",
       "history",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -18515,7 +18768,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -18567,7 +18821,8 @@
     "knownFor": "UNESCO Penang street-food capital with Hokkien, Nyonya, and Malay cuisines merging in coffeeshops, plus Lee Clan Jetties and street-art murals.",
     "tags": [
       "food-wine",
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -18594,7 +18849,8 @@
       "beaches",
       "nature",
       "shopping",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -18645,7 +18901,8 @@
     "knownFor": "UNESCO trading port of the Sultanate era with Portuguese, Dutch, and British layers in Jonker Street shophouses and Nyonya cuisine.",
     "tags": [
       "history",
-      "food-wine"
+      "food-wine",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -18747,7 +19004,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -18771,7 +19029,8 @@
     "displayName": "Miri, Malaysia",
     "knownFor": "Gateway to Gunung Mulu National Park — home to the world's largest cave chamber, Deer Cave's millions of bats, and Pinnacles rock formations.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -18848,7 +19107,8 @@
     "displayName": "Sandakan, Malaysia",
     "knownFor": "Sabah's former capital near the Sepilok Orang-utan Rehabilitation Centre and Kinabatangan River wildlife corridor for proboscis monkeys.",
     "tags": [
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -18873,7 +19133,9 @@
     "knownFor": "Gateway to Taman Negara, Peninsular Malaysia's oldest rainforest national park, for canopy walks, jungle trekking, and river safaris.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -19237,7 +19499,8 @@
     "tags": [
       "nature",
       "food-wine",
-      "beaches"
+      "beaches",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -19263,7 +19526,8 @@
     "knownFor": "WWII Bridge Too Far city with the Airborne Museum at Hartenstein, the Kröller-Müller Van Gogh collection, and the Hoge Veluwe National Park.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -19289,7 +19553,8 @@
     "knownFor": "Zeeland capital with a magnificent Abbey complex, windmills on the delta, and the gateway to the Oosterschelde national park seal trips.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -19315,7 +19580,8 @@
     "knownFor": "Norwegian capital with the Viking Ship Museum, Vigeland Sculpture Park, the Munch Museum, and a harbour revitalised by the Snøhetta Opera House.",
     "tags": [
       "history",
-      "food-wine"
+      "food-wine",
+      "aurora"
     ],
     "source": "curated",
     "stayDays": {
@@ -19343,7 +19609,8 @@
     "tags": [
       "history",
       "food-wine",
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -19370,7 +19637,9 @@
     "knownFor": "Arctic capital above the tree line at 69°N with Europe's best Northern Lights viewing, dog-sledding, whale safaris, and the Midnight Sun.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife",
+      "aurora"
     ],
     "source": "curated",
     "stayDays": {
@@ -19396,7 +19665,8 @@
     "displayName": "Flåm, Norway",
     "knownFor": "Terminus of the Flåmsbana — one of the world's steepest railway journeys down a cliff-face — at the head of the Aurlandsfjord.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -19423,7 +19693,8 @@
     "knownFor": "Art Nouveau city rebuilt after a 1904 fire, spectacularly set on islands with the Geirangerfjord nearby and sea-eagle watching.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -19451,7 +19722,8 @@
     "tags": [
       "nature",
       "history",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -19479,7 +19751,8 @@
     "tags": [
       "nature",
       "food-wine",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -19505,7 +19778,9 @@
     "displayName": "Geiranger, Norway",
     "knownFor": "UNESCO Geirangerfjord with the Seven Sisters and Suitor waterfalls tumbling into the deep fjord — arguably the most dramatic fjord scenery.",
     "tags": [
-      "nature"
+      "nature",
+      "wonders",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -19559,7 +19834,8 @@
     "knownFor": "Norway's medieval capital with the UNESCO Nidaros Cathedral — Scandinavia's largest Gothic building — and the Bakklandet neighbourhood wooden houses.",
     "tags": [
       "history",
-      "food-wine"
+      "food-wine",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -19585,7 +19861,8 @@
     "displayName": "Bodø, Norway",
     "knownFor": "Arctic city above the Saltstraumen maelstrom — the world's strongest tidal current — gateway to the Lofoten Islands and summer midnight sun.",
     "tags": [
-      "nature"
+      "nature",
+      "aurora"
     ],
     "source": "curated",
     "stayDays": {
@@ -19639,7 +19916,9 @@
     "knownFor": "Alta Museum's UNESCO rock carvings — the largest collection of prehistoric petroglyphs in Northern Europe — in Norway's Northern Lights capital.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders",
+      "aurora"
     ],
     "source": "curated",
     "stayDays": {
@@ -19666,7 +19945,8 @@
     "knownFor": "Adrenaline capital of Scandinavia with Norway's largest ski area, bungee jumping, skydiving, paragliding, and kayaking on the Hardangerfjord.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -19694,7 +19974,9 @@
     "tags": [
       "nature",
       "beaches",
-      "adventure"
+      "adventure",
+      "aurora",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -19773,7 +20055,9 @@
     "knownFor": "Gateway village to Chitwan National Park where elephant-back safaris, canoe rides, and rhino-watching in tall grass are the main attractions.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -19798,7 +20082,8 @@
     "displayName": "Bhaktapur, Nepal",
     "knownFor": "Best-preserved medieval city in the Kathmandu Valley, a UNESCO World Heritage site of Newari architecture, pottery squares, and 55-window palace.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -19849,7 +20134,8 @@
     "displayName": "Lumbini, Nepal",
     "knownFor": "UNESCO birthplace of Siddhartha Gautama (the Buddha) with the Sacred Garden pilgrimage site and the Ashoka pillar marking the exact spot.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -20084,7 +20370,8 @@
     "tags": [
       "nature",
       "nightlife",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -20162,7 +20449,8 @@
     "knownFor": "Scottish-heritage city with a world-famous railway station, the Otago Peninsula yellow-eyed penguins, and New Zealand's oldest university.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -20240,7 +20528,8 @@
     "knownFor": "Bay of Islands hub with Waitangi Treaty Grounds, dolphin cruises, the Hole in the Rock, and swimming with dolphins.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -20342,7 +20631,8 @@
     "knownFor": "Marine wildlife hot-spot where the Kaikōura Canyon enables sperm whale sightings year-round, plus fur seal colonies and dolphin swims.",
     "tags": [
       "nature",
-      "food-wine"
+      "food-wine",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -20369,7 +20659,8 @@
     "tags": [
       "nature",
       "beaches",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -20394,7 +20685,8 @@
     "displayName": "Franz Josef, New Zealand",
     "knownFor": "West Coast glacier town where the Franz Josef and Fox glaciers descend through rainforest nearly to sea level — helicopter guided walks available.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -20524,7 +20816,8 @@
     "knownFor": "Musandam exclave on the Strait of Hormuz with dramatic fjord-like khors, dolphin dhow cruises, and a Portuguese fort above the harbour.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -20601,7 +20894,8 @@
     "displayName": "Bahla, Oman",
     "knownFor": "UNESCO town with the largest mud-brick fort in Oman — Bahla Fort — and a famous tradition of pottery and the Jinn (spirits) of folklore.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -20627,7 +20921,8 @@
     "knownFor": "Emerging industrial-free zone on Oman's Arabian Sea coast with natural rock bridges, Jurassic fossil fields, and whale shark diving.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -20678,7 +20973,9 @@
     "displayName": "Paracas, Peru",
     "knownFor": "Desert-meets-ocean wildlife reserve on the Pisco coast with Ballestas Islands sea-lion and penguin colonies and flamingo lagoons.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -20704,7 +21001,8 @@
     "knownFor": "Sacred Valley market town with an Inca citadel above the Urubamba River, Sunday craft market, and pre-Columbian agricultural terraces.",
     "tags": [
       "history",
-      "shopping"
+      "shopping",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -20729,7 +21027,8 @@
     "displayName": "Chivay, Peru",
     "knownFor": "Colca Canyon gateway town at 3633 m where condors soar on thermal updrafts in the world's deepest canyon, twice as deep as the Grand Canyon.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -20782,7 +21081,8 @@
     "knownFor": "Visayas hub with Magellan's Cross, the Basilica Minore, whale shark swimming at Oslob, and the Sinulog Festival of Santo Niño.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -20809,7 +21109,9 @@
     "knownFor": "Palawan capital and gateway to the UNESCO Puerto Princesa Subterranean River, Ugong Rock caves, and Honda Bay island hopping.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "wonders",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -20948,7 +21250,8 @@
     "knownFor": "UNESCO Spanish colonial city with calesa horse-drawn carriages clattering on cobblestone Calle Crisologo and the best longanisa sausage.",
     "tags": [
       "history",
-      "food-wine"
+      "food-wine",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -21031,7 +21334,8 @@
     "knownFor": "University city on Negros Oriental called the City of Gentle People, gateway to Apo Island's world-class marine sanctuary and sea turtle dives.",
     "tags": [
       "nature",
-      "nightlife"
+      "nightlife",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -21140,7 +21444,8 @@
     "knownFor": "UNESCO Ifugao rice terraces carved 2000 years ago — the Eighth Wonder of the World — reaching 1500 m above sea level in the Cordillera.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -21169,7 +21474,8 @@
       "history",
       "food-wine",
       "nightlife",
-      "street-food"
+      "street-food",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -21352,7 +21658,8 @@
     "displayName": "Białowieża, Poland",
     "knownFor": "UNESCO primeval forest on the Belarus border, home to Europe's largest land animal — the European bison — and ancient 600-year-old oaks.",
     "tags": [
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -21378,7 +21685,8 @@
     "knownFor": "UNESCO Gothic Hanseatic city, birthplace of Copernicus, with perfectly preserved medieval walls and gingerbread baked since the Middle Ages.",
     "tags": [
       "history",
-      "food-wine"
+      "food-wine",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -21454,7 +21762,8 @@
     "displayName": "Malbork, Poland",
     "knownFor": "UNESCO Teutonic Knights fortress — the largest brick castle in the world — on the Nogat River, a medieval complex of cathedral, armory, and palaces.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -21505,7 +21814,8 @@
     "displayName": "Wieliczka, Poland",
     "knownFor": "UNESCO salt mine near Kraków with 287 km of underground passages, chapels, lakes, and chandeliers carved entirely from rock salt.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -21558,7 +21868,8 @@
     "tags": [
       "history",
       "food-wine",
-      "shopping"
+      "shopping",
+      "aurora"
     ],
     "source": "curated",
     "stayDays": {
@@ -21654,7 +21965,8 @@
     "knownFor": "Iron-mining city above the Arctic Circle being relocated to escape subsidence, with the original Ice Hotel, dog-sledding, and Northern Lights.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "aurora"
     ],
     "source": "curated",
     "stayDays": {
@@ -21678,7 +21990,8 @@
     "knownFor": "Gotland's UNESCO medieval walled city — Sweden's best-preserved medieval town — with the Week of Valborg festival and Baltic island summers.",
     "tags": [
       "history",
-      "beaches"
+      "beaches",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -21702,7 +22015,8 @@
     "knownFor": "Lappland research station with the world's best Aurora Sky Station for guaranteed Northern Lights, STF mountain station, and Kungsleden hiking.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "aurora"
     ],
     "source": "curated",
     "stayDays": {
@@ -21751,7 +22065,8 @@
     "knownFor": "UNESCO Falun Copper Mine that drove Sweden's 17th-century great power era, with Falun Red paint produced from the mine's by-products.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -21822,7 +22137,9 @@
     "tags": [
       "history",
       "nature",
-      "adventure"
+      "adventure",
+      "wonders",
+      "aurora"
     ],
     "source": "curated",
     "stayDays": {
@@ -22071,7 +22388,8 @@
     "knownFor": "Death Railway city where Allied POWs built the bridge over the River Kwai, with WWII memorials, jungle waterfalls, and elephant sanctuaries.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -22124,7 +22442,8 @@
     "knownFor": "UNESCO Medina on the Cap Bon coast with a ribat fortress, the Catacombs of the Good Shepherd, and a lively beach resort strip.",
     "tags": [
       "history",
-      "beaches"
+      "beaches",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -22331,7 +22650,8 @@
     "displayName": "El Jem, Tunisia",
     "knownFor": "One of the world's greatest Roman amphitheatres — the Thysdrus Colosseum — rising unexpectedly from a small market town, seating 35,000.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -22359,7 +22679,8 @@
       "history",
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -22645,7 +22966,8 @@
     "displayName": "Selçuk, Turkey",
     "knownFor": "Gateway town to the Temple of Artemis (one of the Seven Wonders) and the Library of Celsus at Ephesus, with stork nests on every ruin.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -22671,7 +22993,8 @@
     "knownFor": "UNESCO Cotton Castle of white travertine terraces with thermal pools cascading down a cliff, above the ancient city of Hierapolis.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -22984,7 +23307,8 @@
     "tags": [
       "nature",
       "history",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -23036,7 +23360,9 @@
       "beaches",
       "nightlife",
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -23085,7 +23411,8 @@
     "displayName": "Taroko Gorge, Taiwan",
     "knownFor": "Marble-walled national park gorge of the Liwu River with the Tunnel of Nine Turns, Swallow Grotto, and suspension bridges above the rapids.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -23187,7 +23514,8 @@
       "beaches",
       "nature",
       "history",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -23264,7 +23592,8 @@
     "tags": [
       "history",
       "food-wine",
-      "street-food"
+      "street-food",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -23290,7 +23619,9 @@
     "knownFor": "Safari capital of Tanzania between Kilimanjaro and Serengeti, gateway to the northern circuit and the Arusha National Park colobus forests.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -23316,7 +23647,8 @@
     "knownFor": "Tanzania's largest city and commercial hub on the Indian Ocean, with the National Museum's Zinj skull, the Kariakoo Market, and ferry to Zanzibar.",
     "tags": [
       "history",
-      "food-wine"
+      "food-wine",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -23369,7 +23701,8 @@
     "tags": [
       "nature",
       "food-wine",
-      "adventure"
+      "adventure",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -23394,7 +23727,8 @@
     "displayName": "Serengeti, Tanzania",
     "knownFor": "World's most famous national park where 2 million wildebeest migrate in the Great Migration, with the densest lion population in Africa.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -23420,7 +23754,8 @@
     "knownFor": "Northern Zanzibar beach village with dhow-building yards, a sea turtle rescue sanctuary, and some of the best sunset beach bars.",
     "tags": [
       "beaches",
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -23446,7 +23781,9 @@
     "knownFor": "Compact national park below the Rift Valley escarpment with tree-climbing lions, flamingo flocks on the alkaline lake, and ground-level elephant herds.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -23473,7 +23810,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -23575,7 +23913,9 @@
     "displayName": "Ngorongoro Crater, Tanzania",
     "knownFor": "UNESCO World Heritage caldera — the world's largest unflooded volcanic caldera — sheltering a closed ecosystem with lion, rhino, and flamingo.",
     "tags": [
-      "nature"
+      "nature",
+      "wonders",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -23602,7 +23942,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -23628,7 +23969,8 @@
     "knownFor": "Highland town with Ruaha National Park nearby — Tanzania's largest and least crowded park with rare wild dog, sable antelope, and great cats.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -23655,7 +23997,8 @@
     "tags": [
       "history",
       "shopping",
-      "food-wine"
+      "food-wine",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -23683,7 +24026,8 @@
       "history",
       "food-wine",
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -23709,7 +24053,8 @@
     "knownFor": "Economic hub of Africa with Apartheid Museum, Soweto, the Cradle of Humankind UNESCO site, and a reinvented Maboneng creative district.",
     "tags": [
       "history",
-      "nightlife"
+      "nightlife",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -23791,7 +24136,8 @@
     "knownFor": "Garden Route lagoon town with the twin Heads rock formations, the Knysna Oyster Festival, Elephant Forest, and a forested hinterland.",
     "tags": [
       "nature",
-      "food-wine"
+      "food-wine",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -23870,7 +24216,9 @@
     "displayName": "Kruger National Park, South Africa",
     "knownFor": "Africa's most celebrated wildlife reserve with the Big Five — lion, leopard, rhino, elephant, and buffalo — in pristine bushveld.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -23898,7 +24246,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -23979,7 +24328,9 @@
     "tags": [
       "nature",
       "history",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -24086,7 +24437,8 @@
     "displayName": "Olomouc, Czech Republic",
     "knownFor": "Moravian university city with six UNESCO Baroque fountains, the Holy Trinity Column, Wenceslas Cathedral, and far fewer tourists than Prague.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -24190,7 +24542,8 @@
     "knownFor": "Ancient Hausa city with a 500-year-old dye pit, the Kurmi Market, the Emir's Palace, and Kano's famous groundnut pyramids history.",
     "tags": [
       "history",
-      "shopping"
+      "shopping",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -24215,7 +24568,8 @@
     "displayName": "Ibadan, Nigeria",
     "knownFor": "Nigeria's second-largest city and university town with Transwonderland theme park, Bower's Tower, and Agodi Botanical Gardens.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -24241,7 +24595,9 @@
     "knownFor": "Nigeria's cleanest city with the Calabar Carnival — Africa's biggest street party — and Cross River National Park's drills and gorillas.",
     "tags": [
       "nightlife",
-      "nature"
+      "nature",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -24266,7 +24622,8 @@
     "displayName": "Jos, Nigeria",
     "knownFor": "Plateau city 1200 m above sea level with a wildlife park, Tin Mine Hills, and cool year-round temperatures in Nigeria's Middle Belt.",
     "tags": [
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -24496,7 +24853,8 @@
     "knownFor": "UNESCO walled city of 99 mosques with the unique nightly hyena feeding ritual, colourful markets, and Arthur Rimbaud's house.",
     "tags": [
       "history",
-      "food-wine"
+      "food-wine",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -24548,7 +24906,9 @@
     "knownFor": "Gateway to Nechisar National Park above the twin Abaya and Chamo lakes, with croc-boat safaris and traditional Dorze woven huts.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -24676,7 +25036,8 @@
     "knownFor": "UNESCO slave-trade capital with Cape Coast Castle, Elmina Castle — the oldest European building in sub-Saharan Africa — and Kakum canopy walk.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -24726,7 +25087,8 @@
     "knownFor": "Northern Ghana city with the Larabanga Mosque — the oldest mosque in sub-Saharan Africa — and gateway to the Mole National Park.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -24826,7 +25188,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -24877,7 +25240,8 @@
     "displayName": "Gorée Island, Senegal",
     "knownFor": "UNESCO island off Dakar with the House of Slaves and its Door of No Return — a powerful memorial to the Atlantic slave trade.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -24902,7 +25266,9 @@
     "displayName": "Saint-Louis, Senegal",
     "knownFor": "UNESCO colonial island city on the Senegal River with French Creole architecture, the Langue de Barbarie flamingo park, and Jazz Festival.",
     "tags": [
-      "history"
+      "history",
+      "wonders",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -24927,7 +25293,8 @@
     "displayName": "Ziguinchor, Senegal",
     "knownFor": "Casamance gateway with a relaxed tropical atmosphere, riverboat trips through mangroves, and the forested Basse Casamance National Park.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -24977,7 +25344,8 @@
     "displayName": "Sine-Saloum Delta, Senegal",
     "knownFor": "UNESCO delta of mangrove creeks, burial mounds, and fishing villages — a paradise for birds and pirogue boat trips.",
     "tags": [
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -25030,7 +25398,8 @@
     "displayName": "Entebbe, Uganda",
     "knownFor": "Gateway city on Lake Victoria with Uganda Wildlife Education Centre, botanical gardens, and boat trips to the Ngamba Island chimp sanctuary.",
     "tags": [
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -25084,7 +25453,8 @@
     "knownFor": "Rwenzori Mountains gateway with the crater lakes of Kibale Forest, chimp tracking in Kibale National Park, and Rwenzori trekking.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -25111,7 +25481,9 @@
     "knownFor": "UNESCO Impenetrable Forest with half of all remaining mountain gorillas, offering the most sought-after gorilla trekking permits in Africa.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "wonders",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -25138,7 +25510,9 @@
     "knownFor": "Uganda's largest national park where the Nile forces through a 7-metre gap, with boat safaris past hippos, crocs, and elephants.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -25164,7 +25538,8 @@
     "displayName": "Kabale, Uganda",
     "knownFor": "Switzerland of Africa at 2000 m with terraced hillsides, Lake Bunyonyi boat trips, and the gateway to Rwanda's gorilla parks.",
     "tags": [
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -25190,7 +25565,9 @@
     "displayName": "Kisoro, Uganda",
     "knownFor": "Southwest Uganda corner town with the Mgahinga Gorilla National Park and golden monkey tracking, golden sunset views of the Virunga volcanoes.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -25270,7 +25647,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -25297,7 +25675,10 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "wildlife",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -25323,7 +25704,8 @@
     "knownFor": "UNESCO island with 500 years of Portuguese-Arab-Swahili history, the oldest European fortification in sub-Saharan Africa, Fort São Sebastião.",
     "tags": [
       "history",
-      "beaches"
+      "beaches",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -25350,7 +25732,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -25375,7 +25758,8 @@
     "displayName": "Gorongosa, Mozambique",
     "knownFor": "Mozambique's ecological recovery miracle where lions, buffalo, and elephants have been reintroduced after civil war, with lion camera tracking.",
     "tags": [
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -25453,7 +25837,9 @@
     "knownFor": "Africa's finest wildlife park with legendary night drives and walking safaris with Norman Carr — the lion density rivals Serengeti.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -25479,7 +25865,8 @@
     "knownFor": "Remote floodplain park where canoe safaris between grazing elephants and hippos define Africa's most intimate wildlife experience.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -25504,7 +25891,8 @@
     "displayName": "Kafue, Zambia",
     "knownFor": "Zambia's oldest national park — one of Africa's largest — with Busanga Plains wild dog packs and world-class fishing.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -25529,7 +25917,8 @@
     "displayName": "Kasanka, Zambia",
     "knownFor": "Hidden bat migration wonder where 10 million straw-coloured fruit bats descend on the swamp forest — the largest mammal migration on Earth.",
     "tags": [
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -25581,7 +25970,8 @@
     "knownFor": "Second city of Zimbabwe with beautiful Art Deco streets, the Natural History Museum, and gateway to Hwange National Park and Matobo Hills.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -25607,7 +25997,8 @@
     "knownFor": "The Smoke That Thunders — one of the Seven Natural Wonders of the World — with bungee jumping from the bridge, Game drives, and Livingstone Island.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -25632,7 +26023,8 @@
     "displayName": "Great Zimbabwe, Zimbabwe",
     "knownFor": "Largest ancient stone structure in sub-Saharan Africa, a UNESCO medieval capital that gave Zimbabwe its name, near Masvingo.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -25657,7 +26049,9 @@
     "displayName": "Hwange, Zimbabwe",
     "knownFor": "Zimbabwe's largest national park with the biggest elephant population in Africa — 45,000 — and rare African wild dogs in the teak forests.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -25684,7 +26078,8 @@
     "tags": [
       "history",
       "nature",
-      "adventure"
+      "adventure",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -25710,7 +26105,8 @@
     "knownFor": "Zambia-Zimbabwe border town on the vast Kariba reservoir with houseboat safaris, tiger fishing, and the Kariba Dam wall walk.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -25761,7 +26157,8 @@
     "knownFor": "Africa's fastest-growing capital with the Three Dikgosi Monument, Mokolodi Nature Reserve, and the National Museum of Botswana.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -25787,7 +26184,8 @@
     "knownFor": "Okavango Delta gateway town with mokoro dugout canoe safaris into the world's largest inland delta and spectacular wildlife.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -25812,7 +26210,9 @@
     "displayName": "Kasane, Botswana",
     "knownFor": "Chobe National Park gateway at the four-countries corner (Botswana, Zambia, Zimbabwe, Namibia) with the highest elephant density anywhere.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -25837,7 +26237,8 @@
     "displayName": "Okavango Delta, Botswana",
     "knownFor": "UNESCO World Heritage inland delta fed by Angola's rainfall, supporting lions, hippos, wild dogs, and 500 bird species in a desert oasis.",
     "tags": [
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -25992,7 +26393,9 @@
     "displayName": "Etosha, Namibia",
     "knownFor": "Salt-pan national park where floodlit waterholes attract lions, elephants, rhinos, and thousands of flamingos at night.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -26018,7 +26421,8 @@
     "knownFor": "Second largest canyon in the world after the Grand Canyon, with a challenging 5-day hiking trail through the 160-km gorge.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -26043,7 +26447,8 @@
     "displayName": "Twyfelfontein, Namibia",
     "knownFor": "UNESCO site with over 2000 rock engravings made by San people 6000 years ago in the Aba-Huab River valley.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -26120,7 +26525,9 @@
     "knownFor": "Gateway to Volcanoes National Park for mountain gorilla trekking and golden monkey encounters in the Virunga volcanic range.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -26199,7 +26606,8 @@
     "displayName": "Volcanoes NP, Rwanda",
     "knownFor": "Home to the largest group of habituated mountain gorillas in the world, plus Dian Fossey's Karisoke Research Centre and the lone Canopy zip.",
     "tags": [
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -26280,7 +26688,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -26306,7 +26715,9 @@
     "tags": [
       "nature",
       "beaches",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -26331,7 +26742,8 @@
     "knownFor": "Betsileo highland city with Malagasy wine, the Train de la Côte Est scenic railway through rice terraces, and the Ranomafana lemur forest.",
     "tags": [
       "nature",
-      "food-wine"
+      "food-wine",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -26379,7 +26791,9 @@
     "displayName": "Diego Suarez, Madagascar",
     "knownFor": "Northern base for the Amber Mountain National Park, the emerald Montagne d'Ambre, the Bay of Diego and Lokobe lemur reserve.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -26403,7 +26817,8 @@
     "displayName": "Andasibe, Madagascar",
     "knownFor": "Easiest accessible lemur park near Antananarivo with the Indri — the world's largest lemur — whose haunting call echoes through the forest.",
     "tags": [
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -26427,7 +26842,8 @@
     "displayName": "Algiers, Algeria",
     "knownFor": "White City on a hill with the UNESCO Casbah of labyrinthine Ottoman alleys, French-colonial boulevards, and a stunning Mediterranean bay.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -26480,7 +26896,8 @@
     "displayName": "Tlemcen, Algeria",
     "knownFor": "Medieval Islamic capital of Algeria with the magnificent Mosque of Mansourah ruins, Umayyad mosaics, and the Tlemcen National Park.",
     "tags": [
-      "history"
+      "history",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -26532,7 +26949,8 @@
     "displayName": "Ghardaïa, Algeria",
     "knownFor": "UNESCO pentapolis of M'Zab valley Berber cities designed by the Ibadi Muslim community, an architectural masterpiece of the Sahara.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -26558,7 +26976,8 @@
     "displayName": "Timgad, Algeria",
     "knownFor": "UNESCO Roman Thamugadi — the Pompeii of North Africa — a perfectly preserved Roman garrison city frozen since the Arab conquest.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -26612,7 +27031,8 @@
     "knownFor": "Coastal UNESCO Roman ruins where Albert Camus meditated, with Juba II's mausoleum (Royal Mausoleum of Mauretania) and Phoenician Tipaza.",
     "tags": [
       "history",
-      "beaches"
+      "beaches",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -26690,7 +27110,8 @@
     "displayName": "Leptis Magna, Libya",
     "knownFor": "The best-preserved Roman city in the world — UNESCO Leptis Magna — birthplace of Emperor Septimius Severus with a colosseum and forum.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -26716,7 +27137,8 @@
     "displayName": "Sabratha, Libya",
     "knownFor": "UNESCO Phoenician and Roman UNESCO city with the spectacular Theatre of Sabratha rising against the Mediterranean Sea.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -26742,7 +27164,8 @@
     "displayName": "Ghadames, Libya",
     "knownFor": "UNESCO pearl of the desert — a 4000-year-old oasis city of white mud-brick houses with rooftop passages built to shade women.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -26795,7 +27218,8 @@
     "knownFor": "Highland city with a replica Christ the Redeemer statue, the Serra da Leba mountain pass, and the Tundavala gorge.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -26820,7 +27244,9 @@
     "knownFor": "Coastal town at the edge of the Namib desert with Angola's best beaches, flamingo lagoons, and the Iona National Park desert wildlife.",
     "tags": [
       "beaches",
-      "nature"
+      "nature",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -26844,7 +27270,8 @@
     "displayName": "Malanje, Angola",
     "knownFor": "Gateway to the Kalandula Falls — one of Africa's largest waterfalls — and the Pungo Andongo black rocks of the Kissama National Park.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -26942,7 +27369,8 @@
     "knownFor": "Black-sand volcanic beach resort at the foot of Mount Cameroon, with the Limbe Wildlife Centre and Botanical Garden.",
     "tags": [
       "beaches",
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -27016,7 +27444,8 @@
     "displayName": "Waza National Park, Cameroon",
     "knownFor": "Sahelian park in the Far North with lions, elephants, giraffes, and Kob antelope in one of the most accessible parks in Central Africa.",
     "tags": [
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -27114,7 +27543,8 @@
     "knownFor": "UNESCO colonial city — the former French capital — with crumbling colonial mansions, artisan market, and the best beach outside Abidjan.",
     "tags": [
       "history",
-      "beaches"
+      "beaches",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -27211,7 +27641,8 @@
     "displayName": "Meroë, Sudan",
     "knownFor": "Ancient Kushite capital with the largest collection of pyramids in the world — over 200 — rising from the Nubian desert.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -27237,7 +27668,8 @@
     "tags": [
       "beaches",
       "nature",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {
@@ -27381,7 +27813,8 @@
     "tags": [
       "nature",
       "history",
-      "adventure"
+      "adventure",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -27429,7 +27862,9 @@
     "knownFor": "Africa's oldest national park with mountain gorillas, okapis, chimpanzees, and the Nyiragongo lava-lake volcano crater hike.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -27506,7 +27941,8 @@
     "tags": [
       "nature",
       "beaches",
-      "adventure"
+      "adventure",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -27559,7 +27995,9 @@
     "knownFor": "Liwonde National Park gateway where hippos line every bank, black rhinos have returned, and an intimate boat safari reveals wildlife.",
     "tags": [
       "nature",
-      "adventure"
+      "adventure",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -27735,7 +28173,9 @@
     "displayName": "Sapo National Park, Liberia",
     "knownFor": "West Africa's largest rainforest national park with pygmy hippos, forest elephants, and the Putu forest chimpanzee corridor.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -27811,7 +28251,8 @@
     "knownFor": "Central Togo plateau town with Togolese traditional stilt-dancer culture and the Malfakassa-Défalé Nature Reserve waterfalls.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -27861,7 +28302,9 @@
     "displayName": "Abomey, Benin",
     "knownFor": "UNESCO royal palace complex of the Kingdom of Dahomey — the slave-trading empire — with Amazon warrior bas-reliefs and thrones of skulls.",
     "tags": [
-      "history"
+      "history",
+      "wonders",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -27984,7 +28427,8 @@
     "knownFor": "UNESCO Tuareg desert sultanate with a 16th-century mud minaret mosque and a gateway to the Aïr Mountains and Ténéré Desert crossing.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -28033,7 +28477,9 @@
     "knownFor": "UNESCO volcanic mountain range in the Ténéré Desert with Tuareg nomads, rock engravings, and rare Saharan wildlife.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "wonders",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -28082,7 +28528,8 @@
     "displayName": "Timbuktu, Mali",
     "knownFor": "UNESCO city of salt, gold, and slaves at the edge of the Sahara, with three ancient mud-brick mosques and medieval university libraries.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -28131,7 +28578,8 @@
     "displayName": "Djenné, Mali",
     "knownFor": "UNESCO city with the Grand Mosque of Djenné — the largest mud-brick building in the world — replastered every year by hand.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -28255,7 +28703,8 @@
     "knownFor": "Africa's smallest capital on a sand spit with the Arch 22 monument, the National Museum, and the birdwatching from Lamin Lodge.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -28428,7 +28877,10 @@
     "knownFor": "UNESCO biosphere of 88 islands with endemic saltwater hippos, nesting sea turtles, and Bijagó matriarchal island culture.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "wonders",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -28475,7 +28927,9 @@
     "displayName": "Bata, Equatorial Guinea",
     "knownFor": "Mainland capital on the Gulf of Guinea with the Abasolo Rainforest reserve and Monte Alén National Park gorilla tracking.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -28523,7 +28977,8 @@
     "knownFor": "Gabon's oil capital on the Atlantic with access to the Fernan Vaz Lagoon, gorillas of the Loango Complex, and fishing on the Ogoue delta.",
     "tags": [
       "nature",
-      "beaches"
+      "beaches",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -28547,7 +29002,9 @@
     "knownFor": "UNESCO site at the heart of the Congo Basin with forest elephants, mandrills, gorillas, and ancient stone tool quarries.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "wonders",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -28594,7 +29051,9 @@
     "knownFor": "Congo's Atlantic port city with Conkouati-Douli National Park, gorilla sanctuaries, sea turtle nesting, and offshore fishing.",
     "tags": [
       "nature",
-      "beaches"
+      "beaches",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -28617,7 +29076,9 @@
     "displayName": "Odzala-Kokoua NP, Congo",
     "knownFor": "Remote Central Africa rainforest park with western lowland gorillas, forest elephants, and bongo antelopes in pristine Congo Basin forest.",
     "tags": [
-      "nature"
+      "nature",
+      "national-parks",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -28664,7 +29125,9 @@
     "displayName": "Dzanga-Sangha, CAR",
     "knownFor": "UNESCO reserve where western lowland gorillas, forest elephants, and bongos gather at Ba'aka Pygmy forest clearings (bais).",
     "tags": [
-      "nature"
+      "nature",
+      "wonders",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -28712,7 +29175,8 @@
     "displayName": "Zakouma National Park, Chad",
     "knownFor": "African comeback story where elephants, lions, and wild dogs have recovered spectacularly under armed ranger protection.",
     "tags": [
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -28738,7 +29202,8 @@
     "tags": [
       "history",
       "nature",
-      "adventure"
+      "adventure",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -28787,7 +29252,8 @@
     "knownFor": "Oldest town in Djibouti with five white minarets, traditional dhow building, and forest trails in the Day Forest National Park.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -28811,7 +29277,8 @@
     "displayName": "Asmara, Eritrea",
     "knownFor": "UNESCO modernist capital — the Miami of Africa — with the finest collection of Art Deco and Futurist Italian colonial architecture in the world.",
     "tags": [
-      "history"
+      "history",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -28939,7 +29406,8 @@
     "knownFor": "Swazi capital in the Ezulwini Valley with the Swazi Market and gateway to Mlilwane Wildlife Sanctuary with white rhino.",
     "tags": [
       "history",
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -28985,7 +29453,8 @@
     "displayName": "Hlane Royal NP, Eswatini",
     "knownFor": "King's royal hunting ground with lions, white rhinos, and elephants in one of southern Africa's most accessible big game parks.",
     "tags": [
-      "nature"
+      "nature",
+      "wildlife"
     ],
     "source": "curated",
     "stayDays": {
@@ -29084,7 +29553,8 @@
       "history",
       "food-wine",
       "shopping",
-      "street-food"
+      "street-food",
+      "wonders"
     ],
     "source": "curated",
     "stayDays": {
@@ -29138,7 +29608,8 @@
     "tags": [
       "history",
       "beaches",
-      "adventure"
+      "adventure",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -29348,7 +29819,9 @@
     "knownFor": "UNESCO Biosphere Reserve island of pristine Atlantic rainforest, endemic birds, and the famous 1919 Eddington eclipse observation site.",
     "tags": [
       "nature",
-      "history"
+      "history",
+      "wonders",
+      "national-parks"
     ],
     "source": "curated",
     "stayDays": {
@@ -29397,7 +29870,8 @@
     "tags": [
       "history",
       "beaches",
-      "adventure"
+      "adventure",
+      "islands"
     ],
     "source": "curated",
     "stayDays": {

@@ -76,19 +76,25 @@ function TripInfo({ content }: { content: CityContent }) {
 }
 
 const TAG_COLORS: Record<InterestTag, { bg: string; text: string }> = {
-  nature:        { bg: 'bg-emerald-50',  text: 'text-emerald-700' },
-  beaches:       { bg: 'bg-teal-50',     text: 'text-teal-700' },
-  adventure:     { bg: 'bg-green-50',    text: 'text-green-700' },
-  'food-wine':   { bg: 'bg-amber-50',    text: 'text-amber-700' },
-  'street-food': { bg: 'bg-orange-50',   text: 'text-orange-700' },
-  history:       { bg: 'bg-blue-50',     text: 'text-blue-700' },
-  shopping:      { bg: 'bg-purple-50',   text: 'text-purple-700' },
-  nightlife:     { bg: 'bg-rose-50',     text: 'text-rose-700' },
+  nature:           { bg: 'bg-emerald-50',  text: 'text-emerald-700' },
+  beaches:          { bg: 'bg-teal-50',     text: 'text-teal-700' },
+  adventure:        { bg: 'bg-green-50',    text: 'text-green-700' },
+  'food-wine':      { bg: 'bg-amber-50',    text: 'text-amber-700' },
+  'street-food':    { bg: 'bg-orange-50',   text: 'text-orange-700' },
+  history:          { bg: 'bg-blue-50',     text: 'text-blue-700' },
+  shopping:         { bg: 'bg-purple-50',   text: 'text-purple-700' },
+  nightlife:        { bg: 'bg-rose-50',     text: 'text-rose-700' },
+  wonders:          { bg: 'bg-yellow-50',   text: 'text-yellow-800' },
+  'national-parks': { bg: 'bg-lime-50',     text: 'text-lime-800' },
+  wildlife:         { bg: 'bg-amber-50',    text: 'text-amber-800' },
+  aurora:           { bg: 'bg-violet-50',   text: 'text-violet-700' },
+  islands:          { bg: 'bg-cyan-50',     text: 'text-cyan-700' },
 };
 
 const TAG_ICONS: Record<InterestTag, string> = {
   nature: '🌿', beaches: '🏖', adventure: '🧗', 'food-wine': '🍷',
   'street-food': '🍜', history: '🏛', shopping: '🛍', nightlife: '✦',
+  wonders: '🗺', 'national-parks': '🏕', wildlife: '🐘', aurora: '✨', islands: '🏝',
 };
 
 export function CityPanel() {

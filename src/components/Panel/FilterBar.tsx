@@ -4,25 +4,35 @@ import { ALL_TAGS, TAG_LABELS } from '../../lib/constants';
 import type { InterestTag } from '../../types';
 
 const TAG_ICONS: Record<InterestTag, string> = {
-  nature:        '🌿',
-  beaches:       '🏖',
-  adventure:     '🧗',
-  'food-wine':   '🍷',
-  'street-food': '🍜',
-  history:       '🏛',
-  shopping:      '🛍',
-  nightlife:     '✦',
+  nature:           '🌿',
+  beaches:          '🏖',
+  adventure:        '🧗',
+  'food-wine':      '🍷',
+  'street-food':    '🍜',
+  history:          '🏛',
+  shopping:         '🛍',
+  nightlife:        '✦',
+  wonders:          '🗺',
+  'national-parks': '🏕',
+  wildlife:         '🐘',
+  aurora:           '✨',
+  islands:          '🏝',
 };
 
 const TAG_ACTIVE_COLORS: Record<InterestTag, { bg: string; border: string }> = {
-  nature:        { bg: '#2F8A6E', border: '#2F8A6E' },
-  beaches:       { bg: '#2F948A', border: '#2F948A' },
-  adventure:     { bg: '#4A7C59', border: '#4A7C59' },
-  'food-wine':   { bg: '#C99A3B', border: '#C99A3B' },
-  'street-food': { bg: '#B86A2E', border: '#B86A2E' },
-  history:       { bg: '#2B5C9A', border: '#2B5C9A' },
-  shopping:      { bg: '#9A5CB4', border: '#9A5CB4' },
-  nightlife:     { bg: '#C56A3F', border: '#C56A3F' },
+  nature:           { bg: '#2F8A6E', border: '#2F8A6E' },
+  beaches:          { bg: '#2F948A', border: '#2F948A' },
+  adventure:        { bg: '#4A7C59', border: '#4A7C59' },
+  'food-wine':      { bg: '#C99A3B', border: '#C99A3B' },
+  'street-food':    { bg: '#B86A2E', border: '#B86A2E' },
+  history:          { bg: '#2B5C9A', border: '#2B5C9A' },
+  shopping:         { bg: '#9A5CB4', border: '#9A5CB4' },
+  nightlife:        { bg: '#C56A3F', border: '#C56A3F' },
+  wonders:          { bg: '#7A4F2E', border: '#7A4F2E' },
+  'national-parks': { bg: '#3A6B3A', border: '#3A6B3A' },
+  wildlife:         { bg: '#8A6B1E', border: '#8A6B1E' },
+  aurora:           { bg: '#4A2B7A', border: '#4A2B7A' },
+  islands:          { bg: '#1E7A8A', border: '#1E7A8A' },
 };
 
 export function FilterBar() {

@@ -9,14 +9,19 @@ import type { City, InterestTag } from '../../types';
 import type { CountryConfig } from '../../types';
 
 const TAG_COLORS: Record<InterestTag, string> = {
-  nature:        '#2F8A6E',
-  beaches:       '#2F948A',
-  adventure:     '#4A7C59',
-  'food-wine':   '#C99A3B',
-  'street-food': '#B86A2E',
-  history:       '#2B5C9A',
-  shopping:      '#9A5CB4',
-  nightlife:     '#C56A3F',
+  nature:           '#2F8A6E',
+  beaches:          '#2F948A',
+  adventure:        '#4A7C59',
+  'food-wine':      '#C99A3B',
+  'street-food':    '#B86A2E',
+  history:          '#2B5C9A',
+  shopping:         '#9A5CB4',
+  nightlife:        '#C56A3F',
+  wonders:          '#7A4F2E',
+  'national-parks': '#3A6B3A',
+  wildlife:         '#8A6B1E',
+  aurora:           '#4A2B7A',
+  islands:          '#1E7A8A',
 };
 
 function getPinColor(city: City): string {
