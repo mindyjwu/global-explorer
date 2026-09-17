@@ -154,6 +154,145 @@ function restyleBasemap(map: maplibregl.Map) {
   }
 }
 
+// Generates a latitude parallel as a dense LineString for correct globe rendering
+function parallelLine(lat: number) {
+  return {
+    type: 'Feature' as const,
+    properties: {},
+    geometry: {
+      type: 'LineString' as const,
+      coordinates: Array.from({ length: 91 }, (_, i) => [i * 4 - 180, lat] as [number, number]),
+    },
+  };
+}
+
+function fc(...features: object[]) {
+  return { type: 'FeatureCollection' as const, features };
+}
+
+// Adds geographic reference lines, ocean names, and country name labels
+function addAnnotations(map: maplibregl.Map) {
+  // --- Geographic reference lines (behind country fills) ---
+
+  // Equator — solid cobalt blue
+  map.addSource('anno-equator', { type: 'geojson', data: fc(parallelLine(0)) });
+  map.addLayer({
+    id: 'anno-equator', type: 'line', source: 'anno-equator', maxzoom: 6,
+    paint: { 'line-color': '#2B5C9A', 'line-width': 1.2, 'line-opacity': 0.5 },
+  });
+
+  // Tropics of Cancer & Capricorn — amber dashed
+  map.addSource('anno-tropics', { type: 'geojson', data: fc(parallelLine(23.44), parallelLine(-23.44)) });
+  map.addLayer({
+    id: 'anno-tropics', type: 'line', source: 'anno-tropics', maxzoom: 6,
+    paint: { 'line-color': '#C99A3B', 'line-width': 0.9, 'line-opacity': 0.45, 'line-dasharray': [5, 4] },
+  });
+
+  // Arctic & Antarctic circles — green dotted
+  map.addSource('anno-arctic', { type: 'geojson', data: fc(parallelLine(66.56), parallelLine(-66.56)) });
+  map.addLayer({
+    id: 'anno-arctic', type: 'line', source: 'anno-arctic', maxzoom: 6,
+    paint: { 'line-color': '#4A7C59', 'line-width': 0.8, 'line-opacity': 0.4, 'line-dasharray': [2, 5] },
+  });
+
+  // --- Ocean, sea, and geo-line text labels ---
+  const LABEL_POINTS = [
+    // Major oceans
+    { c: [-140,  5],   t: 'PACIFIC OCEAN',        k: 'ocean' },
+    { c: [ -30, 12],   t: 'ATLANTIC OCEAN',        k: 'ocean' },
+    { c: [  75,-25],   t: 'INDIAN OCEAN',           k: 'ocean' },
+    { c: [   0, 83],   t: 'ARCTIC OCEAN',           k: 'ocean' },
+    { c: [   0,-58],   t: 'SOUTHERN OCEAN',         k: 'ocean' },
+    // Seas / gulfs
+    { c: [  18, 36],   t: 'Mediterranean Sea',      k: 'sea' },
+    { c: [ -75, 15],   t: 'Caribbean Sea',          k: 'sea' },
+    { c: [ 114, 14],   t: 'South China Sea',        k: 'sea' },
+    { c: [  40, 14],   t: 'Red Sea',                k: 'sea' },
+    { c: [  51, 27],   t: 'Persian Gulf',           k: 'sea' },
+    { c: [  30, 44],   t: 'Black Sea',              k: 'sea' },
+    { c: [  25, 59],   t: 'Baltic Sea',             k: 'sea' },
+    { c: [-100, 26],   t: 'Gulf of Mexico',         k: 'sea' },
+    // Geographic line labels (placed at right edge near dateline)
+    { c: [ 170,  1],   t: 'Equator',               k: 'geoline' },
+    { c: [ 170, 24],   t: 'Tropic of Cancer',       k: 'geoline' },
+    { c: [ 170,-24],   t: 'Tropic of Capricorn',    k: 'geoline' },
+    { c: [ 170, 67],   t: 'Arctic Circle',          k: 'geoline' },
+    { c: [ 170,-67],   t: 'Antarctic Circle',       k: 'geoline' },
+  ];
+
+  map.addSource('anno-labels', {
+    type: 'geojson',
+    data: {
+      type: 'FeatureCollection',
+      features: LABEL_POINTS.map(f => ({
+        type: 'Feature' as const,
+        properties: { label: f.t, kind: f.k },
+        geometry: { type: 'Point' as const, coordinates: f.c },
+      })),
+    },
+  });
+
+  // Ocean names — large, spaced tracking, italic-style
+  map.addLayer({
+    id: 'anno-ocean-text', type: 'symbol', source: 'anno-labels',
+    filter: ['==', ['get', 'kind'], 'ocean'],
+    maxzoom: 5,
+    layout: {
+      'text-field': ['get', 'label'],
+      'text-font': ['Noto Sans Regular', 'Open Sans Regular'],
+      'text-size': ['interpolate', ['linear'], ['zoom'], 1.5, 9, 4, 12],
+      'text-letter-spacing': 0.2,
+      'text-max-width': 10,
+    },
+    paint: {
+      'text-color': '#1E4A7A',
+      'text-opacity': 0.6,
+      'text-halo-color': 'rgba(201,222,227,0.5)',
+      'text-halo-width': 1.2,
+    },
+  });
+
+  // Sea / gulf names — smaller
+  map.addLayer({
+    id: 'anno-sea-text', type: 'symbol', source: 'anno-labels',
+    filter: ['==', ['get', 'kind'], 'sea'],
+    minzoom: 2.5, maxzoom: 6,
+    layout: {
+      'text-field': ['get', 'label'],
+      'text-font': ['Noto Sans Regular', 'Open Sans Regular'],
+      'text-size': 8,
+      'text-letter-spacing': 0.1,
+      'text-max-width': 8,
+    },
+    paint: {
+      'text-color': '#1E4A7A',
+      'text-opacity': 0.5,
+      'text-halo-color': 'rgba(201,222,227,0.4)',
+      'text-halo-width': 1,
+    },
+  });
+
+  // Geo line name labels
+  map.addLayer({
+    id: 'anno-geoline-text', type: 'symbol', source: 'anno-labels',
+    filter: ['==', ['get', 'kind'], 'geoline'],
+    maxzoom: 5,
+    layout: {
+      'text-field': ['get', 'label'],
+      'text-font': ['Noto Sans Regular', 'Open Sans Regular'],
+      'text-size': 7.5,
+      'text-letter-spacing': 0.05,
+      'text-anchor': 'left',
+    },
+    paint: {
+      'text-color': '#2B5C9A',
+      'text-opacity': 0.55,
+      'text-halo-color': 'rgba(245,242,236,0.75)',
+      'text-halo-width': 1.2,
+    },
+  });
+}
+
 export function MapView() {
   const mapContainer = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
@@ -194,6 +333,9 @@ export function MapView() {
       map.setProjection({ type: 'globe' });
       restyleBasemap(map);
 
+      // Geographic lines + ocean/sea labels (drawn behind country fills)
+      addAnnotations(map);
+
       map.addSource('countries', {
         type: 'geojson',
         data: '/data/geo/countries-110m.geojson',
@@ -224,6 +366,27 @@ export function MapView() {
           'line-color': '#2B5C9A',
           'line-width': 0.8,
           'line-opacity': 0.35,
+        },
+      });
+
+      // Country name labels — visible on globe view, fade out when zoomed in
+      map.addLayer({
+        id: 'country-labels',
+        type: 'symbol',
+        source: 'countries',
+        maxzoom: 6.5,
+        layout: {
+          'text-field': ['get', 'name'],
+          'text-font': ['Noto Sans Bold', 'Open Sans Bold'],
+          'text-size': ['interpolate', ['linear'], ['zoom'], 2, 8, 4, 11, 6, 13],
+          'text-max-width': 7,
+          'text-padding': 4,
+        },
+        paint: {
+          'text-color': '#15243A',
+          'text-opacity': ['interpolate', ['linear'], ['zoom'], 5.5, 1, 6.5, 0],
+          'text-halo-color': 'rgba(245,242,236,0.88)',
+          'text-halo-width': 1.8,
         },
       });
 
