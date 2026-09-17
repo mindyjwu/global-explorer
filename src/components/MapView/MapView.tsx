@@ -4,6 +4,7 @@ import 'maplibre-gl/dist/maplibre-gl.css';
 import { useAppState } from '../../store/appState';
 import { loadCities } from '../../lib/cityData';
 import { SUPPORTED_COUNTRIES, MAP_STYLE, GLOBE_ZOOM, GLOBE_CENTER } from '../../lib/constants';
+import { registerContinentFly } from '../UI/ContinentNav';
 import type { City, InterestTag } from '../../types';
 import type { CountryConfig } from '../../types';
 
@@ -153,6 +154,14 @@ export function MapView() {
   const mapRef = useRef<maplibregl.Map | null>(null);
   const markersRef = useRef<maplibregl.Marker[]>([]);
   const flyingRef = useRef(false);
+
+  // Expose a flyTo callback so ContinentNav can trigger continent-level camera moves
+  useEffect(() => {
+    registerContinentFly((center: [number, number], zoom: number) => {
+      mapRef.current?.flyTo({ center, zoom, duration: 1800, essential: true });
+    });
+    return () => registerContinentFly(null);
+  }, []);
 
   const { view, activeCountry, cities, selectedCity, activeFilters, beginFly, setCities, selectCity } =
     useAppState();

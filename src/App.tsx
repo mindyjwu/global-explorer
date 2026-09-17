@@ -5,6 +5,8 @@ import { MetStrip } from './components/Panel/MetStrip';
 import { BackButton } from './components/UI/BackButton';
 import { SearchBar } from './components/UI/SearchBar';
 import { SurpriseMeButton } from './components/UI/SurpriseMeButton';
+import { ContinentNav } from './components/UI/ContinentNav';
+import { TripDrawer } from './components/UI/TripDrawer';
 import { useAppState } from './store/appState';
 import { useUrlSync } from './lib/urlSync';
 
@@ -63,12 +65,14 @@ export default function App() {
       <BackButton />
       <SearchBar />
       <SurpriseMeButton />
+      <ContinentNav />
       <CountryName />
       <GlobeHint />
       <NoCityData />
       <MetStrip />
       <FilterBar />
       <CityPanel />
+      <TripDrawer />
     </div>
   );
 }

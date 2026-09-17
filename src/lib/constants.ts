@@ -139,6 +139,49 @@ export const TAG_LABELS: Record<InterestTag, string> = {
   nightlife:   'Nightlife',
 };
 
+export interface ContinentConfig {
+  name: string;
+  center: [number, number];
+  zoom: number;
+  emoji: string;
+}
+
+export const CONTINENTS: ContinentConfig[] = [
+  { name: 'Europe',       center: [15,  51],  zoom: 3.6, emoji: '🏰' },
+  { name: 'Africa',       center: [20,   2],  zoom: 3.0, emoji: '🌍' },
+  { name: 'Asia',         center: [100, 30],  zoom: 2.9, emoji: '🏯' },
+  { name: 'Middle East',  center: [45,  26],  zoom: 4.0, emoji: '🕌' },
+  { name: 'Americas',     center: [-80, 10],  zoom: 2.5, emoji: '🌎' },
+  { name: 'Oceania',      center: [148,-25],  zoom: 3.5, emoji: '🌊' },
+];
+
+// Maps each supported iso2 to a continent name for breadcrumb display.
+export const COUNTRY_CONTINENT: Record<string, string> = {
+  // Europe
+  PT:'Europe',IT:'Europe',ES:'Europe',FR:'Europe',DE:'Europe',GB:'Europe',IE:'Europe',
+  NL:'Europe',BE:'Europe',CH:'Europe',AT:'Europe',DK:'Europe',SE:'Europe',NO:'Europe',
+  IS:'Europe',PL:'Europe',CZ:'Europe',HU:'Europe',HR:'Europe',GR:'Europe',GE:'Europe',TR:'Europe',
+  // Africa
+  MA:'Africa',EG:'Africa',TN:'Africa',DZ:'Africa',LY:'Africa',ZA:'Africa',KE:'Africa',
+  TZ:'Africa',ET:'Africa',GH:'Africa',NG:'Africa',SN:'Africa',CI:'Africa',CM:'Africa',
+  UG:'Africa',RW:'Africa',ZM:'Africa',ZW:'Africa',BW:'Africa',NA:'Africa',MZ:'Africa',
+  MG:'Africa',MW:'Africa',AO:'Africa',CD:'Africa',CG:'Africa',CF:'Africa',GA:'Africa',
+  BF:'Africa',ML:'Africa',NE:'Africa',TD:'Africa',SD:'Africa',SS:'Africa',ER:'Africa',
+  DJ:'Africa',SO:'Africa',LR:'Africa',SL:'Africa',GN:'Africa',GW:'Africa',GM:'Africa',
+  BJ:'Africa',TG:'Africa',CV:'Africa',KM:'Africa',MU:'Africa',ST:'Africa',SZ:'Africa',
+  LS:'Africa',BI:'Africa',GQ:'Africa',
+  // Asia
+  JP:'Asia',KR:'Asia','CN-TW':'Asia',CN:'Asia',TH:'Asia',VN:'Asia',ID:'Asia',IN:'Asia',
+  KH:'Asia',MM:'Asia',MY:'Asia',PH:'Asia',LA:'Asia',BD:'Asia',NP:'Asia',LK:'Asia',SG:'Asia',
+  // Middle East
+  AE:'Middle East',IL:'Middle East',JO:'Middle East',OM:'Middle East',
+  // Americas
+  MX:'Americas',US:'Americas',CA:'Americas',CR:'Americas',GT:'Americas',CU:'Americas',
+  CO:'Americas',PE:'Americas',AR:'Americas',BR:'Americas',BO:'Americas',CL:'Americas',EC:'Americas',
+  // Oceania
+  AU:'Oceania',NZ:'Oceania',FJ:'Oceania',
+};
+
 // OpenFreeMap liberty style — no API key required
 export const MAP_STYLE = 'https://tiles.openfreemap.org/styles/liberty';
 
