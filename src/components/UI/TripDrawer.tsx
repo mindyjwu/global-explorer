@@ -2,7 +2,6 @@ import { useState, useEffect, useRef } from 'react';
 import { getTripList, removeFromTrip, googleMapsUrl } from '../../lib/tripList';
 import { addToTrip } from '../../lib/tripList';
 import type { TripCity } from '../../lib/tripList';
-import { loadCities } from '../../lib/cityData';
 import { SUPPORTED_COUNTRIES } from '../../lib/constants';
 
 // Map-pin SVG icon (red dot on a pin)
@@ -15,6 +14,11 @@ function PinIcon({ className = 'w-4 h-4' }: { className?: string }) {
   );
 }
 
+interface IndexCity {
+  id: string; n: string; d: string | null; r: string;
+  co: [number, number]; c: string; cn: string;
+}
+
 interface SearchResult {
   id: string;
   name: string;
@@ -23,6 +27,20 @@ interface SearchResult {
   coordinates: [number, number];
   countryIso2: string;
   countryName: string;
+}
+
+// Singleton: load the index once, cache it in module scope
+let indexCache: IndexCity[] | null = null;
+let indexLoading: Promise<IndexCity[]> | null = null;
+
+async function getCityIndex(): Promise<IndexCity[]> {
+  if (indexCache) return indexCache;
+  if (!indexLoading) {
+    indexLoading = fetch('/data/cities-index.json')
+      .then(r => r.json())
+      .then((data: IndexCity[]) => { indexCache = data; return data; });
+  }
+  return indexLoading;
 }
 
 export function TripDrawer() {
@@ -38,50 +56,37 @@ export function TripDrawer() {
   useEffect(() => {
     refresh();
     window.addEventListener('tripListUpdated', refresh);
+    // Pre-warm the index so first search is instant
+    getCityIndex();
     return () => window.removeEventListener('tripListUpdated', refresh);
   }, []);
 
-  // Search cities across all supported countries when query changes
+  // Fast in-memory search against the pre-loaded index
   useEffect(() => {
     if (query.trim().length < 2) { setResults([]); return; }
     setSearching(true);
     const q = query.toLowerCase();
-
-    const run = async () => {
+    const timer = setTimeout(async () => {
+      const index = await getCityIndex();
       const found: SearchResult[] = [];
-      const countryCodes = Object.keys(SUPPORTED_COUNTRIES);
-      // Search a subset of prominent countries for quick results
-      const priority = ['US','GB','FR','IT','ES','DE','JP','AU','BR','MX','PT','GR','TH','IN','ZA','PE','AR','NL','TR','CA'];
-      const ordered = [...priority, ...countryCodes.filter(c => !priority.includes(c))];
-
-      for (const iso2 of ordered) {
-        if (found.length >= 20) break;
-        const cfg = SUPPORTED_COUNTRIES[iso2];
-        try {
-          const cities = await loadCities(cfg.citiesFile);
-          if (!cities) continue;
-          for (const city of cities) {
-            const displayName = city.content?.displayName ?? city.name;
-            if (displayName.toLowerCase().includes(q) || city.name.toLowerCase().includes(q)) {
-              found.push({
-                id: city.id,
-                name: city.name,
-                displayName: city.content?.displayName ?? null,
-                region: city.region,
-                coordinates: city.coordinates,
-                countryIso2: iso2,
-                countryName: cfg.name,
-              });
-            }
-            if (found.length >= 20) break;
-          }
-        } catch { /* skip country */ }
+      for (const city of index) {
+        const label = (city.d ?? city.n).toLowerCase();
+        if (label.includes(q) || city.n.toLowerCase().includes(q)) {
+          found.push({
+            id: city.id,
+            name: city.n,
+            displayName: city.d,
+            region: city.r,
+            coordinates: city.co,
+            countryIso2: city.c,
+            countryName: city.cn,
+          });
+          if (found.length >= 20) break;
+        }
       }
       setResults(found);
       setSearching(false);
-    };
-
-    const timer = setTimeout(run, 350);
+    }, 120);
     return () => clearTimeout(timer);
   }, [query]);
 
