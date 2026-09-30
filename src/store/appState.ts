@@ -8,6 +8,7 @@ interface AppState {
   selectedCity: City | null;
   activeFilters: InterestTag[];
   isLoading: boolean;
+  mapReady: boolean;
   // actions
   beginFly: (country: CountryConfig) => void;
   setCities: (cities: City[] | null) => void;
@@ -15,6 +16,7 @@ interface AppState {
   selectCity: (city: City | null) => void;
   toggleFilter: (tag: InterestTag) => void;
   clearFilters: () => void;
+  setMapReady: () => void;
 }
 
 export const useAppState = create<AppState>((set) => ({
@@ -24,6 +26,7 @@ export const useAppState = create<AppState>((set) => ({
   selectedCity: null,
   activeFilters: [],
   isLoading: false,
+  mapReady: false,
 
   // Atomically transitions to country view + marks loading in one set() call
   // so there's never a frame where view=country && !isLoading && cities=[] (empty state flash)
@@ -37,6 +40,9 @@ export const useAppState = create<AppState>((set) => ({
     set({ view: 'globe', activeCountry: null, cities: [], selectedCity: null, activeFilters: [], isLoading: false }),
 
   selectCity: (city) => set({ selectedCity: city }),
+
+  // Flipped once when MapLibre reports the first complete render (hides the loader).
+  setMapReady: () => set({ mapReady: true }),
 
   toggleFilter: (tag) =>
     set((s) => ({

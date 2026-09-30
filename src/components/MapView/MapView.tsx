@@ -324,6 +324,10 @@ export function MapView() {
 
     map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-right');
 
+    // First visually complete render: let the loader fade out. Registered separately
+    // from the big load handler below so a failure there can't strand the loader.
+    map.once('load', () => useAppState.getState().setMapReady());
+
     map.on('error', (e) => {
       console.error('[MapLibre]', e.error);
     });
